@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jan/projects/geektheviking"
+	],
+	"file_history":
+	[
+		"/home/jan/projects/postbox.eu/postboxportal/untitled.sublime-project",
+		"/home/jan/projects/postbox.eu/postboxtemplate/config/_default/hugo.toml",
+		"/home/jan/projects/postbox.eu/postboxtemplate/static/images/logo.svg",
+		"/home/jan/projects/postbox.eu/postboxtemplate/layouts/_default/sitemap.xml",
+		"/home/jan/projects/postbox.eu/postboxtemplate/assets/js/main.js",
+		"/home/jan/projects/postbox.eu/postboxtemplate/data/settings.json",
+		"/home/jan/projects/postbox.eu/postboxtemplate/templates/md_template.md",
+		"/home/jan/projects/postbox.eu/postboxtemplate/layouts/_default/single.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/templates/partial_html_template.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/assets/css/custom.css",
+		"/home/jan/projects/postbox.eu/postboxtemplate/layouts/partials/footer.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/layouts/partials/head.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/yml_template.yml",
+		"/home/jan/projects/postbox.eu/postboxtemplate/layouts/_default/baseof.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/README.md",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/README-INTERNAL.md",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/FREA-X_WORKFLOW.md",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/head_html_working.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/css_template.css",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/footer_html_working.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/md_template.md",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/xml_template.xml",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/svg_template.svg",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/toml_template.toml",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/partial_html_template.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/json_template.json",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/js_template.js",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/baseof_html_template.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/html_html_template.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/css_working.css",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/baseof_html_working.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/workingfiles/html_working.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/template/baseof_html_template.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/template/footer_html_template.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/template/html_template.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/layouts/baseof.html",
+		"/home/jan/projects/postbox.eu/postboxtemplate/template/md_template.md",
+		"/home/jan/projects/postbox.eu/postboxportal/config/_default/hugo.toml",
+		"/home/jan/projects/postbox.eu/postboxlogin/config/_default/hugo.toml",
+		"/home/jan/projects/postbox/i18n/fr.yaml",
+		"/home/jan/projects/postbox/i18n/en.yaml",
+		"/home/jan/projects/postbox/i18n/da.yaml",
+		"/home/jan/projects/postbox/static/css/landingpage.css",
+		"/home/jan/projects/postbox/static/js/quotes.js",
+		"/home/jan/projects/postbox/layouts/_default/list.html",
+		"/home/jan/projects/postbox/layouts/index.html",
+		"/home/jan/projects/postbox/layouts/_default/baseof.html",
+		"/home/jan/projects/postbox/hugo.toml",
+		"/home/jan/projects/postbox.eu/i18n/da.yaml",
+		"/home/jan/projects/postbox.eu/layouts/_default/baseof.html",
+		"/home/jan/projects/postbox.eu/layouts/_default/single.html",
+		"/home/jan/projects/postbox.eu/layouts/_default/list.html",
+		"/home/jan/projects/frea-x.com/assets/css/freax.css",
+		"/home/jan/projects/frea-x.com/layouts/index.html",
+		"/home/jan/projects/frea-x.com/content/postbox.md",
+		"/home/jan/projects/frea-x.com/content/protocol.md",
+		"/home/jan/projects/frea-x.com/content/not-a-page.md",
+		"/home/jan/projects/frea-x.com/content/index.md",
+		"/home/jan/projects/frea-x.com/static/js/dont-push.js",
+		"/home/jan/projects/frea-x.com/static/js/bluetooth-chaos.js",
+		"/home/jan/projects/postbox.eu/static/css/landingpage.css",
+		"/home/jan/projects/postbox.eu/layouts/index.html",
+		"/home/jan/projects/postbox.eu/static/css/dashboard.css",
+		"/home/jan/projects/postbox.eu/static/app/en/dashboard.html",
+		"/home/jan/projects/postbox.eu/layouts/dashboard/list.html",
+		"/home/jan/projects/postbox-eu-hextra/content/frea-x/hall-of-heroes.da.md",
+		"/home/jan/projects/postbox-eu-hextra/content/frea-x/_index.en.md",
+		"/home/jan/projects/postbox-eu-hextra/content/frea-x/_index.da.md",
+		"/home/jan/projects/postbox-eu-hextra/layouts/index.html",
+		"/home/jan/projects/postbox-eu-hextra/static/images/site.webmanifest",
+		"/home/jan/projects/postbox-eu-hextra/layouts/landing/single.html",
+		"/home/jan/projects/postbox-eu-hextra/hugo.yaml",
+		"/home/jan/projects/postbox-eu-hextra/content/da/epost/_index.md",
+		"/home/jan/projects/postbox-eu-hextra/content/_index.md",
+		"/home/jan/projects/postbox-eu/content/en/epost/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/archive/_index.md",
+		"/home/jan/projects/postbox-eu/config/_default/menus.da.toml",
+		"/home/jan/projects/postbox-eu/config/_default/menus.en.toml",
+		"/home/jan/projects/postbox-eu/config/_default/menus.fr.toml",
+		"/home/jan/projects/postbox-eu/config/_default/hugo.toml",
+		"/home/jan/projects/postbox-eu/layouts/partials/sidebar.html",
+		"/home/jan/projects/postbox-eu/content/da/epost/inbox/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/sent/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/drafts/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/trash/_index.md",
+		"/home/jan/projects/postbox-eu/content/en/epost/archive/_index.md",
+		"/home/jan/projects/postbox-eu/content/en/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/mails/sikker/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/chat/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/privatliv/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/indstillinger/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/ai/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/filer/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/kontakter/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/kalender/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/mails/papirkurv.md",
+		"/home/jan/projects/postbox-eu/content/da/mails/arkiv.md",
+		"/home/jan/projects/postbox-eu/content/da/mails/spam.md",
+		"/home/jan/projects/postbox-eu/content/da/mails/kladder.md",
+		"/home/jan/projects/postbox-eu/content/da/mails/sendt.md",
+		"/home/jan/projects/postbox-eu/content/da/mails/indbakke.md",
+		"/home/jan/projects/postbox-eu/content/da/mails/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/epostpapirkurv/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/epostarkiv/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/epostkladder/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/epostsendt/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/epostindbakke/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/dashboard/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/post/_index.md",
+		"/home/jan/projects/postbox-eu/content/da/post/postarkiv.md",
+		"/home/jan/projects/postbox-eu/content/da/epost/epostsendt.md",
+		"/home/jan/projects/postbox-eu/content/da/post/postindbakke.md",
+		"/home/jan/projects/postbox-eu/content/da/post/postsendt.md",
+		"/home/jan/projects/postbox-eu/content/da/post/postkladder.md",
+		"/home/jan/projects/postbox-eu/content/da/post/postpapirkurv.md",
+		"/home/jan/projects/postbox-eu/config/_default/menus/menus.en.toml",
+		"/home/jan/projects/postbox-eu/config/_default/menus/menus.da.toml",
+		"/home/jan/projects/postbox-eu/static/css/dashboard.css",
+		"/home/jan/projects/postbox-eu/content/da/ai.md",
+		"/home/jan/projects/postbox-eu/layouts/partials/custom-header.html",
+		"/home/jan/projects/postbox-eu/layouts/partials/footer.html",
+		"/home/jan/projects/postbox-eu/config/_default/menus/menus.fr.toml",
+		"/home/jan/projects/postbox-eu/content/en/mail/inbox.md",
+		"/home/jan/projects/postbox-eu/bak_hugo.toml",
+		"/home/jan/projects/postbox-eu/hugo.toml",
+		"/home/jan/projects/postbox-eu/content/da/filer/filer.md"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "geektheviking.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/projects/frea-x.com/untitled.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
