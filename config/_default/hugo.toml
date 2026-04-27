@@ -1,0 +1,13 @@
+baseURL = "https://geektheviking.com/"
+title = "Geek The Viking"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+[params]
+  description = "To infinity... and beyond, CyberSpace"
+  version = "Coffe Cup 1"
+
+[markup] 
+[markup.goldmark] 
+[markup.goldmark.renderer]
+      unsafe = true
