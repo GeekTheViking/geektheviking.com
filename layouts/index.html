@@ -1,103 +1,148 @@
 <!DOCTYPE html>
-<!-- Frea-X 2.0 v0.0.42 | License to Exploit -->
+<!-- 
+  geektheviking.com | Geek The Viking - Mascot of Frea-X
+  License: "License to Exploit"
+  Purpose: CyberSpace adventure of CyberShip crew
+  Author: Geek The Viking (Frea-X Exploer)
+-->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Geek The Viking</title>
-    <meta name="description" content="Geek The Viking">
+    <meta name="description" content="Geek The Viking - Frea-X 2.0 Mascot">
+    <!-- 
+      CORE STYLES:
+      - freax.css: Main styling for Frea-X 2.0 / GTV identity
+      - Color Palette: Lilla (#4a1862) + Cyan (#00ffcc)
+    -->
     <link rel="stylesheet" href="{{ "css/freax.css" | relURL }}">
     <link rel="icon" type="image/x-icon" href="{{ "images/favicon.ico" | relURL }}">
 </head>
 <body>
 
+  <!-- NAVIGATION: Main menu for Frea-X ecosystem -->
   <nav class="fx-nav">
     <div class="fx-nav-logo">Geek The Viking</div>
-    <ul class="fx-nav-links">
-      <li><a href="{{ "workflow/" | relURL }}">Workflow</a></li>
-      <li><a href="{{ "archaeology/" | relURL }}">Archaeology</a></li>
-      <li><a href="{{ "gtv/" | relURL }}">Geek The Viking</a></li>
-      <li><a href="{{ "approved/" | relURL }}">Approved By Frea-X</a></li>
-      <li><a href="{{ "ai-quality/" | relURL }}">AI & IT Quality</a></li>
-      <li><a href="{{ "cyberspace/" | relURL }}">Cyberspace</a></li>
-      <li><a href="{{ "eastereggs/" | relURL }}">Easter Eggs & Citations</a></li>
+    <ul class="fx-nav-links">      
+      <li><a href="{{ "archaeology/" | relURL }}">[Archaeology]</a></li>
+      <li><a href="{{ "cyberspace/" | relURL }}">[Cyberspace]</a></li>
+      <li><a href="{{ "eastereggs/" | relURL }}">[Longship]</a></li>
+       <li><a href="{{ "gtv/" | relURL }}">[Geek The Viking]</a></li>
     </ul>
   </nav>
 
   <main class="fx-main">
 
+    <!-- HERO SECTION: Primary Brand Identity -->
     <div class="fx-hero">
-      <p class="fx-tagline">Geek The Viking</p>
-      <h1 class="fx-brand">Geek The Viking <span>In live</span></h1>
-      <p class="fx-version">·&nbsp; Coffe Cup 1 &nbsp;·</p>
-      <p class="fx-quote">"The more you know, the more you know you don't know."</p>
+        <!-- GTV Mascot Logo: The visual anchor -->
+        <div class="fx-mascot">
+            <img src="/images/geektheviking2.png" alt="GTV Mascot" class="fx-logo">
+        </div>
+
+        <!-- 
+          TEXT HIERARCHY:
+          1. fx-brand (H1): "GEEK THE VIKING" - Primary Identity (Cyan)
+          2. fx-subtitle (P): "LICENSE TO EXPLOIT" - Tagline (Lilla)
+          3. fx-quote (P): Citations/Philosophy (Cyan/Glow)
+        -->
+        <h1 class="fx-brand">
+            <span class="fx-brand-text">GEEK THE VIKING</span>
+        </h1>
+
+        <!-- Subtitle 1: The Motto -->
+        <p class="fx-subtitle">·&nbsp; LICENSE TO EXPLOIT &nbsp;·</p>
+
+        <!-- Subtitle 2: The Philosophy (JFK quote adapted) -->
+        <p class="fx-subtitle">· Ask not what the CyberSpace can do for you - ask what you can do for the CyberSpace ·</p>
+
+        <!-- Quote: Emotional hook -->
+        <p class="fx-quote">"To Infinity... and Beyond, CyberSpace!"</p>
     </div>
 
     <hr class="fx-hr">
 
+    <!-- PROJECTS SECTION: Showcasing Frea-X ecosystem -->
     <section class="fx-projects">
-      <h2>Built on the Mantra, Principles and Concepts of Frea-X</h2>
-      <div class="fx-cards">
-        <div class="fx-card">
-          <h3>POSTBOX.EU</h3>
-          <p>European Digital Sovereignty Communication Platform and Stack</p>
-          <a href="https://postbox.eu" class="fx-btn" target="_blank">Explore →</a>
+        <!-- 
+          SECTION TITLE: 
+          Fixed capitalization for consistency (was: "EASTER EGGS /\ CIATIONS")
+          Now: "EASTER EGGS & CITATIONS"
+        -->
+        <h2 class="fx-section-title">LONGSHIP</h2>
+        
+        <div class="fx-cards">
+            <!-- Project Card: POSTBOX.EU -->
+            <div class="fx-card">
+                <h3 class="fx-card-title">NICE TO KNOW..</h3>
+                <p class="fx-card-desc">EASTER EGGS...</p>
+                <a href="https://postbox.eu" class="fx-btn" target="_blank">Explore →</a>
+            </div>
+
+            <!-- Project Card: FRANKENSTEIN AI -->
+            <div class="fx-card">
+                <h3 class="fx-card-title">GOOD TO KNOW...</h3>
+                <p class="fx-card-desc">CIATIONS.</p>
+                <a href="{{ "ai-quality/" | relURL }}" class="fx-btn">Explore →</a>
+            </div>
         </div>
-        <div class="fx-card">
-          <h3>FRANKENSTEIN AI</h3>
-          <p>AI Assistant — built from the best parts of the past. C++ muscle, Linux heart, GNU soul.</p>
-          <a href="{{ "ai-quality/" | relURL }}" class="fx-btn">Explore →</a>
-        </div>
-      </div>
     </section>
 
     <hr class="fx-hr">
 
+    <!-- PRINCIPLES SECTION: GTV Cloud Hacker Protocol -->
     <section class="fx-principles">
-      <h2>GTV Cloud Hacker Protocol</h2>
-      <div class="fx-tags">
-        <span>OPEN SOURCE</span>
-        <span>GREEN IT</span>
-        <span>SOVEREIGN STACK</span>
-        <span>DATA FREEDOM</span>
-        <span>HUMAN CENTRIC</span>
-        <span>FROM PEOPLE TO INDIVIDUALS</span>
-        <span>HUMAN TO HUMAN</span>
-        <span>SCRAP- &amp; JUNKYARD CLUSTER</span>
-        <span>HYBRID AI</span>
-        <span>HOLISTISK CYBERETIK</span>
-        <span>SYNTETISK EKSISTENTIALISME</span>
-        <span>AI &amp; IT UNDER HUMAN CONTROL</span> 
-      </div>
+        <h2 class="fx-section-title">SHIP BALLAST</h2>
+        <div class="fx-tags">
+            <!-- 
+              FX-TAGS: 
+              These are the core principles. 
+              Color: White or Cyan depending on contrast needs.
+            -->
+            <span class="fx-tag">FREA-X 2.0</span>
+            <span class="fx-tag">OPEN SOURCE</span>
+            <span class="fx-tag">GREEN IT</span>
+            <span class="fx-tag">DATA SOVEREIGNTY</span>
+            <span class="fx-tag">DATA FREEDOM</span>
+            <span class="fx-tag">HUMAN CENTRIC</span>
+            <span class="fx-tag">FROM PEOPLE TO INDIVIDUALS</span>
+            <span class="fx-tag">HUMAN TO HUMAN</span>
+            <span class="fx-tag">SCRAP- &amp; JUNKYARD CLUSTER</span>
+            <span class="fx-tag">HYBRID AI</span>
+            <span class="fx-tag">HOLISTISK CYBERETIK</span>
+            <span class="fx-tag">SYNTETISK EKSISTENTIALISME</span>
+            <span class="fx-tag">AI &amp; IT UNDER HUMAN CONTROL</span> 
+            <span class="fx-tag">DATA RIGHTS</span>  
+        </div>
     </section>
 
     <hr class="fx-hr">
 
+    <!-- THE GAP SECTION: Conceptual explanation -->
     <section class="fx-gap">
-      <h2>The Frea-X Gap</h2>
-      <p>The world sees IT, Internet and AI as something <em>"finished"</em> — capable of everything, nearly at 100%.</p>
-      <p>Frea-X sees: an infinite digital universe, where we have barely scratched the surface of the first <strong>0.042%</strong>.</p>
-      <p>We don't have all the answers. We have barely understood 1% of the tools we ourselves created.<br>
-      Frea-X is not the destination — it is the compass to the remaining <strong>99.958%</strong> of the digital unknown.</p>
+        <h2 class="fx-section-title">WORLD OF THE GEEKS</h2>
+        <p>NEED SOME NEW TEXT <em>"SOMETHING"</em> — capable of give mening to someone, nearly at 100% will not undterstand it.</p>
+        <p>A Geek sees: an infinite digital universe, where only geeks have barely scratched the surface of the first <strong>nothing.</strong>.</p>
+        <p>Geeks don't have all the answers. Everyone have barely understood 0.042% of the tools we ourselves created.<br>
+        To be finsh is not the destination — it is the compass to the remaining <strong>99.958%</strong> of the digital unknown.</p>
     </section>
 
     <hr class="fx-hr">
 
-    <div class="fx-control-tag">[ Geek The Viking ]</div>
-
-    <div class="fx-mascot">
-      <img src="{{ "images/geektheviking2.png" | relURL }}" alt="Geek the Viking" class="fx-logo">
-    </div>
+    <!-- CLOSING TAG: Brand reinforcement -->
+    <div class="fx-control-tag">[ Build on love to Tech & IT ]</div>
 
   </main>
 
+  <!-- FOOTER: Standard info + Easter Egg link -->
   <footer class="fx-footer">
-    <p>The R&amp;D Lab · Exploited by Geek The Viking</p>
-    <p>Frea-X Agent v0.0.42 · License to Exploit</p>
-    <p>To infinity... and beyond, CyberSpace</p>
-    <p><a href="https://github.com/GeekTheViking/frea-x.com" target="_blank">Live Documentation via GitHub</a></p>
+    <p class="fx-footer-text">The R&amp;D Lab · Exploited by Geek The Viking</p>
+    <p class="fx-footer-text">Frea-X Explore · License to Exploit</p>
+    <p class="fx-footer-text">To infinity... and beyond, CyberSpace</p>
+    <p class="fx-footer-text"><a href="https://github.com/GeekTheViking/frea-x.com" target="_blank">Live Documentation via GitHub</a></p>
     <p class="fx-easter">
-      <a href="{{ "not-a-page/" | relURL }}">The truk — Don't push this button</a>
+        <a href="{{ "not-a-page/" | relURL }}">The truk — Don't push this button</a>
     </p>
   </footer>
 
