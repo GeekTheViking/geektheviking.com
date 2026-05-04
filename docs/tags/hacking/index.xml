@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacking on Geek The Viking</title>
+    <link>https://geektheviking.com/tags/hacking/</link>
+    <description>Recent content in Hacking on Geek The Viking</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://geektheviking.com/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Scan: 192.168.0.1</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The best bug is the one you never find, but the one you fix before it becomes a feature.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;This echo reminds us that security is not a goal, but a process. Every time we scan our network, we find new things to improve. And even though 192.168.0.1 is safe, it is never a guarantee for the future.&lt;/p&gt;&#xA;&lt;p&gt;Keep your eyes open, and keep your network secure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

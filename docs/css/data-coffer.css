@@ -1,0 +1,180 @@
+/* Data-Coffer Test Layout: Taleboble - Med billede-mascot */
+.gtv-container {
+  display: flex;
+  min-height: 80vh;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #4a1862;
+  color: #00FFFF;
+  gap: 3rem;
+  align-items: center;
+}
+
+.gtv-mascot {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 280px;
+  position: relative;
+}
+
+/* Billed-mascot styling */
+.gtv-mascot-img {
+  max-width: 100%;
+  height: auto;
+  max-height: 400px; /* Begræns højden for at passe i kolonnen */
+  object-fit: contain; /* Sikrer at billedet beholdes proportioner */
+  display: block;
+  filter: drop-shadow(0 0 10px rgba(0, 255, 255, 0.7)); /* Neon-effekt */
+}
+
+.gtv-bubble-area {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.gtv-bubble {
+  background-color: #ffffff;
+  color: #333333;
+  padding: 3rem;
+  border-radius: 25px 25px 25px 5px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+  position: relative;
+  width: 100%;
+  border: 3px solid #8A2BE2;
+}
+
+/* Talemærket (hale) - Peger mod midten af venstre kolonne */
+.gtv-bubble::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: -30px;
+  transform: translateY(-50%);
+  border-width: 25px 25px 25px 0;
+  border-style: solid;
+  border-color: transparent #8A2BE2 transparent transparent;
+  filter: drop-shadow(-2px 0 3px rgba(0,0,0,0.1));
+}
+
+/* Indre hale (hvid) */
+.gtv-bubble::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: -24px;
+  transform: translateY(-50%);
+  border-width: 20px 20px 20px 0;
+  border-style: solid;
+  border-color: transparent #ffffff transparent transparent;
+}
+
+.gtv-title {
+  color: #8A2BE2;
+  font-size: 2.2rem;
+  margin-bottom: 1.8rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-bottom: 2px solid #00FFFF;
+  padding-bottom: 0.8rem;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.gtv-body {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  color: #222;
+}
+
+/* Mobil tilpasning */
+@media (max-width: 768px) {
+  .gtv-container {
+    flex-direction: column;
+    padding: 1.5rem;
+    gap: 2rem;
+  }
+  .gtv-mascot {
+    min-height: 200px;
+    margin-bottom: 1rem;
+  }
+  .gtv-bubble {
+    border-radius: 20px;
+    padding: 2rem;
+  }
+  .gtv-bubble::before,
+  .gtv-bubble::after {
+    display: none;
+  }
+}
+
+/* Data-Coffer Liste Layout Styling */
+.dv-hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  margin-bottom: 3rem;
+  border-bottom: 2px solid #00FFFF;
+}
+
+.dv-hero h1 {
+  color: #00FFFF;
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin-bottom: 1rem;
+}
+
+.dv-hero p {
+  color: #00FFFF;
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+.dv-single-column {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.dv-item-full {
+  background-color: #2a0a3d;
+  border: 2px solid #00FFFF;
+  border-radius: 15px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+}
+
+.dv-item-title {
+  color: #00FFFF;
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 1px solid #00FFFF;
+  padding-bottom: 0.5rem;
+}
+
+.dv-item-body {
+  color: #ffffff;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.dv-item-body a {
+  color: #00FF00;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.dv-item-body a:hover {
+  color: #00FFFF;
+  text-shadow: 0 0 10px rgba(0, 255, 255, 0.7);
+}

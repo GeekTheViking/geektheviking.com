@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Geek The Viking</title>
+    <link>https://geektheviking.com/tags/web/</link>
+    <description>Recent content in Web on Geek The Viking</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://geektheviking.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WorldWideWeb: The First Browser</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-web-browser/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-web-browser/</guid>
+      <description>&lt;p&gt;In 1990, Tim Berners-Lee created the first web browser, also called &amp;ldquo;WorldWideWeb&amp;rdquo;. It could only display text and links – no images, no CSS, no JavaScript.&lt;/p&gt;&#xA;&lt;p&gt;Yet, it opened the door to a world where anyone could publish, and anyone could read.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The first browser was a window into a new universe.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>The First Webpage</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-website/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-website/</guid>
+      <description>&lt;p&gt;On August 6, 1991, Tim Berners-Lee launched the first website: &lt;code&gt;http://info.cern.ch&lt;/code&gt;. It explained what the &amp;ldquo;World Wide Web&amp;rdquo; was – a concept so simple, yet so revolutionary.&lt;/p&gt;&#xA;&lt;p&gt;The page is still online. A digital monument to the moment the web went public.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The web was born in a lab, but it grew into a universe.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

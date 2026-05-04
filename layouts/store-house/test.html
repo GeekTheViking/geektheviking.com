@@ -1,0 +1,58 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/store-house.css">
+
+<!-- Hugo injekter data til JavaScript -->
+{{ $art := .Site.GetPage "section" "store-house/data-coffer/artifacts" }}
+{{ $eko := .Site.GetPage "section" "store-house/data-coffer/echoes" }}
+
+<script>
+window.gtvArtifacts = [
+  {{ range $i, $p := $art.RegularPages }}
+  {{ if $i }},{{ end }}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "summary": {{ $p.Summary | plainify | truncate 150 | jsonify }},
+    "url": {{ $p.RelPermalink | jsonify }}
+  }
+  {{ end }}
+];
+
+window.gtvEchoes = [
+  {{ range $i, $p := $eko.RegularPages }}
+  {{ if $i }},{{ end }}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "summary": {{ $p.Summary | plainify | truncate 150 | jsonify }},
+    "url": {{ $p.RelPermalink | jsonify }}
+  }
+  {{ end }}
+];
+</script>
+
+<div class="sh-hero">
+  <h1>TEST PAGE</h1>
+  <p>JavaScript random test for Store House.</p>
+</div>
+
+<div class="sh-split-container">
+  <!-- ARTIFACTS BOX -->
+  <div class="sh-box">
+    <h2 class="sh-box-title">Artifacts</h2>
+    <div class="sh-box-divider"></div>
+    <div class="sh-box-content" id="artifact-content">
+      <p>Loading...</p>
+    </div>
+  </div>
+
+  <!-- ECHOES BOX -->
+  <div class="sh-box">
+    <h2 class="sh-box-title">Echoes</h2>
+    <div class="sh-box-divider"></div>
+    <div class="sh-box-content" id="echo-content">
+      <p>Loading...</p>
+    </div>
+  </div>
+</div>
+
+<script src="/js/store-house.js"></script>
+{{ end }}

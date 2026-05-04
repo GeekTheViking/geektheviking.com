@@ -2,6 +2,7 @@ baseURL = "https://geektheviking.com/"
 title = "Geek The Viking"
 languageCode = "en"
 defaultContentLanguage = "en"
+publishDir = "docs"
 
 [params]
   description = "To infinity... and beyond, CyberSpace"

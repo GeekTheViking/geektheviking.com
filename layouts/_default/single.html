@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article class="artefact-content">
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.description }}
+    <p class="subtitle">{{ .Params.description }}</p>
+    {{ end }}
+    
+    <div class="content">
+        {{ .Content }}
+    </div>
+    
+    <footer>
+        {{ range .Params.tags }}
+        <span class="tag">#{{ . }}</span>
+        {{ end }}
+    </footer>
+</article>
+{{ end }}

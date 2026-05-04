@@ -1,0 +1,11 @@
+{{ define "main" }}
+<!-- GTV | Cyberspace | Author: GTV | License to Exploit [_:GTV:_] -->
+<link rel="stylesheet" href="/css/long-hall.css">
+
+<div class="lh-hero">
+  <h1>{{ .Title }}</h1>
+  {{ if .Description }}<p class="lh-hero-sub">{{ .Description }}</p>{{ end }}
+</div>
+
+{{ if .Content }}<div class="lh-content">{{ .Content }}</div>{{ end }}
+{{ end }}

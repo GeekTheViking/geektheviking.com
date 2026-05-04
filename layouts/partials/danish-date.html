@@ -1,0 +1,5 @@
+{{- if . -}}
+{{- $months := slice "" "januar" "februar" "marts" "april" "maj" "juni" "juli" "august" "september" "oktober" "november" "december" -}}
+{{- $t := . | time -}}
+{{- printf "%d. %s %d" $t.Day (index $months (int (dateFormat "1" $t))) $t.Year -}}
+{{- end -}}

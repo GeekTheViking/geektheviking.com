@@ -1,0 +1,64 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/store-house.css">
+
+{{ $art := .Site.GetPage "section" "store-house/data-coffer/artifacts" }}
+{{ $eko := .Site.GetPage "section" "store-house/data-coffer/echoes" }}
+
+<script>
+window.gtvArtifacts = [
+  {{ range $i, $p := $art.RegularPages }}
+  {{ if $i }},{{ end }}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "summary": {{ $p.Summary | plainify | truncate 150 | htmlUnescape | jsonify }},
+    "url": {{ $p.RelPermalink | jsonify }}
+  }
+  {{ end }}
+];
+window.gtvEchoes = [
+  {{ range $i, $p := $eko.RegularPages }}
+  {{ if $i }},{{ end }}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "summary": {{ $p.Summary | plainify | truncate 150 | htmlUnescape | jsonify }},
+    "url": {{ $p.RelPermalink | jsonify }}
+  }
+  {{ end }}
+];
+</script>
+
+<div class="sh-hero">
+  <h1>Store House</h1>
+  <p>Data-Coffer collection from CyberSpace.</p>
+</div>
+
+<div class="sh-split-container">
+  <div class="sh-box">
+    <h2 class="sh-box-title">Artifacts</h2>
+    <div class="sh-box-divider"></div>
+    <div class="sh-box-content" id="artifact-content">
+      <p>Loading...</p>
+    </div>
+    <div class="sh-explore-box">
+      <a href="/store-house/data-coffer/artifacts/" class="sh-btn">Explore Artifacts →</a>
+    </div>
+  </div>
+
+  <div class="sh-box">
+    <h2 class="sh-box-title">Echoes</h2>
+    <div class="sh-box-divider"></div>
+    <div class="sh-box-content" id="echo-content">
+      <p>Loading...</p>
+    </div>
+    <div class="sh-explore-box">
+      <a href="/store-house/data-coffer/echoes/" class="sh-btn">Explore Echoes →</a>
+    </div>
+  </div>
+</div>
+
+<div class="sh-explore">
+  <a href="/store-house/data-coffer/" class="sh-btn-explore">Explore Data-Varder →</a>
+</div>
+
+<script src="/js/store-house.js"></script>
+{{ end }}

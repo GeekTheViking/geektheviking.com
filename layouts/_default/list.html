@@ -1,0 +1,21 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/list-page.css">
+
+<div class="list-page">
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.description }}
+    <p>{{ .Params.description }}</p>
+    {{ end }}
+
+    <ul class="item-list">
+        {{ range .Pages }}
+        <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ if .Params.description }}
+            <small>{{ .Params.description }}</small>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

@@ -1,0 +1,39 @@
+{{ $extra := .Params.extra }}
+
+<div class="lh-person-meta">
+  <table class="lh-meta-table">
+    {{ if $extra.born }}<tr><td>Born</td><td>{{ $extra.born }}</td></tr>{{ end }}
+    {{ if $extra.died }}<tr><td>Died</td><td>{{ $extra.died }}</td></tr>{{ end }}
+    {{ if $extra.role }}<tr><td>Role</td><td>{{ $extra.role }}</td></tr>{{ end }}
+    {{ if $extra.alignment }}<tr><td>Alignment</td><td>{{ $extra.alignment }}</td></tr>{{ end }}
+  </table>
+
+  {{ if $extra.achievements }}
+  <h2>Achievements</h2>
+  <table class="lh-meta-table">
+    {{ range $extra.achievements }}
+    <tr><td>{{ .year }}</td><td>{{ .achievement }}</td></tr>
+    {{ end }}
+  </table>
+  {{ end }}
+
+  {{ if $extra.sources }}
+  <h2>Sources</h2>
+  <ul class="lh-sources">
+    {{ range $extra.sources }}
+    <li><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  <div class="lh-factcheck">
+    <h2>Fact Check</h2>
+    <p class="lh-factcheck-text">Want to know more about <strong>{{ .Title }}</strong>? Use Leo AI in Brave Browser to fact-check and explore further.</p>
+    <a class="lh-factcheck-btn"
+       href="https://search.brave.com/search?q={{ .Title | urlquery }}"
+       target="_blank" rel="noopener">
+      🦁 Fact Check with Leo AI
+    </a>
+    <p class="lh-factcheck-note">Requires <a href="https://brave.com/download/" target="_blank" rel="noopener">Brave Browser</a> for Leo AI access.</p>
+  </div>
+</div>

@@ -1,0 +1,44 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/long-hall.css">
+
+<div class="lh-hero">
+  <h1>Long Hall</h1>
+  <p class="lh-hero-sub">The Ones Who Made a Mark in CyberSpace</p>
+  <p class="lh-hero-desc">CyberSpace Personalities & Achievements</p>
+</div>
+
+<div class="lh-table-container">
+  <table class="lh-table">
+    <thead>
+      <tr>
+        <th>Person</th>
+        <th>Achievement</th>
+        <th>Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range .Site.RegularPages }}
+        {{ if eq .Section "long-hall" }}
+          {{ $page := . }}
+          {{ $extra := $page.Params.extra }}
+          {{ if $extra.achievements }}
+            {{ $personName := $page.Title }}
+            {{ $personLink := $page.RelPermalink }}
+            {{ $achievementCount := len $extra.achievements }}
+            
+            {{ range $index, $achievement := $extra.achievements }}
+            <tr class="lh-row" onclick="window.location='{{ $personLink }}'">
+              {{ if eq $index 0 }}
+                <td rowspan="{{ $achievementCount }}">{{ $personName }}</td>
+              {{ end }}
+              <td>{{ $achievement.achievement }}</td>
+              <td>{{ $achievement.year }}</td>
+            </tr>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+{{ end }}

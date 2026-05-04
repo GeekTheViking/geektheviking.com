@@ -2,10 +2,375 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Geek The Viking</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://geektheviking.com/tags/</link>
     <description>Recent content in Tags on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://geektheviking.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>https://geektheviking.com/tags/design/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://geektheviking.com/tags/test/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gtv</title>
+      <link>https://geektheviking.com/tags/gtv/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/gtv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Journey</title>
+      <link>https://geektheviking.com/tags/journey/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/journey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motto</title>
+      <link>https://geektheviking.com/tags/motto/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/motto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyberspace</title>
+      <link>https://geektheviking.com/tags/cyberspace/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/cyberspace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>https://geektheviking.com/tags/data/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Truth</title>
+      <link>https://geektheviking.com/tags/truth/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/truth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debugging</title>
+      <link>https://geektheviking.com/tags/debugging/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/debugging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lesson</title>
+      <link>https://geektheviking.com/tags/lesson/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/lesson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://geektheviking.com/tags/code/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poetry</title>
+      <link>https://geektheviking.com/tags/poetry/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/poetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hopper</title>
+      <link>https://geektheviking.com/tags/hopper/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/hopper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quote</title>
+      <link>https://geektheviking.com/tags/quote/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/quote/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Risk</title>
+      <link>https://geektheviking.com/tags/risk/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/risk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyberpunk</title>
+      <link>https://geektheviking.com/tags/cyberpunk/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/cyberpunk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gibson</title>
+      <link>https://geektheviking.com/tags/gibson/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/gibson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free-Software</title>
+      <link>https://geektheviking.com/tags/free-software/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/free-software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stallman</title>
+      <link>https://geektheviking.com/tags/stallman/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/stallman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspiration</title>
+      <link>https://geektheviking.com/tags/inspiration/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jobs</title>
+      <link>https://geektheviking.com/tags/jobs/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/jobs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>https://geektheviking.com/tags/ai/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chatbot</title>
+      <link>https://geektheviking.com/tags/chatbot/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>https://geektheviking.com/tags/history/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compiler</title>
+      <link>https://geektheviking.com/tags/compiler/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/compiler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://geektheviking.com/tags/programming/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>https://geektheviking.com/tags/network/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wifi</title>
+      <link>https://geektheviking.com/tags/wifi/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/wifi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireless</title>
+      <link>https://geektheviking.com/tags/wireless/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/wireless/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Browser</title>
+      <link>https://geektheviking.com/tags/browser/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/browser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>https://geektheviking.com/tags/web/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Email</title>
+      <link>https://geektheviking.com/tags/email/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/email/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kernel</title>
+      <link>https://geektheviking.com/tags/kernel/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/kernel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://geektheviking.com/tags/linux/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open-Source</title>
+      <link>https://geektheviking.com/tags/open-source/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cern</title>
+      <link>https://geektheviking.com/tags/cern/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/cern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>https://geektheviking.com/tags/future/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/future/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet</title>
+      <link>https://geektheviking.com/tags/internet/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/internet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>https://geektheviking.com/tags/philosophy/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protocol</title>
+      <link>https://geektheviking.com/tags/protocol/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/protocol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking</title>
+      <link>https://geektheviking.com/tags/hacking/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retro</title>
+      <link>https://geektheviking.com/tags/retro/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/retro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Storage</title>
+      <link>https://geektheviking.com/tags/storage/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/storage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wisdom</title>
+      <link>https://geektheviking.com/tags/wisdom/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/wisdom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mechanical</title>
+      <link>https://geektheviking.com/tags/mechanical/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/mechanical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classic</title>
+      <link>https://geektheviking.com/tags/classic/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/classic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reliability</title>
+      <link>https://geektheviking.com/tags/reliability/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/reliability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://geektheviking.com/tags/hardware/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nostalgia</title>
+      <link>https://geektheviking.com/tags/nostalgia/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/nostalgia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scandinavian</title>
+      <link>https://geektheviking.com/tags/scandinavian/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/scandinavian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frea-X</title>
+      <link>https://geektheviking.com/tags/frea-x/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/frea-x/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>License</title>
+      <link>https://geektheviking.com/tags/license/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/tags/license/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

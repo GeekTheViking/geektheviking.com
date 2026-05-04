@@ -1,11 +1,292 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FREA-X.COM on Geek The Viking</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in FREA-X.COM on Geek The Viking</description>
+    <title>Geek The Viking</title>
+    <link>https://geektheviking.com/</link>
+    <description>Recent content on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://geektheviking.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Taleboble Layout</title>
+      <link>https://geektheviking.com/store-house/data-coffer/test/test-side/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/test/test-side/</guid>
+      <description>&lt;p&gt;Dette er en test af det nye &lt;strong&gt;Taleboble Layout&lt;/strong&gt; til Geek The Viking.&lt;/p&gt;&#xA;&lt;p&gt;Her ser du, hvordan indholdet kommer til at se ud i den hvide boble, mens GTV-maskoten (venstre) &amp;ldquo;taler&amp;rdquo; til dig.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hvad-skal-testes&#34;&gt;Hvad skal testes?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Farver: Cyan tekst, lilla baggrund, hvid boble.&lt;/li&gt;&#xA;&lt;li&gt;Layout: Flexbox opdeling mellem SVG og boble.&lt;/li&gt;&#xA;&lt;li&gt;Responsivitet: Hvordan det ser ud på mobil.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Test er den bedste læremester i CyberSpace.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Du kan skrive al din test tekst her. Når du er tilfreds, kopierer vi strukturen over til dine rigtige sider.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Long Ship</title>
+      <link>https://geektheviking.com/longship/</link>
+      <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/longship/</guid>
+      <description>&lt;p&gt;Collesction of news and info from CyberSpace&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>To Infinity and Beyond</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/to-infinity/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/to-infinity/</guid>
+      <description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Data Never Dies</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/data-never-dies/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/data-never-dies/</guid>
+      <description>&lt;p&gt;&amp;ldquo;In CyberSpace, data never dies. It only waits.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Deleted, archived, forgotten. But always there, waiting to be found.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Nothing is ever truly lost. It&amp;rsquo;s just hidden.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Every Bug is a Lesson</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Every bug is a lesson. Every crash, a teacher.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Debugging isn&amp;rsquo;t failure. It&amp;rsquo;s the process of learning what the machine is trying to tell you.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Embrace the bug. It&amp;rsquo;s the path to mastery.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Code is Poetry</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Code is poetry written for machines. But even poetry needs a rough draft.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Every line is a verse. Every function, a stanza. The best code tells a story.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Write code that sings, even to the machine.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Ask Forgiveness</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/ask-forgiveness/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/ask-forgiveness/</guid>
+      <description>&lt;p&gt;&amp;ldquo;It&amp;rsquo;s easier to ask forgiveness than it is to get permission.&amp;rdquo; – Grace Hopper.&lt;/p&gt;&#xA;&lt;p&gt;Innovation requires action. Sometimes, you have to break the rules to move forward.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Don&amp;rsquo;t wait for permission. Build first, ask later.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>The Future is Already Here</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/future-already-here/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/future-already-here/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The future is already here. It&amp;rsquo;s just not evenly distributed.&amp;rdquo; – William Gibson.&lt;/p&gt;&#xA;&lt;p&gt;The tools are here. The knowledge is here. What&amp;rsquo;s missing is the will to use them.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future waits for no one. It&amp;rsquo;s already here.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Free as in Freedom</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/free-as-in-freedom/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/free-as-in-freedom/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Free as in freedom, not free as in beer.&amp;rdquo; – Richard Stallman.&lt;/p&gt;&#xA;&lt;p&gt;Freedom to run, study, modify, and share. The core of open source.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Software should serve the user, not the other way around.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Stay Hungry, Stay Foolish</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/stay-hungry-foolish/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/stay-hungry-foolish/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Stay hungry, stay foolish.&amp;rdquo; – Steve Jobs, 2005.&lt;/p&gt;&#xA;&lt;p&gt;A reminder that comfort is the enemy of growth. The best discoveries happen when you&amp;rsquo;re willing to look foolish.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future belongs to the curious, not the comfortable.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>The First AI Chat</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</guid>
+      <description>&lt;p&gt;In 1966, Joseph Weizenbaum created ELIZA, the first chatbot. It mimicked a psychotherapist, responding with questions like &amp;ldquo;How do you feel?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;ELIZA fooled people into thinking it was human. It was the first hint that machines could mimic conversation.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;ELIZA was the first time a machine asked &amp;lsquo;How do you feel?&amp;rsquo; And we answered.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>The First Compiler</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</guid>
+      <description>&lt;p&gt;In 1952, Grace Hopper created the first compiler, A-0. It translated English-like code into machine language.&lt;/p&gt;&#xA;&lt;p&gt;Before that, programmers wrote in pure binary. The compiler made programming accessible to humans.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Grace Hopper didn&amp;rsquo;t just write code. She made code speak human.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>The First WiFi Router</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</guid>
+      <description>&lt;p&gt;In 1999, the first 802.11b routers hit the market, offering 11 Mbps wireless speeds. It was slow, but it freed us from cables.&lt;/p&gt;&#xA;&lt;p&gt;Today, WiFi is everywhere. The first router was the spark that lit the wireless revolution.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cables bind us. WiFi sets us free.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>WorldWideWeb: The First Browser</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-web-browser/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-web-browser/</guid>
+      <description>&lt;p&gt;In 1990, Tim Berners-Lee created the first web browser, also called &amp;ldquo;WorldWideWeb&amp;rdquo;. It could only display text and links – no images, no CSS, no JavaScript.&lt;/p&gt;&#xA;&lt;p&gt;Yet, it opened the door to a world where anyone could publish, and anyone could read.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The first browser was a window into a new universe.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>The First @ Symbol</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</guid>
+      <description>&lt;p&gt;In 1971, Ray Tomlinson sent the first networked email. He couldn&amp;rsquo;t remember the exact content, but he chose the &lt;code&gt;@&lt;/code&gt; symbol to separate user from machine.&lt;/p&gt;&#xA;&lt;p&gt;That simple symbol now lives in billions of addresses, connecting people across the globe.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The @ symbol is the most used character in the digital world.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Linux 0.01: The First Seed</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</guid>
+      <description>&lt;p&gt;In 1991, Linus Torvalds released Linux 0.01 – a kernel with just 10,239 lines of code. Today, the Linux kernel has over 30 million lines.&lt;/p&gt;&#xA;&lt;p&gt;It started as a hobby. It became the foundation of the internet, Android, and supercomputers.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Every empire begins with a single line of code.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>The First Webpage</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-website/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-website/</guid>
+      <description>&lt;p&gt;On August 6, 1991, Tim Berners-Lee launched the first website: &lt;code&gt;http://info.cern.ch&lt;/code&gt;. It explained what the &amp;ldquo;World Wide Web&amp;rdquo; was – a concept so simple, yet so revolutionary.&lt;/p&gt;&#xA;&lt;p&gt;The page is still online. A digital monument to the moment the web went public.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The web was born in a lab, but it grew into a universe.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>The Invisible Backbone</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</guid>
+      <description>&lt;p&gt;In 1974, Vint Cerf and Bob Kahn published the paper that would become the DNA of the internet. TCP/IP didn&amp;rsquo;t just connect computers – it connected humanity.&lt;/p&gt;&#xA;&lt;p&gt;Every packet you send, every page you load, rides on this invisible backbone. It&amp;rsquo;s the unsung hero of the digital age.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If the internet were a city, TCP/IP would be the streets, the lights, and the air.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>To infinity... and beyond, CyberSpace</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Hack the planet, but remember to respect the boundaries.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;p&gt;To infinity&amp;hellip; and beyond, CyberSpace&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyber Scan: 192.168.0.1</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The best bug is the one you never find, but the one you fix before it becomes a feature.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;This echo reminds us that security is not a goal, but a process. Every time we scan our network, we find new things to improve. And even though 192.168.0.1 is safe, it is never a guarantee for the future.&lt;/p&gt;&#xA;&lt;p&gt;Keep your eyes open, and keep your network secure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 8-Inch Floppy</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/8-inch-floppy/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/8-inch-floppy/</guid>
+      <description>&lt;p&gt;In 1971, IBM introduced the 8-inch floppy disk. It could store a mere 80 KB – less than a single modern emoji. Yet, it revolutionized computing by making data portable.&lt;/p&gt;&#xA;&lt;p&gt;The disc was read-only at first, then writable. Engineers carried them in protective sleeves, treating them like precious gems.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future of a relationship is 8 inches wide and 80 KB deep.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Perfection is a Myth</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/perfection-is-a-myth/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/perfection-is-a-myth/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Code is poetry written for machines. But even poetry needs a rough draft.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;In a world where everything must be perfect from the start, this echo reminds us that errors are a natural part of the process. The best solutions often arise through iteration and debugging, not on the first attempt.&lt;/p&gt;&#xA;&lt;p&gt;Learn from your mistakes, and write your code as if it were a story you want to tell.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Vintage Hard Drive</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/vintage-harddrive/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/vintage-harddrive/</guid>
+      <description>&lt;p&gt;A true relic from the dawn of the data age. This 500MB hard drive from 1985 is one of the last mechanical drives that still spins with the precision of a clockwork. It contains some of the oldest code and documents from the early days of Geek The Viking.&lt;/p&gt;&#xA;&lt;p&gt;Hearing it start up is like hearing history come to life. Although the capacity is minimal by today&amp;rsquo;s standards, its value as a historical piece of technology is irreplaceable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Beloved Router</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</guid>
+      <description>&lt;p&gt;This router, with IP address 192.168.0.1, has been the backbone of the Geek The Viking network for over a decade. It has survived multiple power outages, a lightning strike, and countless firmware updates.&lt;/p&gt;&#xA;&lt;p&gt;Although technically obsolete, its stability is legendary. It still runs on the original firmware and handles thousands of connections without blinking.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;When everything else fails, 192.168.0.1 is still there.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>The Mystical Wooden Mouse</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/tree-mouse/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/tree-mouse/</guid>
+      <description>&lt;p&gt;This unique computer mouse is not made of plastic, but of solid oak, carved into the shape of a small Viking. Found at a flea market in Aarhus in 1999, it has served as a lucky charm on many development machines.&lt;/p&gt;&#xA;&lt;p&gt;While it lacks modern ergonomics, its weight and feel in the hand are unmatched. It still functions as a perfect USB mouse, but requires a bit more strength to click.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>License to Exploit v0.042</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</guid>
+      <description>&lt;p&gt;The License to Exploit is not about taking - it is about exploring.&lt;/p&gt;&#xA;&lt;p&gt;In CyberSpace, every connection is an opportunity. Every open port is a door waiting to be understood. Every vulnerability is a lesson, not a weapon.&lt;/p&gt;&#xA;&lt;p&gt;Exploit the knowledge. Exploit the possibilities. Never exploit the people.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;License to Exploit - v0.042 - Frea-X Edition&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Linus Torvalds</title>
+      <link>https://geektheviking.com/long-hall/cyberspace-personalities/linus-torvalds/</link>
+      <pubDate>Sun, 28 Dec 1969 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/long-hall/cyberspace-personalities/linus-torvalds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tim Berners-Lee</title>
+      <link>https://geektheviking.com/long-hall/cyberspace-personalities/tim-berners-lee/</link>
+      <pubDate>Wed, 08 Jun 1955 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/long-hall/cyberspace-personalities/tim-berners-lee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Richard Stallman</title>
+      <link>https://geektheviking.com/long-hall/cyberspace-personalities/richard-stallman/</link>
+      <pubDate>Mon, 16 Mar 1953 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/long-hall/cyberspace-personalities/richard-stallman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bjarne Stroustrup</title>
+      <link>https://geektheviking.com/long-hall/cyberspace-personalities/bjarne-stroustrup/</link>
+      <pubDate>Sat, 30 Dec 1950 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/long-hall/cyberspace-personalities/bjarne-stroustrup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ken Thompson</title>
+      <link>https://geektheviking.com/long-hall/cyberspace-personalities/ken-thompson/</link>
+      <pubDate>Thu, 04 Feb 1943 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/long-hall/cyberspace-personalities/ken-thompson/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dennis Ritchie</title>
+      <link>https://geektheviking.com/long-hall/cyberspace-personalities/dennis-ritchie/</link>
+      <pubDate>Tue, 09 Sep 1941 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/long-hall/cyberspace-personalities/dennis-ritchie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alan Turing</title>
+      <link>https://geektheviking.com/long-hall/cyberspace-personalities/alan-turing/</link>
+      <pubDate>Sun, 23 Jun 1912 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/long-hall/cyberspace-personalities/alan-turing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grace Hopper</title>
+      <link>https://geektheviking.com/long-hall/cyberspace-personalities/grace-hopper/</link>
+      <pubDate>Sun, 09 Dec 1906 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/long-hall/cyberspace-personalities/grace-hopper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ada Lovelace</title>
+      <link>https://geektheviking.com/long-hall/cyberspace-personalities/ada-lovelace/</link>
+      <pubDate>Sun, 10 Dec 1815 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/long-hall/cyberspace-personalities/ada-lovelace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://geektheviking.com/protocol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/protocol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyberspace</title>
+      <link>https://geektheviking.com/cyberspace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/cyberspace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debug Test</title>
+      <link>https://geektheviking.com/store-house/test-debug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/test-debug/</guid>
+      <description>&lt;p&gt;Debug side for Store House.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geek The Viking</title>
+      <link>https://geektheviking.com/gtv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/gtv/</guid>
+      <description>&lt;h1 id=&#34;geek-the-viking&#34;&gt;Geek The Viking&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;To infinity&amp;hellip; and beyond, CyberSpace.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NOT A PAGE</title>
+      <link>https://geektheviking.com/not-a-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/not-a-page/</guid>
+      <description>&lt;div class=&#34;not-a-page&#34;&gt;&#xA;&lt;pre&gt;&#xA; _   _  ___ _____     _&#xA;| \ | |/ _ \_   _|   / \&#xA;|  \| | | | || |    / _ \&#xA;| |\  | |_| || |   / ___ \&#xA;|_| \_|\___/ |_|  /_/   \_\&#xA;&#xA; ____   _    ____ _____&#xA;|  _ \ / \  / ___| ____|&#xA;| |_) / _ \| |  _|  _|&#xA;|  __/ ___ \ |_| | |___&#xA;|_| /_/   \_\____|_____|&#xA;&lt;/pre&gt;&#xA;&lt;h1&gt;THIS IS NOT A PAGE&lt;/h1&gt;&#xA;&lt;p&gt;System Error: Reality not found.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

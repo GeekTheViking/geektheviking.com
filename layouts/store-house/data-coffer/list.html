@@ -1,0 +1,54 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/data-coffer.css">
+
+<div class="dv-hero">
+  <h1>DATA-COFFER</h1>
+  <p class="fx-section-desc">Collections from GTV CyberSpace expeditions.</p>
+</div>
+
+<div class="dv-split-container">
+  
+  <!-- VENSTRE KOLONNE: ARTIFACTS -->
+  <div class="dv-column">
+    <h2 class="dv-column-title">Artifacts</h2>
+    <div class="dv-column-divider"></div>
+    <div class="dv-column-content">
+      {{ $art := .Site.GetPage "section" "store-house/data-coffer/artifacts" }}
+      {{ if $art }}
+        {{ range $art.RegularPages }}
+        <article class="dv-item-full">
+          <h3 class="dv-item-title">{{ .Title }}</h3>
+          <div class="dv-item-body">
+            {{ .Content }}
+          </div>
+        </article>
+        {{ end }}
+      {{ else }}
+        <p>No artifacts yet.</p>
+      {{ end }}
+    </div>
+  </div>
+
+  <!-- HØJRE KOLONNE: ECHOES -->
+  <div class="dv-column">
+    <h2 class="dv-column-title">Echoes</h2>
+    <div class="dv-column-divider"></div>
+    <div class="dv-column-content">
+      {{ $eko := .Site.GetPage "section" "store-house/data-coffer/echoes" }}
+      {{ if $eko }}
+        {{ range $eko.RegularPages }}
+        <article class="dv-item-full">
+          <h3 class="dv-item-title">{{ .Title }}</h3>
+          <div class="dv-item-body">
+            {{ .Content }}
+          </div>
+        </article>
+        {{ end }}
+      {{ else }}
+        <p>No echoes yet.</p>
+      {{ end }}
+    </div>
+  </div>
+
+</div>
+{{ end }}

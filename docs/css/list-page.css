@@ -1,0 +1,54 @@
+/* Data-Coffer Liste Layout Styling */
+.list-page {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.list-page h1 {
+  color: #00FFFF;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-bottom: 2px solid #00FFFF;
+  padding-bottom: 0.5rem;
+}
+
+.list-page p {
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
+.item-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item-list li {
+  margin-bottom: 1.5rem;
+}
+
+.item-list li a {
+  color: #00FF00;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.item-list li a:hover {
+  color: #00FFFF;
+  text-shadow: 0 0 8px rgba(0, 255, 255, 0.7);
+  transform: translateX(5px);
+}
+
+.item-list li small {
+  color: #cccccc;
+  font-size: 0.9rem;
+  display: block;
+  margin-top: 0.3rem;
+}

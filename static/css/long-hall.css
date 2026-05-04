@@ -1,0 +1,256 @@
+/* Long Hall - Hall of Fame [_:GTV:_] */
+
+/* Hero */
+.lh-hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  margin-bottom: 3rem;
+  border-bottom: 2px solid #00FFFF;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #4a1862;
+}
+
+.lh-hero h1 {
+  color: #00FFFF;
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin-bottom: 1rem;
+}
+
+.lh-hero p {
+  color: #00FFFF;
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+.lh-hero-plain {
+  color: #00FFFF;
+  font-size: 1.2rem;
+  font-style: normal;
+}
+
+/* Tabel */
+.lh-table-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.lh-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #2a0a3d;
+  border: 2px solid #00FFFF;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+}
+
+.lh-table thead tr {
+  background-color: #4a1862;
+  border-bottom: 2px solid #00FFFF;
+}
+
+.lh-table th {
+  color: #00FFFF;
+  padding: 1rem 1.5rem;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.95rem;
+}
+
+.lh-table td {
+  color: #ffffff;
+  padding: 0.9rem 1.5rem;
+  border-bottom: 1px solid rgba(0, 255, 255, 0.2);
+}
+
+.lh-row {
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.lh-row:hover {
+  background-color: #3a0f52;
+}
+
+.lh-row:hover td {
+  color: #00FFFF;
+}
+
+/* Person meta (single side) */
+.lh-person-meta {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.lh-person-meta h2 {
+  color: #00FFFF;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 2rem 0 1rem;
+  border-bottom: 1px solid #00FFFF;
+  padding-bottom: 0.4rem;
+}
+
+.lh-meta-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #2a0a3d;
+  border: 1px solid rgba(0, 255, 255, 0.4);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.lh-meta-table td {
+  color: #ffffff;
+  padding: 0.7rem 1.2rem;
+  border-bottom: 1px solid rgba(0, 255, 255, 0.15);
+}
+
+.lh-meta-table td:first-child {
+  color: #00FFFF;
+  font-weight: bold;
+  width: 30%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Kilder */
+.lh-sources {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.lh-sources li {
+  padding: 0.4rem 0;
+}
+
+.lh-sources a {
+  color: #00FF00;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.lh-sources a:hover {
+  color: #00FFFF;
+  text-shadow: 0 0 10px rgba(0, 255, 255, 0.7);
+}
+
+/* Indholdssektion (bruges af Cyberspace, Longship og lignende sider) */
+.lh-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Courier New', Courier, monospace;
+  color: #ffffff;
+  line-height: 1.8;
+}
+
+.lh-content h1,
+.lh-content h2,
+.lh-content h3 {
+  color: #00FFFF;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 2rem;
+}
+
+.lh-content a {
+  color: #00FF00;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.lh-content a:hover {
+  color: #00FFFF;
+  text-shadow: 0 0 8px rgba(0, 255, 255, 0.7);
+}
+
+.lh-content em {
+  color: #00FFFF;
+  font-style: italic;
+}
+
+.lh-content strong {
+  color: #00FFFF;
+  font-weight: bold;
+}
+
+/* Mobil */
+@media (max-width: 768px) {
+  .lh-table-container,
+  .lh-person-meta,
+  .lh-content {
+    padding: 1rem;
+  }
+  .lh-table th,
+  .lh-table td {
+    padding: 0.7rem 0.8rem;
+    font-size: 0.9rem;
+  }
+}
+
+/* Fakta-tjek sektion */
+.lh-factcheck {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border: 1px solid #4a1862;
+  border-radius: 8px;
+  background: rgba(74, 24, 98, 0.15);
+  text-align: center;
+}
+
+.lh-factcheck h2 {
+  color: #00FFFF;
+  margin-bottom: 0.75rem;
+}
+
+.lh-factcheck-text {
+  color: #ccc;
+  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+}
+
+.lh-factcheck-btn {
+  display: inline-block;
+  padding: 0.75rem 1.75rem;
+  background: linear-gradient(135deg, #4a1862, #6a2882);
+  color: #00FFFF;
+  border: 1px solid #00FFFF;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.lh-factcheck-btn:hover {
+  background: #00FFFF;
+  color: #0a0a0a;
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.6);
+}
+
+.lh-factcheck-note {
+  margin-top: 0.75rem;
+  font-size: 0.8rem;
+  color: #888;
+}
+
+.lh-factcheck-note a {
+  color: #00FF00;
+  text-decoration: none;
+}
+
+.lh-factcheck-note a:hover {
+  text-shadow: 0 0 8px rgba(0, 255, 0, 0.7);
+}

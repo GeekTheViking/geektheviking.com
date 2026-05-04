@@ -1,0 +1,10 @@
+{{ define "main" }}
+<!-- GTV | Longship | Author: GTV | License to Exploit [_:GTV:_] -->
+<link rel="stylesheet" href="/css/long-hall.css">
+
+<div class="lh-hero">
+  <h1>{{ .Title }}</h1>
+  {{ if .Description }}<p>{{ .Description }}</p>{{ end }}
+  {{ if .Content }}<p class="lh-hero-plain">{{ .Content | plainify }}</p>{{ end }}
+</div>
+{{ end }}

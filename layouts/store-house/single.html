@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.description }}
+    <p class="fx-section-desc">{{ .Params.description }}</p>
+    {{ end }}
+    <div class="content">{{ .Content }}</div>
+</article>
+{{ end }}

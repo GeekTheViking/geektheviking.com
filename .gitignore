@@ -1,0 +1,12 @@
+# Editor
+*.sublime-project
+*.sublime-workspace
+
+# Hugo cache
+resources/_gen/
+.hugo_build.lock
+public/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,443 @@
+/* 
+ ===================================================================
+ STORE HOUSE - DATA-VARDER STYLES
+ (Match homepage style - clean, readable, consistent)
+ ===================================================================
+*/
+
+/* HERO SECTION */
+.store-house-hero {
+  text-align: center;
+  padding: 3rem 1rem 2rem;
+}
+
+.store-house-hero h1 {
+  font-size: 2.5rem;
+  margin: 0 0 1rem 0;
+  color: var(--text-white);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.store-house-section-desc {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.85);
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* CONTAINER */
+.store-house-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* SECTION TITLE */
+.store-house-section-title {
+  text-align: center;
+  font-size: 2rem;
+  margin: 2rem 0 2rem 0;
+  color: var(--accent-cyan);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+/* GRID LAYOUT */
+.store-house-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+/* CARDS */
+.store-house-card {
+  background: rgba(0, 255, 204, 0.05);
+  border: 2px solid var(--accent-cyan);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.store-house-card:hover {
+  background: rgba(0, 255, 204, 0.1);
+  box-shadow: 0 0 20px rgba(0, 255, 195, 0.2);
+  transform: translateY(-3px);
+}
+
+.store-house-card-title {
+  font-size: 1.3rem;
+  color: var(--accent-cyan);
+  margin: 0 0 1rem 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 1px solid var(--accent-cyan);
+  padding-bottom: 0.5rem;
+}
+
+.store-house-card-content {
+  flex-grow: 1;
+}
+
+.store-house-item-title {
+  font-size: 1.1rem;
+  color: var(--text-white);
+  margin: 0 0 0.75rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.store-house-item-body {
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.store-house-item-body em {
+  color: var(--accent-cyan);
+  font-style: italic;
+}
+
+/* LINKS & BUTTONS */
+.store-house-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: var(--accent-cyan);
+  color: var(--bg-primary);
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  align-self: flex-start;
+}
+
+.store-house-link:hover {
+  background: transparent;
+  color: var(--accent-cyan);
+  border: 1px solid var(--accent-cyan);
+}
+
+.store-house-empty {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.6);
+  padding: 2rem;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .store-house-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .store-house-hero h1 {
+    font-size: 2rem;
+  }
+  
+  .store-house-section-title {
+    font-size: 1.5rem;
+  }
+}
+
+/* Container til de to kolonner */
+.dv-split-container {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+  flex-wrap: wrap; /* Gør det responsivt */
+}
+
+/* De enkelte kolonner */
+.dv-column {
+  flex: 1;
+  min-width: 300px;
+  background: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Hovedoverskrift i kolonnen */
+.dv-column h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+  color: #2c3e50;
+}
+
+/* Kort-styling (Boksen for hver artikel) */
+.dv-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.dv-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  border-color: #000;
+}
+
+/* Tekst i kortet */
+.dv-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.dv-card h3 a {
+  text-decoration: none;
+  color: #333;
+}
+
+.dv-card h3 a:hover {
+  color: #007bff;
+}
+
+.dv-summary {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+/* Knappen */
+.dv-btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: background 0.2s;
+}
+
+.dv-btn:hover {
+  background: #555;
+}
+
+/* Hero sektion styling */
+.dv-hero {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.dv-hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* ===================================================================
+   STORE HOUSE STYLES
+   2 Bokse side by side med random items
+   =================================================================== */
+
+/* HERO */
+.sh-hero {
+  text-align: center;
+  padding: 3rem 1rem 2rem;
+}
+
+.sh-hero h1 {
+  font-size: 2.5rem;
+  margin: 0 0 1rem 0;
+  color: var(--text-white);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.sh-hero p {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.85);
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* SPLIT CONTAINER (2 Bokse) */
+.sh-split-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 2rem;
+  padding: 2rem 1rem;
+}
+
+/* BOX */
+.sh-box {
+  flex: 1;
+  background: rgba(0, 255, 204, 0.05);
+  border: 1px solid rgba(0, 255, 195, 0.3);
+  border-radius: 8px;
+  padding: 2rem;
+  position: relative;
+}
+
+/* BOX TITLE */
+.sh-box-title {
+  font-size: 1.5rem;
+  color: var(--accent-cyan);
+  margin: 0 0 0.5rem 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+/* DIVIDER */
+.sh-box-divider {
+  width: 100%;
+  height: 2px;
+  background: var(--accent-cyan);
+  margin-bottom: 2rem;
+  box-shadow: 0 0 10px rgba(0, 255, 195, 0.5);
+}
+
+/* BOX CONTENT */
+.sh-box-content {
+  min-height: 200px;
+}
+
+/* CARD */
+.sh-card {
+  background: rgba(0, 255, 204, 0.08);
+  border: 1px solid rgba(0, 255, 195, 0.4);
+  border-radius: 6px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.sh-card:hover {
+  background: rgba(0, 255, 204, 0.15);
+  border-color: var(--accent-cyan);
+  box-shadow: 0 0 20px rgba(0, 255, 195, 0.2);
+  transform: translateY(-2px);
+}
+
+.sh-card-title {
+  font-size: 1.1rem;
+  margin: 0 0 0.75rem 0;
+}
+
+.sh-card-title a {
+  color: var(--accent-cyan);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.sh-card-title a:hover {
+  color: #fff;
+}
+
+.sh-card-summary {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0 0 1rem 0;
+}
+
+/* BUTTON */
+.sh-btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: transparent;
+  border: 1px solid var(--accent-cyan);
+  color: var(--accent-cyan);
+  text-decoration: none;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.sh-btn:hover {
+  background: var(--accent-cyan);
+  color: var(--bg-primary);
+  box-shadow: 0 0 15px rgba(0, 255, 195, 0.5);
+}
+
+/* EXPLORE MORE */
+.sh-explore {
+  text-align: center;
+  padding: 2rem;
+}
+
+.sh-btn-explore {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  background: rgba(0, 255, 204, 0.1);
+  border: 2px solid var(--accent-cyan);
+  color: var(--accent-cyan);
+  text-decoration: none;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.sh-btn-explore:hover {
+  background: var(--accent-cyan);
+  color: var(--bg-primary);
+  box-shadow: 0 0 25px rgba(0, 255, 195, 0.6);
+  transform: translateY(-2px);
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .sh-split-container {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .sh-box {
+    padding: 1.5rem;
+  }
+  
+  .sh-hero h1 {
+    font-size: 2rem;
+  }
+}
+
+/* EXPLORE MORE KNAP - Fuld bredde */
+.fx-explore-more {
+  width: 100%;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.fx-explore-more a {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  background: transparent;
+  border: 1px solid var(--accent-cyan);
+  border-radius: 8px;
+  color: var(--accent-cyan);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+}
+
+.fx-explore-more a:hover {
+  background: var(--accent-cyan);
+  color: var(--bg-primary);
+  box-shadow: 0 0 20px rgba(0, 255, 195, 0.4);
+}

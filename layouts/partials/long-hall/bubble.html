@@ -1,0 +1,2 @@
+{{ $extra := partial "long-hall/meta.html" . }}
+{{ partial "taleboble.html" (dict "Title" .Title "Content" .Content "Params" .Params "extra" $extra) }}

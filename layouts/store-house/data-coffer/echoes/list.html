@@ -1,0 +1,24 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/data-coffer.css">
+
+<div class="dv-hero">
+  <h1>ECHOES</h1>
+  <p class="fx-section-desc">Thoughts, dreams, and digital whispers.</p>
+</div>
+
+<div class="dv-single-column">
+  {{ $eko := .Site.GetPage "section" "store-house/data-coffer/echoes" }}
+  {{ if $eko }}
+    {{ range $eko.RegularPages }}
+    <article class="dv-item-full">
+      <h3 class="dv-item-title">{{ .Title }}</h3>
+      <div class="dv-item-body">
+        {{ .Content }}
+      </div>
+    </article>
+    {{ end }}
+  {{ else }}
+    <p>No echoes yet.</p>
+  {{ end }}
+</div>
+{{ end }}

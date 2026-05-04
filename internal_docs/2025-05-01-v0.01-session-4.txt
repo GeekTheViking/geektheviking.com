@@ -1,0 +1,123 @@
+SESSION 4 INTRO - Klar til ny chat
+===================================
+
+DATO: 2025-05-01
+FORMÅL: Flyt internal_docs til central placering og opret ToDo.md
+
+HENVISNING:
+Læs FØRST ~/projects/geektheviking/internal_docs/docs_basic_and_info.md
+Især sektionerne:
+- "Chat-overlevering"
+- "Fler-projekt support"
+- "Nuværende status"
+
+TAG-SYSTEM (GTV):
+-----------------
+I kode og dokumentation, brug altid taget:
+[_:GTV:_]
+
+Dette markerer, at indholdet tilhører Geek The Viking-projektet.
+
+SESSION 3 SUMMARY (AFSLUTTET MED SUCCES):
+------------------------------------------
+UDFØRT I SESSION 3:
+1. Oprettet central Taleboble partial: layouts/partials/taleboble.html
+2. Opdateret 3 single.html filer til at kalde partial:
+   - layouts/artefact/single.html
+   - layouts/store-house/data-coffer/artifacts/single.html
+   - layouts/store-house/data-coffer/echoes/single.html
+3. Oprettet dedikeret CSS for liste-layout: static/css/list-page.css
+4. Opdateret layouts/_default/list.html til at inkludere list-page.css
+5. Fikset blå link-farve på Echoes/Artifacts sider (nu neon/grøn og cyan)
+6. Gået fra .md til .txt filer for session summaries (bedre kompatibilitet)
+7. Implementeret tag-system: [_:GTV:_] i kode og dokumentation
+
+FARVE-RETTINGER:
+- Problem: Links var blå (browser default)
+- Løsning: list-page.css med:
+  * Overskrifter (h1): #00FFFF (neon/cyan)
+  * Links (a): #00FF00 (neon/grøn)
+  * Hover-effekt: Skifter til cyan med glow
+  * Beskrivelser (small): #cccccc (lys grå)
+
+FILSTRUKTUR EFTER SESSION 3:
+- ~/projects/geektheviking/layouts/partials/taleboble.html (NY)
+- ~/projects/geektheviking/layouts/_default/list.html (Opdateret)
+- ~/projects/geektheviking/static/css/list-page.css (NY)
+
+SESSION 4 OPGAVE (NÆSTE):
+-------------------------
+1. Opret central mappe: ~/Documents/internal_docs/GTV/
+2. Flyt alle filer fra ~/projects/geektheviking/internal_docs/ → ~/Documents/internal_docs/GTV/
+3. Opret ToDo.md i ~/Documents/internal_docs/ med:
+
+   # GTV ToDo Liste [_:GTV:_]
+   
+   Høj prioritet:
+   - [ ] Opret Long Hall struktur (Hall of Fame - CyberSpace pionerer)
+   - [ ] Opret CyberSpace struktur (Log/Blog med RSS, Packet-date 127.x.x.x)
+   - [ ] RSS feed integration
+   
+   Medium prioritet:
+   - [ ] Optimer CSS (slå sammen list-page.css + data-coffer.css)
+   - [ ] Tilføj søgefunktion for Artefacts/Echoes
+   - [ ] Mobile optimering af Taleboble
+   
+   Lav prioritet:
+   - [ ] Dark mode / temavalg
+   - [ ] Analytics tracking
+   - [ ] SEO optimering
+
+ARBEJDSMETODE (GOLDEN RULES):
+------------------------------
+1. ls og cat FØR koding (altid tjek filer først)
+2. Bottom-up: Bevar eksisterende funktion, udvid fra bunden
+3. Ingen EOF-blokke (bug i AI) - kun ren kode pr. fil
+4. Send én fil ad gangen, klar til kopiering
+5. Spørg om bekræftelse før koding
+6. Brug taget [_:GTV:_] i alle GTV-relaterede filer
+7. "Finger i jorden" hvis du føler dig overvældet
+
+FILSTRUKTUR (FØR FLYTNING):
+----------------------------
+~/projects/geektheviking/internal_docs/
+├── docs_basic_and_info.md (Hoveddokument)
+├── 2025-04-29-v0.01-session1.md
+├── 2025-04-30-v0.02-session2.md
+├── 2025-04-30-v0.03-session3.md
+└── 2025-05-01-v0.04-session4-intro.txt (Denne fil)
+
+TEKNISKE BEGRÆNSNINGER (VIGTIGT!):
+-----------------------------------
+- EOF-blokke virker ikke (bug i AI-systemet)
+- Altid levere ren kode pr. fil, klar til kopiering
+- En fil ad gangen
+- Chat sessions har maks begrænsninger (forbered næste session altid)
+- Brug .txt filer i stedet for .md for session summaries (bedre kompatibilitet)
+
+FØRSTE SKRIDT I NY CHAT:
+-------------------------
+1. Tjek eksisterende filer:
+   ls -la ~/projects/geektheviking/internal_docs/
+   cat ~/projects/geektheviking/internal_docs/docs_basic_and_info.md
+   cat ~/projects/geektheviking/internal_docs/2025-04-30-v0.03-session3.md
+
+2. Bekræft strukturen med brugeren
+
+3. Lav plan for flytning (godkendelse før koding)
+
+4. Udfør flytning trin-for-trin
+
+5. Opret ToDo.md med indholdet fra oven
+
+6. Opret session log: 2025-05-01-v0.04-session4.txt
+
+VIGTIGT FOR NY AI:
+------------------
+- Læs denne fil fuldt ud
+- Læs docs_basic_and_info.md FØRST
+- Spørg brugeren om bekræftelse før hver handling
+- Antag aldrig noget - spørg altid
+- Brug taget [_:GTV:_] i alle GTV-filer
+
+SESSION 3 ER AFSLUTTET. KLAR TIL SESSION 4! [_:GTV:_]

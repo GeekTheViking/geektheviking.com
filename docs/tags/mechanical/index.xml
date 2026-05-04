@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechanical on Geek The Viking</title>
+    <link>https://geektheviking.com/tags/mechanical/</link>
+    <description>Recent content in Mechanical on Geek The Viking</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://geektheviking.com/tags/mechanical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Vintage Hard Drive</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/vintage-harddrive/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/vintage-harddrive/</guid>
+      <description>&lt;p&gt;A true relic from the dawn of the data age. This 500MB hard drive from 1985 is one of the last mechanical drives that still spins with the precision of a clockwork. It contains some of the oldest code and documents from the early days of Geek The Viking.&lt;/p&gt;&#xA;&lt;p&gt;Hearing it start up is like hearing history come to life. Although the capacity is minimal by today&amp;rsquo;s standards, its value as a historical piece of technology is irreplaceable.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

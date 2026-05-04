@@ -1,0 +1,19 @@
+<link rel="stylesheet" href="/css/data-coffer.css">
+
+<div class="gtv-container">
+  <!-- Venstre: Mascot (Billede - Centrering sikret) -->
+  <div class="gtv-mascot">
+    <img src="/images/geektheviking2.png" alt="Geek The Viking Mascot" class="gtv-mascot-img">
+  </div>
+
+  <!-- Højre: Taleboble -->
+  <div class="gtv-bubble-area">
+    <div class="gtv-bubble">
+      <h1 class="gtv-title">{{ .Title }}</h1>
+      <div class="gtv-body">
+        {{ .Content }}
+        {{ if and (reflect.IsMap .) (index . "extra") }}{{ (index . "extra") | safeHTML }}{{ end }}
+      </div>
+    </div>
+  </div>
+</div>

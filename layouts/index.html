@@ -13,24 +13,18 @@
     <meta name="description" content="Geek The Viking - Frea-X 2.0 Mascot">
     <!-- 
       CORE STYLES:
-      - freax.css: Main styling for Frea-X 2.0 / GTV identity
+      - gtv.css: GTV identity (filename have to be change)
       - Color Palette: Lilla (#4a1862) + Cyan (#00ffcc)
     -->
-    <link rel="stylesheet" href="{{ "css/freax.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/gtv.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/store-house.css" | relURL }}">
     <link rel="icon" type="image/x-icon" href="{{ "images/favicon.ico" | relURL }}">
 </head>
-<body>
+<body class="page-home">
 
-  <!-- NAVIGATION: Main menu for Frea-X ecosystem -->
-  <nav class="fx-nav">
-    <div class="fx-nav-logo">Geek The Viking</div>
-    <ul class="fx-nav-links">      
-      <li><a href="{{ "archaeology/" | relURL }}">[Archaeology]</a></li>
-      <li><a href="{{ "cyberspace/" | relURL }}">[Cyberspace]</a></li>
-      <li><a href="{{ "eastereggs/" | relURL }}">[Longship]</a></li>
-       <li><a href="{{ "gtv/" | relURL }}">[Geek The Viking]</a></li>
-    </ul>
-  </nav>
+  <!-- NAVIGATION: Main menu for GeekTheviking -->
+  <!-- NAVIGATION: Hentet fra partial for central styring -->
+  {{ partial "header.html" . }}
 
   <main class="fx-main">
 
@@ -63,31 +57,62 @@
 
     <hr class="fx-hr">
 
-    <!-- PROJECTS SECTION: Showcasing Frea-X ecosystem -->
-    <section class="fx-projects">
-        <!-- 
-          SECTION TITLE: 
-          Fixed capitalization for consistency (was: "EASTER EGGS /\ CIATIONS")
-          Now: "EASTER EGGS & CITATIONS"
-        -->
-        <h2 class="fx-section-title">LONGSHIP</h2>
-        
-        <div class="fx-cards">
-            <!-- Project Card: POSTBOX.EU -->
-            <div class="fx-card">
-                <h3 class="fx-card-title">NICE TO KNOW..</h3>
-                <p class="fx-card-desc">EASTER EGGS...</p>
-                <a href="https://postbox.eu" class="fx-btn" target="_blank">Explore →</a>
-            </div>
+<!-- DATA-VARDER SECTION -->
+{{ $art := .Site.GetPage "section" "store-house/data-coffer/artifacts" }}
+{{ $eko := .Site.GetPage "section" "store-house/data-coffer/echoes" }}
 
-            <!-- Project Card: FRANKENSTEIN AI -->
-            <div class="fx-card">
-                <h3 class="fx-card-title">GOOD TO KNOW...</h3>
-                <p class="fx-card-desc">CIATIONS.</p>
-                <a href="{{ "ai-quality/" | relURL }}" class="fx-btn">Explore →</a>
-            </div>
-        </div>
-    </section>
+<script>
+window.gtvArtifacts = [
+  {{ range $i, $p := $art.RegularPages }}
+  {{ if $i }},{{ end }}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "summary": {{ $p.Summary | plainify | truncate 150 | htmlUnescape | jsonify }},
+    "url": {{ $p.RelPermalink }}
+  }
+  {{ end }}
+];
+window.gtvEchoes = [
+  {{ range $i, $p := $eko.RegularPages }}
+  {{ if $i }},{{ end }}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "summary": {{ $p.Summary | plainify | truncate 150 | htmlUnescape | jsonify }},
+    "url": {{ $p.RelPermalink }}
+  }
+  {{ end }}
+];
+</script>
+
+<section class="fx-projects">
+  <h2 class="fx-section-title">DATA-COFFER</h2>
+
+  <div class="fx-cards">
+    <div class="fx-card">
+      <h3 class="fx-card-title">
+        <a href="/store-house/data-coffer/artifacts/">Artifacts</a>
+      </h3>
+      <div id="artifact-content">
+        <p>Loading...</p>
+      </div>
+    </div>
+
+    <div class="fx-card">
+      <h3 class="fx-card-title">
+        <a href="/store-house/data-coffer/echoes/">Echoes</a>
+      </h3>
+      <div id="echo-content">
+        <p>Loading...</p>
+      </div>
+    </div>
+  </div>
+
+<div class="fx-explore-more">
+  <a href="/store-house/data-coffer/">EXPLORE MORE TREASURE FROM STOREHOUSE ===></a>
+</div>
+
+</section>
+<script src="/js/landingpage.js"></script>
 
     <hr class="fx-hr">
 
@@ -139,7 +164,7 @@
   <footer class="fx-footer">
     <p class="fx-footer-text">The R&amp;D Lab · Exploited by Geek The Viking</p>
     <p class="fx-footer-text">Frea-X Explore · License to Exploit</p>
-    <p class="fx-footer-text">To infinity... and beyond, CyberSpace</p>
+    <p class="fx-footer-text">To infinity... and beyond, CyberSpace!</p>
     <p class="fx-footer-text"><a href="https://github.com/GeekTheViking/frea-x.com" target="_blank">Live Documentation via GitHub</a></p>
     <p class="fx-easter">
         <a href="{{ "not-a-page/" | relURL }}">The truk — Don't push this button</a>
