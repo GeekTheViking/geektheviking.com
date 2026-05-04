@@ -6,8 +6,43 @@
     <description>Recent content in Artifacts on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://geektheviking.com/store-house/data-coffer/artifacts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moore&#39;s Law</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</guid>
+      <description>&lt;p&gt;In 1965, Gordon Moore observed that the number of transistors on a chip doubled approximately every two years — while the cost halved. He published it as a prediction. The industry treated it as a law.&lt;/p&gt;&#xA;&lt;p&gt;For over 50 years, Moore&amp;rsquo;s Law held. It drove the exponential growth of computing power that put supercomputers in our pockets.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The complexity for minimum component costs has increased at a rate of roughly a factor of two per year.&amp;rdquo; — Gordon Moore, 1965&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creeper: The First Virus</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</guid>
+      <description>&lt;p&gt;In 1971, a program called &lt;strong&gt;Creeper&lt;/strong&gt; began spreading across ARPANET — the first self-replicating program in history. It moved from machine to machine and displayed a simple message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I&amp;rsquo;m the creeper, catch me if you can!&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;It was not malicious. It was an experiment. Shortly after, another program called &lt;strong&gt;Reaper&lt;/strong&gt; was created for one purpose only: to chase and delete Creeper.&lt;/p&gt;&#xA;&lt;p&gt;The first virus had its own predator. CyberSpace has always been an ecosystem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Bitcoin Genesis Block</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</guid>
+      <description>&lt;p&gt;On January 3, 2009, Satoshi Nakamoto mined the first Bitcoin block — Block #0, the Genesis Block. Embedded in its coinbase transaction was a message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A timestamp. A critique. A declaration. The first block of a decentralized financial system was built with a news headline as its foundation stone.&lt;/p&gt;&#xA;&lt;p&gt;Nobody knows who Satoshi is. The coins in the Genesis Block have never moved.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ARPANET&#39;s First Message: &#39;lo&#39;</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</guid>
+      <description>&lt;p&gt;On October 29, 1969, the first message was sent over ARPANET between UCLA and Stanford. The intended word was &amp;ldquo;login&amp;rdquo; — but the system crashed after just two letters.&lt;/p&gt;&#xA;&lt;p&gt;The first message ever transmitted across a computer network was: &lt;strong&gt;&amp;ldquo;lo&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;We were just lucky it wasn&amp;rsquo;t something embarrassing.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Today that accidental &amp;ldquo;lo&amp;rdquo; stands as the internet&amp;rsquo;s first word. Not hello — just &lt;em&gt;lo&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The First Bug</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</guid>
+      <description>&lt;p&gt;In 1947, engineers at Harvard found a moth trapped inside the Mark II computer — causing a relay failure. Grace Hopper taped it into the logbook with the note: &amp;ldquo;First actual case of bug being found.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The word &amp;ldquo;bug&amp;rdquo; had been used informally for technical problems before, but this was the moment it was documented and immortalized.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;From that day on, when anything went wrong with a computer, we said it had bugs in it.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The First AI Chat</title>
       <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</link>

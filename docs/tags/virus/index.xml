@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virus on Geek The Viking</title>
+    <link>https://geektheviking.com/tags/virus/</link>
+    <description>Recent content in Virus on Geek The Viking</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://geektheviking.com/tags/virus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creeper: The First Virus</title>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</guid>
+      <description>&lt;p&gt;In 1971, a program called &lt;strong&gt;Creeper&lt;/strong&gt; began spreading across ARPANET — the first self-replicating program in history. It moved from machine to machine and displayed a simple message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I&amp;rsquo;m the creeper, catch me if you can!&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;It was not malicious. It was an experiment. Shortly after, another program called &lt;strong&gt;Reaper&lt;/strong&gt; was created for one purpose only: to chase and delete Creeper.&lt;/p&gt;&#xA;&lt;p&gt;The first virus had its own predator. CyberSpace has always been an ecosystem.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

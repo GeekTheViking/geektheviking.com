@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freedom on Geek The Viking</title>
+    <link>https://geektheviking.com/tags/freedom/</link>
+    <description>Recent content in Freedom on Geek The Viking</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://geektheviking.com/tags/freedom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Net Routes Around Censorship</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/net-routes-around-censorship/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/net-routes-around-censorship/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The Net interprets censorship as damage and routes around it.&amp;rdquo; — John Gilmore, 1993&lt;/p&gt;&#xA;&lt;p&gt;One of the founding principles of cypherpunk culture. The internet was designed for resilience — if one node goes down, traffic finds another path. Gilmore saw that this same property applies to information itself.&lt;/p&gt;&#xA;&lt;p&gt;Block a site. A mirror appears. Delete a post. It&amp;rsquo;s already been archived. Burn a book. The PDF survives.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;CyberSpace does not forget. It just reroutes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Information Wants to Be Free</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/information-wants-to-be-free/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/information-wants-to-be-free/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Information wants to be free.&amp;rdquo; — Stewart Brand, 1984&lt;/p&gt;&#xA;&lt;p&gt;But Brand said more than that. The full quote is rarely repeated:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Information wants to be free. Information also wants to be expensive. That tension will not go away.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Free as in available. Expensive as in valuable. The entire history of the internet lives inside that contradiction — open source vs. paywalls, wikis vs. subscriptions, the commons vs. the platform.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
