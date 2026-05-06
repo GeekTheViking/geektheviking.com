@@ -2,521 +2,675 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/</link>
+    <link>http://localhost:1316/tags/</link>
     <description>Recent content in Tags on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design</title>
-      <link>https://geektheviking.com/tags/design/</link>
+      <link>http://localhost:1316/tags/design/</link>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/design/</guid>
+      <guid>http://localhost:1316/tags/design/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://geektheviking.com/tags/test/</link>
+      <link>http://localhost:1316/tags/test/</link>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/test/</guid>
+      <guid>http://localhost:1316/tags/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Anonymity</title>
-      <link>https://geektheviking.com/tags/anonymity/</link>
+      <link>http://localhost:1316/tags/anonymity/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/anonymity/</guid>
+      <guid>http://localhost:1316/tags/anonymity/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>https://geektheviking.com/tags/culture/</link>
+      <link>http://localhost:1316/tags/culture/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/culture/</guid>
+      <guid>http://localhost:1316/tags/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Humor</title>
-      <link>https://geektheviking.com/tags/humor/</link>
+      <link>http://localhost:1316/tags/humor/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/humor/</guid>
+      <guid>http://localhost:1316/tags/humor/</guid>
       <description></description>
     </item>
     <item>
       <title>Internet</title>
-      <link>https://geektheviking.com/tags/internet/</link>
+      <link>http://localhost:1316/tags/internet/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/internet/</guid>
+      <guid>http://localhost:1316/tags/internet/</guid>
       <description></description>
     </item>
     <item>
       <title>Quote</title>
-      <link>https://geektheviking.com/tags/quote/</link>
+      <link>http://localhost:1316/tags/quote/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/quote/</guid>
+      <guid>http://localhost:1316/tags/quote/</guid>
       <description></description>
     </item>
     <item>
       <title>Censorship</title>
-      <link>https://geektheviking.com/tags/censorship/</link>
+      <link>http://localhost:1316/tags/censorship/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/censorship/</guid>
+      <guid>http://localhost:1316/tags/censorship/</guid>
       <description></description>
     </item>
     <item>
       <title>Cypherpunk</title>
-      <link>https://geektheviking.com/tags/cypherpunk/</link>
+      <link>http://localhost:1316/tags/cypherpunk/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/cypherpunk/</guid>
+      <guid>http://localhost:1316/tags/cypherpunk/</guid>
       <description></description>
     </item>
     <item>
       <title>Freedom</title>
-      <link>https://geektheviking.com/tags/freedom/</link>
+      <link>http://localhost:1316/tags/freedom/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/freedom/</guid>
+      <guid>http://localhost:1316/tags/freedom/</guid>
       <description></description>
     </item>
     <item>
       <title>Gilmore</title>
-      <link>https://geektheviking.com/tags/gilmore/</link>
+      <link>http://localhost:1316/tags/gilmore/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/gilmore/</guid>
+      <guid>http://localhost:1316/tags/gilmore/</guid>
       <description></description>
     </item>
     <item>
       <title>Clarke</title>
-      <link>https://geektheviking.com/tags/clarke/</link>
+      <link>http://localhost:1316/tags/clarke/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/clarke/</guid>
+      <guid>http://localhost:1316/tags/clarke/</guid>
       <description></description>
     </item>
     <item>
       <title>Sci-Fi</title>
-      <link>https://geektheviking.com/tags/sci-fi/</link>
+      <link>http://localhost:1316/tags/sci-fi/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/sci-fi/</guid>
+      <guid>http://localhost:1316/tags/sci-fi/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://geektheviking.com/tags/technology/</link>
+      <link>http://localhost:1316/tags/technology/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/technology/</guid>
+      <guid>http://localhost:1316/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Source</title>
-      <link>https://geektheviking.com/tags/open-source/</link>
+      <link>http://localhost:1316/tags/open-source/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/open-source/</guid>
+      <guid>http://localhost:1316/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Stewart-Brand</title>
-      <link>https://geektheviking.com/tags/stewart-brand/</link>
+      <link>http://localhost:1316/tags/stewart-brand/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/stewart-brand/</guid>
+      <guid>http://localhost:1316/tags/stewart-brand/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyberpunk</title>
-      <link>https://geektheviking.com/tags/cyberpunk/</link>
+      <link>http://localhost:1316/tags/cyberpunk/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/cyberpunk/</guid>
+      <guid>http://localhost:1316/tags/cyberpunk/</guid>
       <description></description>
     </item>
     <item>
       <title>Gibson</title>
-      <link>https://geektheviking.com/tags/gibson/</link>
+      <link>http://localhost:1316/tags/gibson/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/gibson/</guid>
+      <guid>http://localhost:1316/tags/gibson/</guid>
       <description></description>
     </item>
     <item>
       <title>Neuromancer</title>
-      <link>https://geektheviking.com/tags/neuromancer/</link>
+      <link>http://localhost:1316/tags/neuromancer/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/neuromancer/</guid>
+      <guid>http://localhost:1316/tags/neuromancer/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware</title>
-      <link>https://geektheviking.com/tags/hardware/</link>
+      <link>http://localhost:1316/tags/hardware/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/hardware/</guid>
+      <guid>http://localhost:1316/tags/hardware/</guid>
       <description></description>
     </item>
     <item>
       <title>History</title>
-      <link>https://geektheviking.com/tags/history/</link>
+      <link>http://localhost:1316/tags/history/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/history/</guid>
+      <guid>http://localhost:1316/tags/history/</guid>
       <description></description>
     </item>
     <item>
       <title>Moore</title>
-      <link>https://geektheviking.com/tags/moore/</link>
+      <link>http://localhost:1316/tags/moore/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/moore/</guid>
+      <guid>http://localhost:1316/tags/moore/</guid>
       <description></description>
     </item>
     <item>
       <title>Semiconductors</title>
-      <link>https://geektheviking.com/tags/semiconductors/</link>
+      <link>http://localhost:1316/tags/semiconductors/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/semiconductors/</guid>
+      <guid>http://localhost:1316/tags/semiconductors/</guid>
       <description></description>
     </item>
     <item>
       <title>Arpanet</title>
-      <link>https://geektheviking.com/tags/arpanet/</link>
+      <link>http://localhost:1316/tags/arpanet/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/arpanet/</guid>
+      <guid>http://localhost:1316/tags/arpanet/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>https://geektheviking.com/tags/security/</link>
+      <link>http://localhost:1316/tags/security/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/security/</guid>
+      <guid>http://localhost:1316/tags/security/</guid>
       <description></description>
     </item>
     <item>
       <title>Virus</title>
-      <link>https://geektheviking.com/tags/virus/</link>
+      <link>http://localhost:1316/tags/virus/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/virus/</guid>
+      <guid>http://localhost:1316/tags/virus/</guid>
       <description></description>
     </item>
     <item>
       <title>Bitcoin</title>
-      <link>https://geektheviking.com/tags/bitcoin/</link>
+      <link>http://localhost:1316/tags/bitcoin/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/bitcoin/</guid>
+      <guid>http://localhost:1316/tags/bitcoin/</guid>
       <description></description>
     </item>
     <item>
       <title>Crypto</title>
-      <link>https://geektheviking.com/tags/crypto/</link>
+      <link>http://localhost:1316/tags/crypto/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/crypto/</guid>
+      <guid>http://localhost:1316/tags/crypto/</guid>
       <description></description>
     </item>
     <item>
       <title>Satoshi</title>
-      <link>https://geektheviking.com/tags/satoshi/</link>
+      <link>http://localhost:1316/tags/satoshi/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/satoshi/</guid>
+      <guid>http://localhost:1316/tags/satoshi/</guid>
       <description></description>
     </item>
     <item>
       <title>1969</title>
-      <link>https://geektheviking.com/tags/1969/</link>
+      <link>http://localhost:1316/tags/1969/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/1969/</guid>
+      <guid>http://localhost:1316/tags/1969/</guid>
       <description></description>
     </item>
     <item>
       <title>Debugging</title>
-      <link>https://geektheviking.com/tags/debugging/</link>
+      <link>http://localhost:1316/tags/debugging/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/debugging/</guid>
+      <guid>http://localhost:1316/tags/debugging/</guid>
       <description></description>
     </item>
     <item>
       <title>Grace-Hopper</title>
-      <link>https://geektheviking.com/tags/grace-hopper/</link>
+      <link>http://localhost:1316/tags/grace-hopper/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/grace-hopper/</guid>
+      <guid>http://localhost:1316/tags/grace-hopper/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyberspace</title>
-      <link>https://geektheviking.com/tags/cyberspace/</link>
+      <link>http://localhost:1316/tags/cyberspace/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/cyberspace/</guid>
+      <guid>http://localhost:1316/tags/cyberspace/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://geektheviking.com/tags/data/</link>
+      <link>http://localhost:1316/tags/data/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/data/</guid>
+      <guid>http://localhost:1316/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Truth</title>
-      <link>https://geektheviking.com/tags/truth/</link>
+      <link>http://localhost:1316/tags/truth/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/truth/</guid>
+      <guid>http://localhost:1316/tags/truth/</guid>
       <description></description>
     </item>
     <item>
       <title>Gtv</title>
-      <link>https://geektheviking.com/tags/gtv/</link>
+      <link>http://localhost:1316/tags/gtv/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/gtv/</guid>
+      <guid>http://localhost:1316/tags/gtv/</guid>
       <description></description>
     </item>
     <item>
       <title>Lesson</title>
-      <link>https://geektheviking.com/tags/lesson/</link>
+      <link>http://localhost:1316/tags/lesson/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/lesson/</guid>
+      <guid>http://localhost:1316/tags/lesson/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>https://geektheviking.com/tags/code/</link>
+      <link>http://localhost:1316/tags/code/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/code/</guid>
+      <guid>http://localhost:1316/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Poetry</title>
-      <link>https://geektheviking.com/tags/poetry/</link>
+      <link>http://localhost:1316/tags/poetry/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/poetry/</guid>
+      <guid>http://localhost:1316/tags/poetry/</guid>
       <description></description>
     </item>
     <item>
       <title>Hopper</title>
-      <link>https://geektheviking.com/tags/hopper/</link>
+      <link>http://localhost:1316/tags/hopper/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/hopper/</guid>
+      <guid>http://localhost:1316/tags/hopper/</guid>
       <description></description>
     </item>
     <item>
       <title>Risk</title>
-      <link>https://geektheviking.com/tags/risk/</link>
+      <link>http://localhost:1316/tags/risk/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/risk/</guid>
+      <guid>http://localhost:1316/tags/risk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Barlow</title>
+      <link>http://localhost:1316/tags/barlow/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/barlow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cryptography</title>
+      <link>http://localhost:1316/tags/cryptography/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1316/tags/education/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eff</title>
+      <link>http://localhost:1316/tags/eff/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/eff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Encryption</title>
+      <link>http://localhost:1316/tags/encryption/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/encryption/</guid>
       <description></description>
     </item>
     <item>
       <title>Free-Software</title>
-      <link>https://geektheviking.com/tags/free-software/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/free-software/</guid>
+      <link>http://localhost:1316/tags/free-software/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/free-software/</guid>
       <description></description>
     </item>
     <item>
-      <title>Stallman</title>
-      <link>https://geektheviking.com/tags/stallman/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/stallman/</guid>
+      <title>Gnu</title>
+      <link>http://localhost:1316/tags/gnu/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/gnu/</guid>
       <description></description>
     </item>
     <item>
-      <title>Inspiration</title>
-      <link>https://geektheviking.com/tags/inspiration/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/inspiration/</guid>
+      <title>Green-It</title>
+      <link>http://localhost:1316/tags/green-it/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/green-it/</guid>
       <description></description>
     </item>
     <item>
-      <title>Jobs</title>
-      <link>https://geektheviking.com/tags/jobs/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/jobs/</guid>
+      <title>Homelab</title>
+      <link>http://localhost:1316/tags/homelab/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ai</title>
-      <link>https://geektheviking.com/tags/ai/</link>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/ai/</guid>
+      <title>Human-Centric</title>
+      <link>http://localhost:1316/tags/human-centric/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/human-centric/</guid>
       <description></description>
     </item>
     <item>
-      <title>Chatbot</title>
-      <link>https://geektheviking.com/tags/chatbot/</link>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/chatbot/</guid>
+      <title>Law</title>
+      <link>http://localhost:1316/tags/law/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/law/</guid>
       <description></description>
     </item>
     <item>
-      <title>Compiler</title>
-      <link>https://geektheviking.com/tags/compiler/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/compiler/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://geektheviking.com/tags/programming/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Network</title>
-      <link>https://geektheviking.com/tags/network/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/network/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wifi</title>
-      <link>https://geektheviking.com/tags/wifi/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/wifi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wireless</title>
-      <link>https://geektheviking.com/tags/wireless/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/wireless/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Browser</title>
-      <link>https://geektheviking.com/tags/browser/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/browser/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web</title>
-      <link>https://geektheviking.com/tags/web/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/web/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Email</title>
-      <link>https://geektheviking.com/tags/email/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/email/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kernel</title>
-      <link>https://geektheviking.com/tags/kernel/</link>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/kernel/</guid>
+      <title>Linus</title>
+      <link>http://localhost:1316/tags/linus/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/linus/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://geektheviking.com/tags/linux/</link>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/linux/</guid>
+      <link>http://localhost:1316/tags/linux/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/linux/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cern</title>
-      <link>https://geektheviking.com/tags/cern/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/cern/</guid>
+      <title>Manifesto</title>
+      <link>http://localhost:1316/tags/manifesto/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/manifesto/</guid>
       <description></description>
     </item>
     <item>
-      <title>Journey</title>
-      <link>https://geektheviking.com/tags/journey/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/journey/</guid>
+      <title>Mcluhan</title>
+      <link>http://localhost:1316/tags/mcluhan/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/mcluhan/</guid>
       <description></description>
     </item>
     <item>
-      <title>Motto</title>
-      <link>https://geektheviking.com/tags/motto/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/motto/</guid>
+      <title>Performance</title>
+      <link>http://localhost:1316/tags/performance/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pgp</title>
+      <link>http://localhost:1316/tags/pgp/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/pgp/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>https://geektheviking.com/tags/philosophy/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/philosophy/</guid>
+      <link>http://localhost:1316/tags/philosophy/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1316/tags/privacy/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Protocol</title>
-      <link>https://geektheviking.com/tags/protocol/</link>
+      <link>http://localhost:1316/tags/protocol/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/protocol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry-Pi</title>
+      <link>http://localhost:1316/tags/raspberry-pi/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://localhost:1316/tags/software/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssh</title>
+      <link>http://localhost:1316/tags/ssh/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/ssh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stallman</title>
+      <link>http://localhost:1316/tags/stallman/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/stallman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sysadmin</title>
+      <link>http://localhost:1316/tags/sysadmin/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wirth</title>
+      <link>http://localhost:1316/tags/wirth/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/wirth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zimmermann</title>
+      <link>http://localhost:1316/tags/zimmermann/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/zimmermann/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspiration</title>
+      <link>http://localhost:1316/tags/inspiration/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jobs</title>
+      <link>http://localhost:1316/tags/jobs/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/jobs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1316/tags/ai/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chatbot</title>
+      <link>http://localhost:1316/tags/chatbot/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compiler</title>
+      <link>http://localhost:1316/tags/compiler/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/compiler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1316/tags/programming/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>http://localhost:1316/tags/network/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wifi</title>
+      <link>http://localhost:1316/tags/wifi/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/wifi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireless</title>
+      <link>http://localhost:1316/tags/wireless/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/wireless/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Browser</title>
+      <link>http://localhost:1316/tags/browser/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/browser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1316/tags/web/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Email</title>
+      <link>http://localhost:1316/tags/email/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/email/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kernel</title>
+      <link>http://localhost:1316/tags/kernel/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/kernel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cern</title>
+      <link>http://localhost:1316/tags/cern/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/cern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Journey</title>
+      <link>http://localhost:1316/tags/journey/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/protocol/</guid>
+      <guid>http://localhost:1316/tags/journey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motto</title>
+      <link>http://localhost:1316/tags/motto/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/tags/motto/</guid>
       <description></description>
     </item>
     <item>
       <title>Hacking</title>
-      <link>https://geektheviking.com/tags/hacking/</link>
+      <link>http://localhost:1316/tags/hacking/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/hacking/</guid>
+      <guid>http://localhost:1316/tags/hacking/</guid>
       <description></description>
     </item>
     <item>
       <title>Retro</title>
-      <link>https://geektheviking.com/tags/retro/</link>
+      <link>http://localhost:1316/tags/retro/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/retro/</guid>
+      <guid>http://localhost:1316/tags/retro/</guid>
       <description></description>
     </item>
     <item>
       <title>Storage</title>
-      <link>https://geektheviking.com/tags/storage/</link>
+      <link>http://localhost:1316/tags/storage/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/storage/</guid>
+      <guid>http://localhost:1316/tags/storage/</guid>
       <description></description>
     </item>
     <item>
       <title>Wisdom</title>
-      <link>https://geektheviking.com/tags/wisdom/</link>
+      <link>http://localhost:1316/tags/wisdom/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/wisdom/</guid>
+      <guid>http://localhost:1316/tags/wisdom/</guid>
       <description></description>
     </item>
     <item>
       <title>Mechanical</title>
-      <link>https://geektheviking.com/tags/mechanical/</link>
+      <link>http://localhost:1316/tags/mechanical/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/mechanical/</guid>
+      <guid>http://localhost:1316/tags/mechanical/</guid>
       <description></description>
     </item>
     <item>
       <title>Classic</title>
-      <link>https://geektheviking.com/tags/classic/</link>
+      <link>http://localhost:1316/tags/classic/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/classic/</guid>
+      <guid>http://localhost:1316/tags/classic/</guid>
       <description></description>
     </item>
     <item>
       <title>Reliability</title>
-      <link>https://geektheviking.com/tags/reliability/</link>
+      <link>http://localhost:1316/tags/reliability/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/reliability/</guid>
+      <guid>http://localhost:1316/tags/reliability/</guid>
       <description></description>
     </item>
     <item>
       <title>Nostalgia</title>
-      <link>https://geektheviking.com/tags/nostalgia/</link>
+      <link>http://localhost:1316/tags/nostalgia/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/nostalgia/</guid>
+      <guid>http://localhost:1316/tags/nostalgia/</guid>
       <description></description>
     </item>
     <item>
       <title>Scandinavian</title>
-      <link>https://geektheviking.com/tags/scandinavian/</link>
+      <link>http://localhost:1316/tags/scandinavian/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/scandinavian/</guid>
+      <guid>http://localhost:1316/tags/scandinavian/</guid>
       <description></description>
     </item>
     <item>
       <title>Frea-X</title>
-      <link>https://geektheviking.com/tags/frea-x/</link>
+      <link>http://localhost:1316/tags/frea-x/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/frea-x/</guid>
+      <guid>http://localhost:1316/tags/frea-x/</guid>
       <description></description>
     </item>
     <item>
       <title>License</title>
-      <link>https://geektheviking.com/tags/license/</link>
+      <link>http://localhost:1316/tags/license/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/tags/license/</guid>
+      <guid>http://localhost:1316/tags/license/</guid>
       <description></description>
     </item>
   </channel>

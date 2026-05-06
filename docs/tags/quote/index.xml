@@ -2,73 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quote on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/quote/</link>
+    <link>http://localhost:1316/tags/quote/</link>
     <description>Recent content in Quote on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/quote/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/quote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nobody Knows You&#39;re a Dog</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</guid>
       <description>&lt;p&gt;&amp;ldquo;On the Internet, nobody knows you&amp;rsquo;re a dog.&amp;rdquo; — Peter Steiner, The New Yorker, 1993&lt;/p&gt;&#xA;&lt;p&gt;A cartoon. A dog sits at a computer telling another dog the good news. It became one of the most reproduced cartoons in New Yorker history.&lt;/p&gt;&#xA;&lt;p&gt;It was meant as a joke about anonymity. It became a prophecy about identity, personas, avatars, trolls, bots, and the entire architecture of online existence.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In CyberSpace, you are what you type. Nothing more. Nothing less. For better or worse.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Net Routes Around Censorship</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/net-routes-around-censorship/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/net-routes-around-censorship/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/net-routes-around-censorship/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/net-routes-around-censorship/</guid>
       <description>&lt;p&gt;&amp;ldquo;The Net interprets censorship as damage and routes around it.&amp;rdquo; — John Gilmore, 1993&lt;/p&gt;&#xA;&lt;p&gt;One of the founding principles of cypherpunk culture. The internet was designed for resilience — if one node goes down, traffic finds another path. Gilmore saw that this same property applies to information itself.&lt;/p&gt;&#xA;&lt;p&gt;Block a site. A mirror appears. Delete a post. It&amp;rsquo;s already been archived. Burn a book. The PDF survives.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;CyberSpace does not forget. It just reroutes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sufficiently Advanced Technology</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/sufficiently-advanced-technology/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/sufficiently-advanced-technology/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/sufficiently-advanced-technology/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/sufficiently-advanced-technology/</guid>
       <description>&lt;p&gt;&amp;ldquo;Any sufficiently advanced technology is indistinguishable from magic.&amp;rdquo; — Arthur C. Clarke&lt;/p&gt;&#xA;&lt;p&gt;Clarke&amp;rsquo;s Third Law. Written in 1973. More true today than ever.&lt;/p&gt;&#xA;&lt;p&gt;Show a smartphone to someone from 1900. A pocket-sized rectangle that holds all of human knowledge, speaks to satellites, and lets you see your family across the world in real time.&lt;/p&gt;&#xA;&lt;p&gt;Magic. Obviously magic.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The line between engineer and wizard has always been thinner than we admit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Information Wants to Be Free</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/information-wants-to-be-free/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/information-wants-to-be-free/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/information-wants-to-be-free/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/information-wants-to-be-free/</guid>
       <description>&lt;p&gt;&amp;ldquo;Information wants to be free.&amp;rdquo; — Stewart Brand, 1984&lt;/p&gt;&#xA;&lt;p&gt;But Brand said more than that. The full quote is rarely repeated:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Information wants to be free. Information also wants to be expensive. That tension will not go away.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Free as in available. Expensive as in valuable. The entire history of the internet lives inside that contradiction — open source vs. paywalls, wikis vs. subscriptions, the commons vs. the platform.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Street Finds Its Own Uses</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/street-finds-its-uses/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/street-finds-its-uses/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/street-finds-its-uses/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/street-finds-its-uses/</guid>
       <description>&lt;p&gt;&amp;ldquo;The street finds its own uses for things.&amp;rdquo; — William Gibson&lt;/p&gt;&#xA;&lt;p&gt;Technology is never just what its creators intended. It escapes into the hands of the many — and the many reshape it. Every platform becomes a black market. Every tool becomes a weapon or a canvas.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;CyberSpace was not built for us. We built ourselves into it.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Ask Forgiveness</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/ask-forgiveness/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/ask-forgiveness/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/ask-forgiveness/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/ask-forgiveness/</guid>
       <description>&lt;p&gt;&amp;ldquo;It&amp;rsquo;s easier to ask forgiveness than it is to get permission.&amp;rdquo; – Grace Hopper.&lt;/p&gt;&#xA;&lt;p&gt;Innovation requires action. Sometimes, you have to break the rules to move forward.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Don&amp;rsquo;t wait for permission. Build first, ask later.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
-      <title>The Future is Already Here</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/future-already-here/</link>
+      <title>Cyberspace Has No Borders</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/cyberspace-has-no-borders/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/future-already-here/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/cyberspace-has-no-borders/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— John Perry Barlow, &lt;em&gt;A Declaration of the Independence of Cyberspace&lt;/em&gt;, 1996&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cyberspace does not lie within your borders.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Written from Davos during the World Economic Forum. Addressed to the governments of the world. It remains the most powerful statement ever written about the nature of the internet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Given Enough Eyeballs</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Given enough eyeballs, all bugs are shallow.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Eric S. Raymond, naming the principle after Linus Torvalds, in &lt;em&gt;The Cathedral and the Bazaar&lt;/em&gt;, 1997&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Also known as Linus&amp;rsquo;s Law.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The idea: if enough people can see the source code, someone will spot the bug. Closed source hides problems. Open source exposes them — and fixes them faster.&lt;/p&gt;&#xA;&lt;p&gt;It is one of the foundational arguments for open-source software. Not just idealism. Engineering logic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Future is Already Here</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/future-already-here/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/future-already-here/</guid>
       <description>&lt;p&gt;&amp;ldquo;The future is already here. It&amp;rsquo;s just not evenly distributed.&amp;rdquo; – William Gibson.&lt;/p&gt;&#xA;&lt;p&gt;The tools are here. The knowledge is here. What&amp;rsquo;s missing is the will to use them.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future waits for no one. It&amp;rsquo;s already here.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
+      <title>We Shape Our Tools</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/tools-shape-us/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/tools-shape-us/</guid>
+      <description>&lt;p&gt;&amp;ldquo;We shape our tools, and thereafter our tools shape us.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Marshall McLuhan (attributed), 1964&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The medium is the message.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;McLuhan saw it before anyone else: technology is not neutral. Every tool we build changes how we think, how we communicate, how we perceive the world.&lt;/p&gt;&#xA;&lt;p&gt;The smartphone changed attention spans. Social media changed political discourse. The algorithm changed what we believe.&lt;/p&gt;&#xA;&lt;p&gt;This is exactly why &lt;em&gt;AI &amp;amp; IT under human control&lt;/em&gt; matters. Once you let the tool shape you without awareness, you have lost something essential.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wirth&#39;s Law</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/wirths-law/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/wirths-law/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Software is getting slower more rapidly than hardware becomes faster.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Niklaus Wirth, &lt;em&gt;A Plea for Lean Software&lt;/em&gt;, 1995&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Also known as Wirth&amp;rsquo;s Law. Complementary to Moore&amp;rsquo;s Law.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Moore&amp;rsquo;s Law promised hardware doubles in power every two years. Wirth observed that software eats those gains before users see them.&lt;/p&gt;&#xA;&lt;p&gt;Every abstraction layer. Every framework on top of a framework. Every electron bloated by convenience. The machine gets faster. The experience does not.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Free as in Freedom</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/free-as-in-freedom/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/free-as-in-freedom/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/free-as-in-freedom/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/free-as-in-freedom/</guid>
       <description>&lt;p&gt;&amp;ldquo;Free as in freedom, not free as in beer.&amp;rdquo; – Richard Stallman.&lt;/p&gt;&#xA;&lt;p&gt;Freedom to run, study, modify, and share. The core of open source.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Software should serve the user, not the other way around.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Stay Hungry, Stay Foolish</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/stay-hungry-foolish/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/stay-hungry-foolish/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/stay-hungry-foolish/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/stay-hungry-foolish/</guid>
       <description>&lt;p&gt;&amp;ldquo;Stay hungry, stay foolish.&amp;rdquo; – Steve Jobs, 2005.&lt;/p&gt;&#xA;&lt;p&gt;A reminder that comfort is the enemy of growth. The best discoveries happen when you&amp;rsquo;re willing to look foolish.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future belongs to the curious, not the comfortable.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

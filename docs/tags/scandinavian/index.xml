@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scandinavian on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/scandinavian/</link>
+    <link>http://localhost:1316/tags/scandinavian/</link>
     <description>Recent content in Scandinavian on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/scandinavian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/scandinavian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Mystical Wooden Mouse</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/tree-mouse/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/tree-mouse/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/tree-mouse/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/tree-mouse/</guid>
       <description>&lt;p&gt;This unique computer mouse is not made of plastic, but of solid oak, carved into the shape of a small Viking. Found at a flea market in Aarhus in 1999, it has served as a lucky charm on many development machines.&lt;/p&gt;&#xA;&lt;p&gt;While it lacks modern ergonomics, its weight and feel in the hand are unmatched. It still functions as a perfect USB mouse, but requires a bit more strength to click.&lt;/p&gt;</description>
     </item>
   </channel>

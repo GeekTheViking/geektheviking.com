@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reliability on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/reliability/</link>
+    <link>http://localhost:1316/tags/reliability/</link>
     <description>Recent content in Reliability on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/reliability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/reliability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Beloved Router</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/192-168-0-1-router/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/192-168-0-1-router/</guid>
       <description>&lt;p&gt;This router, with IP address 192.168.0.1, has been the backbone of the Geek The Viking network for over a decade. It has survived multiple power outages, a lightning strike, and countless firmware updates.&lt;/p&gt;&#xA;&lt;p&gt;Although technically obsolete, its stability is legendary. It still runs on the original firmware and handles thousands of connections without blinking.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;When everything else fails, 192.168.0.1 is still there.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

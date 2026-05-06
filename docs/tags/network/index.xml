@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/network/</link>
+    <link>http://localhost:1316/tags/network/</link>
     <description>Recent content in Network on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The First WiFi Router</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/first-wifi-router/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/first-wifi-router/</guid>
       <description>&lt;p&gt;In 1999, the first 802.11b routers hit the market, offering 11 Mbps wireless speeds. It was slow, but it freed us from cables.&lt;/p&gt;&#xA;&lt;p&gt;Today, WiFi is everywhere. The first router was the spark that lit the wireless revolution.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cables bind us. WiFi sets us free.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>The First @ Symbol</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/first-email/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/first-email/</guid>
       <description>&lt;p&gt;In 1971, Ray Tomlinson sent the first networked email. He couldn&amp;rsquo;t remember the exact content, but he chose the &lt;code&gt;@&lt;/code&gt; symbol to separate user from machine.&lt;/p&gt;&#xA;&lt;p&gt;That simple symbol now lives in billions of addresses, connecting people across the globe.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The @ symbol is the most used character in the digital world.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>The Invisible Backbone</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/tcp-ip-protocol/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/tcp-ip-protocol/</guid>
       <description>&lt;p&gt;In 1974, Vint Cerf and Bob Kahn published the paper that would become the DNA of the internet. TCP/IP didn&amp;rsquo;t just connect computers – it connected humanity.&lt;/p&gt;&#xA;&lt;p&gt;Every packet you send, every page you load, rides on this invisible backbone. It&amp;rsquo;s the unsung hero of the digital age.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If the internet were a city, TCP/IP would be the streets, the lights, and the air.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Cyber Scan: 192.168.0.1</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</guid>
       <description>&lt;p&gt;&amp;ldquo;The best bug is the one you never find, but the one you fix before it becomes a feature.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;This echo reminds us that security is not a goal, but a process. Every time we scan our network, we find new things to improve. And even though 192.168.0.1 is safe, it is never a guarantee for the future.&lt;/p&gt;&#xA;&lt;p&gt;Keep your eyes open, and keep your network secure.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Beloved Router</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/192-168-0-1-router/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/192-168-0-1-router/</guid>
       <description>&lt;p&gt;This router, with IP address 192.168.0.1, has been the backbone of the Geek The Viking network for over a decade. It has survived multiple power outages, a lightning strike, and countless firmware updates.&lt;/p&gt;&#xA;&lt;p&gt;Although technically obsolete, its stability is legendary. It still runs on the original firmware and handles thousands of connections without blinking.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;When everything else fails, 192.168.0.1 is still there.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open-Source on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/open-source/</link>
+    <link>http://localhost:1316/tags/open-source/</link>
     <description>Recent content in Open-Source on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Information Wants to Be Free</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/information-wants-to-be-free/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/information-wants-to-be-free/</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/information-wants-to-be-free/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/information-wants-to-be-free/</guid>
       <description>&lt;p&gt;&amp;ldquo;Information wants to be free.&amp;rdquo; — Stewart Brand, 1984&lt;/p&gt;&#xA;&lt;p&gt;But Brand said more than that. The full quote is rarely repeated:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Information wants to be free. Information also wants to be expensive. That tension will not go away.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Free as in available. Expensive as in valuable. The entire history of the internet lives inside that contradiction — open source vs. paywalls, wikis vs. subscriptions, the commons vs. the platform.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Given Enough Eyeballs</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Given enough eyeballs, all bugs are shallow.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Eric S. Raymond, naming the principle after Linus Torvalds, in &lt;em&gt;The Cathedral and the Bazaar&lt;/em&gt;, 1997&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Also known as Linus&amp;rsquo;s Law.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The idea: if enough people can see the source code, someone will spot the bug. Closed source hides problems. Open source exposes them — and fixes them faster.&lt;/p&gt;&#xA;&lt;p&gt;It is one of the foundational arguments for open-source software. Not just idealism. Engineering logic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The GNU Manifesto</title>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/gnu-manifesto/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/gnu-manifesto/</guid>
+      <description>&lt;p&gt;In 1985, Richard Stallman published the GNU Manifesto. It was a call to arms.&lt;/p&gt;&#xA;&lt;p&gt;He had already started GNU — a free Unix-like operating system. The manifesto explained why: software should be free, as in freedom. Not a product. Not a cage.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I consider that the Golden Rule requires that if I like a program I must share it with other people who like it.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The manifesto gave birth to the free software movement. Without it, there would be no Linux, no Apache, no Firefox — no open internet as we know it.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Linux 0.01: The First Seed</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/linux-0-01/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/linux-0-01/</guid>
       <description>&lt;p&gt;In 1991, Linus Torvalds released Linux 0.01 – a kernel with just 10,239 lines of code. Today, the Linux kernel has over 30 million lines.&lt;/p&gt;&#xA;&lt;p&gt;It started as a hobby. It became the foundation of the internet, Android, and supercomputers.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Every empire begins with a single line of code.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

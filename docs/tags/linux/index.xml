@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/linux/</link>
+    <link>http://localhost:1316/tags/linux/</link>
     <description>Recent content in Linux on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1316/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Given Enough Eyeballs</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Given enough eyeballs, all bugs are shallow.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Eric S. Raymond, naming the principle after Linus Torvalds, in &lt;em&gt;The Cathedral and the Bazaar&lt;/em&gt;, 1997&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Also known as Linus&amp;rsquo;s Law.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The idea: if enough people can see the source code, someone will spot the bug. Closed source hides problems. Open source exposes them — and fixes them faster.&lt;/p&gt;&#xA;&lt;p&gt;It is one of the foundational arguments for open-source software. Not just idealism. Engineering logic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SSH — Secure Shell Protocol</title>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/ssh-protocol/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/ssh-protocol/</guid>
+      <description>&lt;p&gt;In 1995, Tatu Ylönen — a Finnish researcher at Helsinki University of Technology — discovered his university network had been sniffed. Passwords were being stolen over the wire in plaintext.&lt;/p&gt;&#xA;&lt;p&gt;He spent three months building a solution. SSH 1.0 was released in July 1995. Within a few months, 20,000 users in 50 countries had installed it.&lt;/p&gt;&#xA;&lt;p&gt;SSH replaced telnet, rsh and rlogin overnight. Every server administrator in the world now types &lt;code&gt;ssh&lt;/code&gt; as naturally as breathing.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Linux 0.01: The First Seed</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/linux-0-01/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/linux-0-01/</guid>
       <description>&lt;p&gt;In 1991, Linus Torvalds released Linux 0.01 – a kernel with just 10,239 lines of code. Today, the Linux kernel has over 30 million lines.&lt;/p&gt;&#xA;&lt;p&gt;It started as a hobby. It became the foundation of the internet, Android, and supercomputers.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Every empire begins with a single line of code.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

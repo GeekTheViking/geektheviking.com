@@ -2,406 +2,511 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geektheviking.com/</loc>
+    <loc>http://localhost:1316/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/design/</loc>
+    <loc>http://localhost:1316/tags/design/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/</loc>
+    <loc>http://localhost:1316/store-house/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/</loc>
+    <loc>http://localhost:1316/tags/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/test/</loc>
+    <loc>http://localhost:1316/tags/test/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/test/test-side/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/test/test-side/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/longship/</loc>
+    <loc>http://localhost:1316/longship/</loc>
     <lastmod>2025-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/</loc>
+    <loc>http://localhost:1316/long-hall/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/anonymity/</loc>
+    <loc>http://localhost:1316/tags/anonymity/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/culture/</loc>
+    <loc>http://localhost:1316/tags/culture/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/humor/</loc>
+    <loc>http://localhost:1316/tags/humor/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/internet/</loc>
+    <loc>http://localhost:1316/tags/internet/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/quote/</loc>
+    <loc>http://localhost:1316/tags/quote/</loc>
     <lastmod>2024-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/censorship/</loc>
+    <loc>http://localhost:1316/tags/censorship/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/cypherpunk/</loc>
+    <loc>http://localhost:1316/tags/cypherpunk/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/freedom/</loc>
+    <loc>http://localhost:1316/tags/freedom/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/gilmore/</loc>
+    <loc>http://localhost:1316/tags/gilmore/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/net-routes-around-censorship/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/net-routes-around-censorship/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/clarke/</loc>
+    <loc>http://localhost:1316/tags/clarke/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/sci-fi/</loc>
+    <loc>http://localhost:1316/tags/sci-fi/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/sufficiently-advanced-technology/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/sufficiently-advanced-technology/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/technology/</loc>
+    <loc>http://localhost:1316/tags/technology/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/information-wants-to-be-free/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/information-wants-to-be-free/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/open-source/</loc>
+    <loc>http://localhost:1316/tags/open-source/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/stewart-brand/</loc>
+    <loc>http://localhost:1316/tags/stewart-brand/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/cyberpunk/</loc>
+    <loc>http://localhost:1316/tags/cyberpunk/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/gibson/</loc>
+    <loc>http://localhost:1316/tags/gibson/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/neuromancer/</loc>
+    <loc>http://localhost:1316/tags/neuromancer/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/street-finds-its-uses/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/street-finds-its-uses/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/hardware/</loc>
+    <loc>http://localhost:1316/tags/hardware/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/history/</loc>
+    <loc>http://localhost:1316/tags/history/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/moore/</loc>
+    <loc>http://localhost:1316/tags/moore/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/moores-law/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/semiconductors/</loc>
+    <loc>http://localhost:1316/tags/semiconductors/</loc>
     <lastmod>2024-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/arpanet/</loc>
+    <loc>http://localhost:1316/tags/arpanet/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/first-computer-virus/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/security/</loc>
+    <loc>http://localhost:1316/tags/security/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/virus/</loc>
+    <loc>http://localhost:1316/tags/virus/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/bitcoin/</loc>
+    <loc>http://localhost:1316/tags/bitcoin/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/crypto/</loc>
+    <loc>http://localhost:1316/tags/crypto/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/satoshi/</loc>
+    <loc>http://localhost:1316/tags/satoshi/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/bitcoin-genesis-block/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/1969/</loc>
+    <loc>http://localhost:1316/tags/1969/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/arpanet-first-message/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/debugging/</loc>
+    <loc>http://localhost:1316/tags/debugging/</loc>
     <lastmod>2024-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/grace-hopper/</loc>
+    <loc>http://localhost:1316/tags/grace-hopper/</loc>
     <lastmod>2024-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/the-first-bug/</loc>
     <lastmod>2024-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/cyberspace/</loc>
+    <loc>http://localhost:1316/tags/cyberspace/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/data/</loc>
+    <loc>http://localhost:1316/tags/data/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/data-never-dies/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/data-never-dies/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/truth/</loc>
+    <loc>http://localhost:1316/tags/truth/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/bug-is-lesson/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/gtv/</loc>
+    <loc>http://localhost:1316/tags/gtv/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/lesson/</loc>
+    <loc>http://localhost:1316/tags/lesson/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/code/</loc>
+    <loc>http://localhost:1316/tags/code/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/code-is-poetry/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/poetry/</loc>
+    <loc>http://localhost:1316/tags/poetry/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/ask-forgiveness/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/ask-forgiveness/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/hopper/</loc>
+    <loc>http://localhost:1316/tags/hopper/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/risk/</loc>
+    <loc>http://localhost:1316/tags/risk/</loc>
     <lastmod>2024-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/future-already-here/</loc>
+    <loc>http://localhost:1316/tags/barlow/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/free-as-in-freedom/</loc>
+    <loc>http://localhost:1316/tags/cryptography/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/cyberspace-has-no-borders/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/education/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/eff/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/encryption/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/free-software/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/gnu/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/green-it/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/homelab/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/human-centric/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/law/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/linus/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/linux/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/manifesto/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/mcluhan/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/performance/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/pgp/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/pgp-pretty-good-privacy/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/philosophy/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/privacy/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/protocol/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/raspberry-pi/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/raspberry-pi/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/software/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/ssh/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/ssh-protocol/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/stallman/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/sysadmin/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/future-already-here/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/gnu-manifesto/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/tools-shape-us/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/wirth/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/wirths-law/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/tags/zimmermann/</loc>
+    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/free-as-in-freedom/</loc>
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/free-software/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/stallman/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/inspiration/</loc>
+    <loc>http://localhost:1316/tags/inspiration/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/jobs/</loc>
+    <loc>http://localhost:1316/tags/jobs/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/stay-hungry-foolish/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/stay-hungry-foolish/</loc>
     <lastmod>2024-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/ai/</loc>
+    <loc>http://localhost:1316/tags/ai/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/chatbot/</loc>
+    <loc>http://localhost:1316/tags/chatbot/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/first-ai/</loc>
     <lastmod>2024-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/compiler/</loc>
+    <loc>http://localhost:1316/tags/compiler/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/programming/</loc>
+    <loc>http://localhost:1316/tags/programming/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/first-compiler/</loc>
     <lastmod>2024-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/network/</loc>
+    <loc>http://localhost:1316/tags/network/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/first-wifi-router/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/wifi/</loc>
+    <loc>http://localhost:1316/tags/wifi/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/wireless/</loc>
+    <loc>http://localhost:1316/tags/wireless/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/browser/</loc>
+    <loc>http://localhost:1316/tags/browser/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/web/</loc>
+    <loc>http://localhost:1316/tags/web/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/first-web-browser/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/first-web-browser/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/email/</loc>
+    <loc>http://localhost:1316/tags/email/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/first-email/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/kernel/</loc>
+    <loc>http://localhost:1316/tags/kernel/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/linux/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/linux-0-01/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</loc>
-    <lastmod>2024-01-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/cern/</loc>
+    <loc>http://localhost:1316/tags/cern/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/first-website/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/first-website/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/journey/</loc>
+    <loc>http://localhost:1316/tags/journey/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/motto/</loc>
+    <loc>http://localhost:1316/tags/motto/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/philosophy/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/tcp-ip-protocol/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/protocol/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</loc>
     <lastmod>2024-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</loc>
-    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/hacking/</loc>
+    <loc>http://localhost:1316/tags/hacking/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/retro/</loc>
+    <loc>http://localhost:1316/tags/retro/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/storage/</loc>
+    <loc>http://localhost:1316/tags/storage/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/8-inch-floppy/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/8-inch-floppy/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/perfection-is-a-myth/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/perfection-is-a-myth/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/wisdom/</loc>
+    <loc>http://localhost:1316/tags/wisdom/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/mechanical/</loc>
+    <loc>http://localhost:1316/tags/mechanical/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/vintage-harddrive/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/vintage-harddrive/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/classic/</loc>
+    <loc>http://localhost:1316/tags/classic/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/reliability/</loc>
+    <loc>http://localhost:1316/tags/reliability/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/192-168-0-1-router/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/nostalgia/</loc>
+    <loc>http://localhost:1316/tags/nostalgia/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/scandinavian/</loc>
+    <loc>http://localhost:1316/tags/scandinavian/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/tree-mouse/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/tree-mouse/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/artifacts/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/frea-x/</loc>
+    <loc>http://localhost:1316/tags/frea-x/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/license/</loc>
+    <loc>http://localhost:1316/tags/license/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</loc>
+    <loc>http://localhost:1316/store-house/data-coffer/echoes/license-to-exploit-v0042/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/aaron-swartz/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/aaron-swartz/</loc>
     <lastmod>1986-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/linus-torvalds/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/linus-torvalds/</loc>
     <lastmod>1969-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/tim-berners-lee/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/kevin-mitnick/</loc>
+    <lastmod>1963-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/tim-berners-lee/</loc>
     <lastmod>1955-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/richard-stallman/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/phil-zimmermann/</loc>
+    <lastmod>1954-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/richard-stallman/</loc>
     <lastmod>1953-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/bjarne-stroustrup/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/bjarne-stroustrup/</loc>
     <lastmod>1950-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/vint-cerf/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/john-perry-barlow/</loc>
+    <lastmod>1947-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/vint-cerf/</loc>
     <lastmod>1943-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/ken-thompson/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/ken-thompson/</loc>
     <lastmod>1943-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/dennis-ritchie/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/brian-kernighan/</loc>
+    <lastmod>1942-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/dennis-ritchie/</loc>
     <lastmod>1941-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/margaret-hamilton/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/margaret-hamilton/</loc>
     <lastmod>1936-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/douglas-engelbart/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/john-mccarthy/</loc>
+    <lastmod>1927-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/douglas-engelbart/</loc>
     <lastmod>1925-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/claude-shannon/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/claude-shannon/</loc>
     <lastmod>1916-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/alan-turing/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/alan-turing/</loc>
     <lastmod>1912-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/grace-hopper/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/grace-hopper/</loc>
     <lastmod>1906-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/long-hall/cyberspace-personalities/ada-lovelace/</loc>
+    <loc>http://localhost:1316/long-hall/cyberspace-personalities/ada-lovelace/</loc>
     <lastmod>1815-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/protocol/</loc>
+    <loc>http://localhost:1316/protocol/</loc>
   </url><url>
-    <loc>https://geektheviking.com/categories/</loc>
+    <loc>http://localhost:1316/categories/</loc>
   </url><url>
-    <loc>https://geektheviking.com/cyberspace/</loc>
+    <loc>http://localhost:1316/cyberspace/</loc>
   </url><url>
-    <loc>https://geektheviking.com/store-house/test-debug/</loc>
+    <loc>http://localhost:1316/store-house/test-debug/</loc>
   </url><url>
-    <loc>https://geektheviking.com/gtv/</loc>
+    <loc>http://localhost:1316/gtv/</loc>
   </url><url>
-    <loc>https://geektheviking.com/not-a-page/</loc>
+    <loc>http://localhost:1316/not-a-page/</loc>
   </url>
 </urlset>

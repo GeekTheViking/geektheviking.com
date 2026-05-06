@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gtv on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/gtv/</link>
+    <link>http://localhost:1316/tags/gtv/</link>
     <description>Recent content in Gtv on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/gtv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/gtv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Every Bug is a Lesson</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/bug-is-lesson/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/bug-is-lesson/</guid>
       <description>&lt;p&gt;&amp;ldquo;Every bug is a lesson. Every crash, a teacher.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Debugging isn&amp;rsquo;t failure. It&amp;rsquo;s the process of learning what the machine is trying to tell you.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Embrace the bug. It&amp;rsquo;s the path to mastery.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Code is Poetry</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/code-is-poetry/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/code-is-poetry/</guid>
       <description>&lt;p&gt;&amp;ldquo;Code is poetry written for machines. But even poetry needs a rough draft.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Every line is a verse. Every function, a stanza. The best code tells a story.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Write code that sings, even to the machine.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>To infinity... and beyond, CyberSpace</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
       <description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>License to Exploit v0.042</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/license-to-exploit-v0042/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/license-to-exploit-v0042/</guid>
       <description>&lt;p&gt;The License to Exploit is not about taking - it is about exploring.&lt;/p&gt;&#xA;&lt;p&gt;In CyberSpace, every connection is an opportunity. Every open port is a door waiting to be understood. Every vulnerability is a lesson, not a weapon.&lt;/p&gt;&#xA;&lt;p&gt;Exploit the knowledge. Exploit the possibilities. Never exploit the people.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;License to Exploit - v0.042 - Frea-X Edition&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

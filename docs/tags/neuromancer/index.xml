@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neuromancer on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/neuromancer/</link>
+    <link>http://localhost:1316/tags/neuromancer/</link>
     <description>Recent content in Neuromancer on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/neuromancer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/neuromancer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Street Finds Its Own Uses</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/street-finds-its-uses/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/street-finds-its-uses/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/street-finds-its-uses/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/street-finds-its-uses/</guid>
       <description>&lt;p&gt;&amp;ldquo;The street finds its own uses for things.&amp;rdquo; — William Gibson&lt;/p&gt;&#xA;&lt;p&gt;Technology is never just what its creators intended. It escapes into the hands of the many — and the many reshape it. Every platform becomes a black market. Every tool becomes a weapon or a canvas.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;CyberSpace was not built for us. We built ourselves into it.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

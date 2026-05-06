@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>License on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/license/</link>
+    <link>http://localhost:1316/tags/license/</link>
     <description>Recent content in License on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/license/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/license/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>License to Exploit v0.042</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/license-to-exploit-v0042/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/license-to-exploit-v0042/</guid>
       <description>&lt;p&gt;The License to Exploit is not about taking - it is about exploring.&lt;/p&gt;&#xA;&lt;p&gt;In CyberSpace, every connection is an opportunity. Every open port is a door waiting to be understood. Every vulnerability is a lesson, not a weapon.&lt;/p&gt;&#xA;&lt;p&gt;Exploit the knowledge. Exploit the possibilities. Never exploit the people.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;License to Exploit - v0.042 - Frea-X Edition&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

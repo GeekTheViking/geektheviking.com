@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grace-Hopper on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/grace-hopper/</link>
+    <link>http://localhost:1316/tags/grace-hopper/</link>
     <description>Recent content in Grace-Hopper on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/grace-hopper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/grace-hopper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The First Bug</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/the-first-bug/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/the-first-bug/</guid>
       <description>&lt;p&gt;In 1947, engineers at Harvard found a moth trapped inside the Mark II computer — causing a relay failure. Grace Hopper taped it into the logbook with the note: &amp;ldquo;First actual case of bug being found.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The word &amp;ldquo;bug&amp;rdquo; had been used informally for technical problems before, but this was the moment it was documented and immortalized.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;From that day on, when anything went wrong with a computer, we said it had bugs in it.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culture on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/culture/</link>
+    <link>http://localhost:1316/tags/culture/</link>
     <description>Recent content in Culture on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nobody Knows You&#39;re a Dog</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</guid>
       <description>&lt;p&gt;&amp;ldquo;On the Internet, nobody knows you&amp;rsquo;re a dog.&amp;rdquo; — Peter Steiner, The New Yorker, 1993&lt;/p&gt;&#xA;&lt;p&gt;A cartoon. A dog sits at a computer telling another dog the good news. It became one of the most reproduced cartoons in New Yorker history.&lt;/p&gt;&#xA;&lt;p&gt;It was meant as a joke about anonymity. It became a prophecy about identity, personas, avatars, trolls, bots, and the entire architecture of online existence.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In CyberSpace, you are what you type. Nothing more. Nothing less. For better or worse.&lt;/p&gt;</description>
     </item>
   </channel>

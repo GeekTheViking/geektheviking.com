@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debugging on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/debugging/</link>
+    <link>http://localhost:1316/tags/debugging/</link>
     <description>Recent content in Debugging on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The First Bug</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</link>
+      <link>http://localhost:1316/store-house/data-coffer/artifacts/the-first-bug/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/artifacts/the-first-bug/</guid>
       <description>&lt;p&gt;In 1947, engineers at Harvard found a moth trapped inside the Mark II computer — causing a relay failure. Grace Hopper taped it into the logbook with the note: &amp;ldquo;First actual case of bug being found.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The word &amp;ldquo;bug&amp;rdquo; had been used informally for technical problems before, but this was the moment it was documented and immortalized.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;From that day on, when anything went wrong with a computer, we said it had bugs in it.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Every Bug is a Lesson</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/bug-is-lesson/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/bug-is-lesson/</guid>
       <description>&lt;p&gt;&amp;ldquo;Every bug is a lesson. Every crash, a teacher.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Debugging isn&amp;rsquo;t failure. It&amp;rsquo;s the process of learning what the machine is trying to tell you.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Embrace the bug. It&amp;rsquo;s the path to mastery.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Given Enough Eyeballs</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Given enough eyeballs, all bugs are shallow.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Eric S. Raymond, naming the principle after Linus Torvalds, in &lt;em&gt;The Cathedral and the Bazaar&lt;/em&gt;, 1997&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Also known as Linus&amp;rsquo;s Law.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The idea: if enough people can see the source code, someone will spot the bug. Closed source hides problems. Open source exposes them — and fixes them faster.&lt;/p&gt;&#xA;&lt;p&gt;It is one of the foundational arguments for open-source software. Not just idealism. Engineering logic.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

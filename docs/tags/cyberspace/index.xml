@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyberspace on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/cyberspace/</link>
+    <link>http://localhost:1316/tags/cyberspace/</link>
     <description>Recent content in Cyberspace on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/cyberspace/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/cyberspace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Never Dies</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/data-never-dies/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/data-never-dies/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/data-never-dies/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/data-never-dies/</guid>
       <description>&lt;p&gt;&amp;ldquo;In CyberSpace, data never dies. It only waits.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Deleted, archived, forgotten. But always there, waiting to be found.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Nothing is ever truly lost. It&amp;rsquo;s just hidden.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
+      <title>Cyberspace Has No Borders</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/cyberspace-has-no-borders/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/cyberspace-has-no-borders/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— John Perry Barlow, &lt;em&gt;A Declaration of the Independence of Cyberspace&lt;/em&gt;, 1996&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cyberspace does not lie within your borders.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Written from Davos during the World Economic Forum. Addressed to the governments of the world. It remains the most powerful statement ever written about the nature of the internet.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>To infinity... and beyond, CyberSpace</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
       <description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cyber Scan: 192.168.0.1</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</guid>
       <description>&lt;p&gt;&amp;ldquo;The best bug is the one you never find, but the one you fix before it becomes a feature.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;This echo reminds us that security is not a goal, but a process. Every time we scan our network, we find new things to improve. And even though 192.168.0.1 is safe, it is never a guarantee for the future.&lt;/p&gt;&#xA;&lt;p&gt;Keep your eyes open, and keep your network secure.&lt;/p&gt;</description>
     </item>
   </channel>

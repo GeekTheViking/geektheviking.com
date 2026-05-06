@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyberpunk on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/cyberpunk/</link>
+    <link>http://localhost:1316/tags/cyberpunk/</link>
     <description>Recent content in Cyberpunk on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/cyberpunk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/cyberpunk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Street Finds Its Own Uses</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/street-finds-its-uses/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/street-finds-its-uses/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/street-finds-its-uses/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/street-finds-its-uses/</guid>
       <description>&lt;p&gt;&amp;ldquo;The street finds its own uses for things.&amp;rdquo; — William Gibson&lt;/p&gt;&#xA;&lt;p&gt;Technology is never just what its creators intended. It escapes into the hands of the many — and the many reshape it. Every platform becomes a black market. Every tool becomes a weapon or a canvas.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;CyberSpace was not built for us. We built ourselves into it.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>The Future is Already Here</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/future-already-here/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/future-already-here/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/future-already-here/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/future-already-here/</guid>
       <description>&lt;p&gt;&amp;ldquo;The future is already here. It&amp;rsquo;s just not evenly distributed.&amp;rdquo; – William Gibson.&lt;/p&gt;&#xA;&lt;p&gt;The tools are here. The knowledge is here. What&amp;rsquo;s missing is the will to use them.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future waits for no one. It&amp;rsquo;s already here.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

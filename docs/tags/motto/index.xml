@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Motto on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/motto/</link>
+    <link>http://localhost:1316/tags/motto/</link>
     <description>Recent content in Motto on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/motto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1316/tags/motto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To infinity... and beyond, CyberSpace</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
       <description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>

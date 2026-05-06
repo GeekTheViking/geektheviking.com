@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance on Geek The Viking</title>
+    <link>http://localhost:1316/tags/performance/</link>
+    <description>Recent content in Performance on Geek The Viking</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1316/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wirth&#39;s Law</title>
+      <link>http://localhost:1316/store-house/data-coffer/echoes/wirths-law/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1316/store-house/data-coffer/echoes/wirths-law/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Software is getting slower more rapidly than hardware becomes faster.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Niklaus Wirth, &lt;em&gt;A Plea for Lean Software&lt;/em&gt;, 1995&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Also known as Wirth&amp;rsquo;s Law. Complementary to Moore&amp;rsquo;s Law.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Moore&amp;rsquo;s Law promised hardware doubles in power every two years. Wirth observed that software eats those gains before users see them.&lt;/p&gt;&#xA;&lt;p&gt;Every abstraction layer. Every framework on top of a framework. Every electron bloated by convenience. The machine gets faster. The experience does not.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
