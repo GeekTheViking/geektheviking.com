@@ -30,11 +30,11 @@
       <description>&lt;p&gt;Dette er en test af det nye &lt;strong&gt;Taleboble Layout&lt;/strong&gt; til Geek The Viking.&lt;/p&gt;&#xA;&lt;p&gt;Her ser du, hvordan indholdet kommer til at se ud i den hvide boble, mens GTV-maskoten (venstre) &amp;ldquo;taler&amp;rdquo; til dig.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hvad-skal-testes&#34;&gt;Hvad skal testes?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Farver: Cyan tekst, lilla baggrund, hvid boble.&lt;/li&gt;&#xA;&lt;li&gt;Layout: Flexbox opdeling mellem SVG og boble.&lt;/li&gt;&#xA;&lt;li&gt;Responsivitet: Hvordan det ser ud på mobil.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Test er den bedste læremester i CyberSpace.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Du kan skrive al din test tekst her. Når du er tilfreds, kopierer vi strukturen over til dine rigtige sider.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Long Ship</title>
+      <title>The Lost Packet</title>
       <link>https://geektheviking.com/longship/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
       <guid>https://geektheviking.com/longship/</guid>
-      <description>&lt;p&gt;Collesction of news and info from CyberSpace&lt;/p&gt;</description>
+      <description>&lt;p&gt;Every Viking needs a longship. GTV has The Lost Packet.&lt;/p&gt;&#xA;&lt;p&gt;Sent before anyone knew where it was going. TTL: ∞. Still in transit. Last known position: somewhere between 127.0.0.1 and MoM-z14.&lt;/p&gt;&#xA;&lt;p&gt;The log of the journey is kept in the Store House. The legends met along the way live in the Long Hall. The edge of the territory is charted in CyberSpace.&lt;/p&gt;&#xA;&lt;p&gt;Board if you want. The packet doesn&amp;rsquo;t wait — but it never leaves without you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nobody Knows You&#39;re a Dog</title>
@@ -482,7 +482,7 @@
       <link>https://geektheviking.com/gtv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://geektheviking.com/gtv/</guid>
-      <description>&lt;h1 id=&#34;geek-the-viking&#34;&gt;Geek The Viking&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;To infinity&amp;hellip; and beyond, CyberSpace.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;To infinity&amp;hellip; and beyond, CyberSpace.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;who-is-gtv&#34;&gt;Who is GTV?&lt;/h2&gt;&#xA;&lt;p&gt;GTV is an explorer.&lt;/p&gt;&#xA;&lt;p&gt;Not the kind that plants a flag and calls it conquered — but the kind that keeps moving. The kind that arrived somewhere new and looked immediately at the horizon beyond it.&lt;/p&gt;&#xA;&lt;p&gt;Livingstone walked into the heart of a continent others had drawn blank on their maps. The Vikings crossed an ocean that no European chart had yet recorded, and found land. They were not invited. They simply went.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NOT A PAGE</title>
