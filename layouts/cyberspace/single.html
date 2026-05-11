@@ -9,7 +9,7 @@
 
 <div style="max-width: 800px; margin: 0 auto; padding: 2rem; font-family: 'Courier New', Courier, monospace;">
 
-  <div style="border: 1px solid #00FFFF; border-radius: 8px; padding: 2rem; margin-bottom: 2rem; background-color: #2a0a3d; box-shadow: 0 0 30px rgba(0,255,255,0.15);">
+  <div style="border: 1px solid #00FFFF; border-radius: 8px; padding: 2rem; margin-bottom: 2rem; background-color: #2a0a3d; box-shadow: 0 0 30px rgba(0,255,255,0.15); text-align: center;">
 
     <p style="color: #00FFFF; font-size: 0.85rem; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 1.5rem;">// SIGNAL INCOMING — DEEP SPACE RELAY</p>
 
@@ -17,35 +17,60 @@
 
     <p style="color: rgba(0,255,255,0.5); font-size: 1rem; margin-bottom: 2rem;">from <span style="color:#00FFFF;">home</span> &nbsp;//&nbsp; <span style="color:#00FFFF;">127.0.0.1</span> and counting</p>
 
-    <div style="text-align: center; padding: 2rem 0; border-top: 1px solid rgba(0,255,255,0.2); border-bottom: 1px solid rgba(0,255,255,0.2); margin-bottom: 2rem;">
-      <p style="color: rgba(0,255,255,0.4); font-size: 0.8rem; letter-spacing: 2px; margin-bottom: 0.5rem;">SPACECRAFT DESIGNATION</p>
-      <p style="color: #00FFFF; font-size: 3rem; letter-spacing: 8px; font-weight: bold; text-shadow: 0 0 20px rgba(0,255,255,0.6);">VOYAGER 1</p>
-      <p style="color: rgba(0,255,255,0.5); font-size: 0.85rem; margin-top: 0.5rem;">Launched 1977 &nbsp;·&nbsp; Still transmitting &nbsp;·&nbsp; Signal strength: fading</p>
-    </div>
-
+    {{/* ── STAT BOXES — above Voyager designation ── */}}
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 2rem;">
       <div style="background: rgba(0,255,255,0.05); border: 1px solid rgba(0,255,255,0.2); border-radius: 6px; padding: 1rem;">
         <p style="color: rgba(0,255,255,0.5); font-size: 0.75rem; letter-spacing: 2px; margin-bottom: 0.3rem;">DISTANCE FROM HOME</p>
-        <p id="voyager-dist" style="color: #00FFFF; font-size: 1.1rem; font-weight: bold;">calculating...</p>
+        <p id="voyager-dist" style="color: #00FFFF; font-size: 1.1rem; font-weight: bold; margin: 0;">calculating...</p>
       </div>
       <div style="background: rgba(0,255,255,0.05); border: 1px solid rgba(0,255,255,0.2); border-radius: 6px; padding: 1rem;">
         <p style="color: rgba(0,255,255,0.5); font-size: 0.75rem; letter-spacing: 2px; margin-bottom: 0.3rem;">PING (ONE WAY)</p>
-        <p id="voyager-ping" style="color: #00FFFF; font-size: 1.1rem; font-weight: bold;">calculating...</p>
+        <p id="voyager-ping" style="color: #00FFFF; font-size: 1.1rem; font-weight: bold; margin: 0;">calculating...</p>
       </div>
     </div>
 
-    <div style="border-left: 3px solid #00FFFF; padding-left: 1.5rem; margin-bottom: 2rem;">
-      <p style="color: rgba(255,255,255,0.7); line-height: 1.8;">
+    {{/* ── VOYAGER DESIGNATION ── */}}
+    <div style="padding: 2rem 0; border-top: 1px solid rgba(0,255,255,0.2); border-bottom: 1px solid rgba(0,255,255,0.2); margin-bottom: 2rem;">
+      <p style="color: rgba(0,255,255,0.4); font-size: 0.8rem; letter-spacing: 2px; margin-bottom: 0.5rem;">SPACECRAFT DESIGNATION</p>
+      <p style="color: #00FFFF; font-size: 3rem; letter-spacing: 8px; font-weight: bold; text-shadow: 0 0 20px rgba(0,255,255,0.6); margin: 0.5rem 0;">VOYAGER 1</p>
+      <p style="color: rgba(0,255,255,0.5); font-size: 0.85rem; margin: 0.5rem 0 0 0;">Launched 1977 &nbsp;·&nbsp; Still transmitting &nbsp;·&nbsp; Signal strength: fading</p>
+    </div>
+
+    {{/* ── LOGIN TEXT ── */}}
+    <div style="border-left: 3px solid #00FFFF; padding: 1rem 1.5rem; margin-bottom: 2rem; text-align: left;">
+      <p style="color: rgba(255,255,255,0.7); line-height: 1.8; margin: 0;">
         If we tried to <span style="color:#00FFFF;">LOGIN</span> from out here —<br>
         by the time the handshake completed,<br>
         maybe only two letters would make it through.
       </p>
     </div>
 
-    <div style="text-align: center; padding: 2rem; background: rgba(0,255,255,0.03); border-radius: 8px; border: 1px solid rgba(0,255,255,0.15);">
+    {{/* ── L O — ARPANET ── */}}
+    <div style="padding: 2rem; background: rgba(0,255,255,0.03); border-radius: 8px; border: 1px solid rgba(0,255,255,0.15); margin-bottom: 2rem;">
       <p style="color: rgba(0,255,255,0.4); font-size: 0.75rem; letter-spacing: 3px; margin-bottom: 1rem;">ARPANET — OCTOBER 29, 1969 — FIRST MESSAGE EVER SENT</p>
       <p style="color: #00FFFF; font-size: 5rem; letter-spacing: 20px; font-weight: bold; text-shadow: 0 0 30px rgba(0,255,255,0.8); margin: 0;">L&nbsp;O</p>
       <p style="color: rgba(0,255,255,0.4); font-size: 0.8rem; margin-top: 1rem; font-style: italic;">They were typing LOGIN. The system crashed after two letters.<br>And so — the first word spoken in CyberSpace was an accident.<br>Or perhaps the most honest greeting ever sent.</p>
+    </div>
+
+    {{/* ── THE LOST PACKET — MoM-z14 ── */}}
+    <div style="padding: 2rem; background: rgba(0,255,255,0.02); border-radius: 8px; border: 1px solid rgba(0,255,255,0.1);">
+      <p style="color: rgba(0,255,255,0.4); font-size: 0.75rem; letter-spacing: 3px; margin-bottom: 1rem;">// UNCONFIRMED TRANSMISSION — SOURCE UNKNOWN</p>
+      <p style="color: #00FFFF; font-size: 1.1rem; letter-spacing: 2px; font-weight: bold; margin-bottom: 1rem;">THE LOST PACKET</p>
+      <p style="color: rgba(255,255,255,0.6); font-size: 0.95rem; line-height: 1.9; margin-bottom: 1rem;">
+        Somewhere between here and <span style="color:#00FFFF;">MoM-z14</span> —<br>
+        13,500,000,000 light years from 127.0.0.1 —<br>
+        a packet is still in transit.<br><br>
+        It left before the Earth had formed.<br>
+        It carries the first CyberSpace signal<br>
+        ever aimed beyond our own galaxy.
+      </p>
+      <p style="color: rgba(0,255,255,0.35); font-size: 0.8rem; font-style: italic;">
+        When it arrives — if it arrives —<br>
+        MoM-z14 will receive its first ping.<br>
+        CyberSpace will have planted its flag<br>
+        at the edge of the observable universe.
+      </p>
+      <p style="color: rgba(0,255,255,0.2); font-size: 0.75rem; margin-top: 1.5rem; letter-spacing: 2px;">ETA: ~13.500.000.000 years &nbsp;·&nbsp; Packet status: in transit &nbsp;·&nbsp; TTL: ∞</p>
     </div>
 
   </div>
