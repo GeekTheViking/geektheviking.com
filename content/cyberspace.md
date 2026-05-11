@@ -12,7 +12,7 @@ type: "cyberspace"
 
     <h2 style="color: #00FFFF; font-size: 1.8rem; letter-spacing: 4px; text-transform: uppercase; margin-bottom: 0.5rem;">The Edge of CyberSpace</h2>
 
-    <p style="color: rgba(0,255,255,0.5); font-size: 1rem; margin-bottom: 2rem;">25,000,000,000 km from <span style="color:#00FFFF;">home</span> &nbsp;//&nbsp; <span style="color:#00FFFF;">127.0.0.1</span> and counting</p>
+    <p style="color: rgba(0,255,255,0.5); font-size: 1rem; margin-bottom: 2rem;">from <span style="color:#00FFFF;">home</span> &nbsp;//&nbsp; <span style="color:#00FFFF;">127.0.0.1</span> and counting</p>
 
     <div style="text-align: center; padding: 2rem 0; border-top: 1px solid rgba(0,255,255,0.2); border-bottom: 1px solid rgba(0,255,255,0.2); margin-bottom: 2rem;">
       <p style="color: rgba(0,255,255,0.4); font-size: 0.8rem; letter-spacing: 2px; margin-bottom: 0.5rem;">SPACECRAFT DESIGNATION</p>
@@ -22,12 +22,12 @@ type: "cyberspace"
 
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 2rem;">
       <div style="background: rgba(0,255,255,0.05); border: 1px solid rgba(0,255,255,0.2); border-radius: 6px; padding: 1rem;">
-        <p style="color: rgba(0,255,255,0.5); font-size: 0.75rem; letter-spacing: 2px; margin-bottom: 0.3rem;">PING (ONE WAY)</p>
-        <p style="color: #00FFFF; font-size: 1.4rem;">~22 hours</p>
+        <p style="color: rgba(0,255,255,0.5); font-size: 0.75rem; letter-spacing: 2px; margin-bottom: 0.3rem;">DISTANCE FROM HOME</p>
+        <p id="voyager-dist" style="color: #00FFFF; font-size: 1.1rem; font-weight: bold;">calculating...</p>
       </div>
       <div style="background: rgba(0,255,255,0.05); border: 1px solid rgba(0,255,255,0.2); border-radius: 6px; padding: 1rem;">
-        <p style="color: rgba(0,255,255,0.5); font-size: 0.75rem; letter-spacing: 2px; margin-bottom: 0.3rem;">ROUND TRIP</p>
-        <p style="color: #00FFFF; font-size: 1.4rem;">~44 hours</p>
+        <p style="color: rgba(0,255,255,0.5); font-size: 0.75rem; letter-spacing: 2px; margin-bottom: 0.3rem;">PING (ONE WAY)</p>
+        <p id="voyager-ping" style="color: #00FFFF; font-size: 1.1rem; font-weight: bold;">calculating...</p>
       </div>
     </div>
 
@@ -50,3 +50,25 @@ type: "cyberspace"
   <p style="color: rgba(0,255,255,0.3); font-size: 0.8rem; text-align: center; letter-spacing: 2px;">// END OF TRANSMISSION — SIGNAL LOST AT 127.0.0.1</p>
 
 </div>
+
+<script>
+// Voyager 1 — referencepunkt 2026-05-11T12:00:00Z
+const BASE_DIST = 25400000000; // km
+const SPEED     = 17.02;       // km/s relativt til Solen
+const START     = new Date("2026-05-11T12:00:00Z").getTime();
+const LIGHT     = 299792;      // km/s
+
+function updateVoyager() {
+  const elapsed = (Date.now() - START) / 1000;
+  const dist    = BASE_DIST + elapsed * SPEED;
+  const ping    = dist / LIGHT / 3600;
+
+  document.getElementById("voyager-dist").textContent =
+    Math.floor(dist).toLocaleString("da-DK") + " km";
+  document.getElementById("voyager-ping").textContent =
+    ping.toFixed(2) + " hours";
+}
+
+updateVoyager();
+setInterval(updateVoyager, 1000);
+</script>
