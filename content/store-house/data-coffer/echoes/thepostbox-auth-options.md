@@ -34,12 +34,18 @@ Full control. Build it ourselves. Only justified if we need behavior that no exi
 
 ---
 
-**Recommendation: Authentik**
+**Decision: Authentik** ✅
 
 One identity layer for the entire PostBox ecosystem — portal, Seafile, Mailcow, PROSTEIN AI, future services. Users log in once. We manage one user database. Runs on our hardware, in our jurisdiction.
+
+Someone will ask: *"But Authentik Security Inc. is American."*
+
+Yes. And CyberSpace reaches past Venus and Mercury. Frea-X does not judge software by the flag above its creators — it judges by what the software does in your hands. Authentik is MIT-licensed open source. Self-hosted. Zero data leaving your infrastructure. Frea-X approves it precisely because open source transcends borders. To do otherwise would lock the project inside the same walls it is trying to tear down.
 
 The PostBox promise is that *you* own your digital address. That starts with owning the authentication.
 
 ---
 
 > "The front door is as important as the house behind it."
+>
+> "CyberSpace has no borders. Neither does good open source."
