@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arpanet on Geek The Viking</title>
-    <link>http://localhost:1316/tags/arpanet/</link>
+    <link>https://geektheviking.com/tags/arpanet/</link>
     <description>Recent content in Arpanet on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1316/tags/arpanet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geektheviking.com/tags/arpanet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creeper: The First Virus</title>
-      <link>http://localhost:1316/store-house/data-coffer/artifacts/first-computer-virus/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/artifacts/first-computer-virus/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</guid>
       <description>&lt;p&gt;In 1971, a program called &lt;strong&gt;Creeper&lt;/strong&gt; began spreading across ARPANET — the first self-replicating program in history. It moved from machine to machine and displayed a simple message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I&amp;rsquo;m the creeper, catch me if you can!&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;It was not malicious. It was an experiment. Shortly after, another program called &lt;strong&gt;Reaper&lt;/strong&gt; was created for one purpose only: to chase and delete Creeper.&lt;/p&gt;&#xA;&lt;p&gt;The first virus had its own predator. CyberSpace has always been an ecosystem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ARPANET&#39;s First Message: &#39;lo&#39;</title>
-      <link>http://localhost:1316/store-house/data-coffer/artifacts/arpanet-first-message/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/artifacts/arpanet-first-message/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</guid>
       <description>&lt;p&gt;On October 29, 1969, the first message was sent over ARPANET between UCLA and Stanford. The intended word was &amp;ldquo;login&amp;rdquo; — but the system crashed after just two letters.&lt;/p&gt;&#xA;&lt;p&gt;The first message ever transmitted across a computer network was: &lt;strong&gt;&amp;ldquo;lo&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;We were just lucky it wasn&amp;rsquo;t something embarrassing.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Today that accidental &amp;ldquo;lo&amp;rdquo; stands as the internet&amp;rsquo;s first word. Not hello — just &lt;em&gt;lo&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

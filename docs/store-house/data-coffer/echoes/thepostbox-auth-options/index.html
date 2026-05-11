@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThePostBox — Portal Authentication Options | Geek The Viking</title>
+    <link rel="stylesheet" href="/css/gtv.css">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+
+  
+<nav class="fx-nav">
+  <div class="fx-nav-logo">
+    <a href="/">
+      <img src="/images/geektheviking-32px.png" alt="GTV Mascot" class="fx-nav-mascot">
+    </a>
+    <span class="fx-nav-logo-text">GEEK THE VIKING</span>
+  </div>
+  <ul class="fx-nav-links">      
+    <li><a href="/long-hall/">[Long Hall]</a></li>
+    <li><a href="/cyberspace/">[Cyberspace]</a></li>
+    <li><a href="/longship/">[Longship]</a></li>    
+    <li><a href="/store-house/">[Store House]</a></li>
+  </ul>
+</nav>
+
+
+  <main class="fx-main">
+<article class="artefact-content">
+    <h1>ThePostBox — Portal Authentication Options</h1>
+    
+    <p class="subtitle">Comparing login and identity solutions for the ThePostBox.EU portal. Which fits our sovereignty model?</p>
+    
+    
+    <div class="content">
+        <p>The portal is live at thepostbox.eu. Now it needs a real front door — not a mock login that drops you straight into the dashboard. Here are the options.</p>
+<hr>
+<p><strong>Option 1 — Authentik</strong><br>
+Self-hosted identity provider. OIDC/OAuth2. SAML. Social login. MFA. Full user management UI. Integrates with Seafile, Mailcow, and any future service via standard protocols. Heavy (Docker stack), but this is the one that scales to the full PostBox vision — one login for everything.<br>
+→ <em>Best long-term fit. Set it up once, use it everywhere.</em></p>
+<p><strong>Option 2 — Authelia</strong><br>
+Lighter. Designed to sit in front of a reverse proxy (Traefik). 2FA support. Simpler than Authentik — fewer features, smaller footprint. Does not integrate as cleanly with Seafile/Mailcow via OIDC.<br>
+→ <em>Good if we only need to protect the portal. Not a full SSO solution.</em></p>
+<p><strong>Option 3 — Pangolin SSO</strong><br>
+Already in the stack. Protects resources at the tunnel level. Quick to enable — just toggle Access Controls per resource. Not standard OIDC, so Seafile/Mailcow cannot use it as identity provider.<br>
+→ <em>Fastest win right now. Too limited for the full vision.</em></p>
+<p><strong>Option 4 — Zitadel</strong><br>
+Modern OIDC platform. Self-hosted. Better UI than Keycloak. Actively developed. Similar weight to Authentik. Less community adoption in the self-hosted space.<br>
+→ <em>Worth watching. Not the obvious choice today.</em></p>
+<p><strong>Option 5 — Custom JWT / session auth</strong><br>
+Full control. Build it ourselves. Only justified if we need behavior that no existing solution provides.<br>
+→ <em>Not now. Possibly never.</em></p>
+<hr>
+<p><strong>Recommendation: Authentik</strong></p>
+<p>One identity layer for the entire PostBox ecosystem — portal, Seafile, Mailcow, PROSTEIN AI, future services. Users log in once. We manage one user database. Runs on our hardware, in our jurisdiction.</p>
+<p>The PostBox promise is that <em>you</em> own your digital address. That starts with owning the authentication.</p>
+<hr>
+<blockquote>
+<p>&ldquo;The front door is as important as the house behind it.&rdquo;</p>
+</blockquote>
+
+    </div>
+    
+    <footer>
+        
+        <span class="tag">#postbox</span>
+        
+        <span class="tag">#auth</span>
+        
+        <span class="tag">#sso</span>
+        
+        <span class="tag">#identity</span>
+        
+        <span class="tag">#gtv</span>
+        
+    </footer>
+</article>
+
+  </main>
+
+  <footer class="fx-footer">
+    <p class="fx-footer-text">The R&D Lab · Exploited by Geek The Viking</p>
+    <p class="fx-footer-text">Frea-X Explore · License to Exploit</p>
+    <p class="fx-footer-text">To infinity... and beyond, CyberSpace!</p>
+    <p class="fx-footer-text"><a href="https://github.com/GeekTheViking/frea-x.com" target="_blank">Live Documentation via GitHub</a></p>
+    <p class="fx-footer-easter">
+        <a href="/not-a-page/">The truk — Don't push this button</a>
+    </p>
+</footer>
+
+
+</body>
+</html>
+

@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gtv on Geek The Viking</title>
-    <link>http://localhost:1316/tags/gtv/</link>
+    <link>https://geektheviking.com/tags/gtv/</link>
     <description>Recent content in Gtv on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1316/tags/gtv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 May 2026 08:30:00 +0000</lastBuildDate>
+    <atom:link href="https://geektheviking.com/tags/gtv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ThePostBox — Portal Authentication Options</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-auth-options/</link>
+      <pubDate>Mon, 11 May 2026 08:30:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-auth-options/</guid>
+      <description>&lt;p&gt;The portal is live at thepostbox.eu. Now it needs a real front door — not a mock login that drops you straight into the dashboard. Here are the options.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Option 1 — Authentik&lt;/strong&gt;&lt;br&gt;&#xA;Self-hosted identity provider. OIDC/OAuth2. SAML. Social login. MFA. Full user management UI. Integrates with Seafile, Mailcow, and any future service via standard protocols. Heavy (Docker stack), but this is the one that scales to the full PostBox vision — one login for everything.&lt;br&gt;&#xA;→ &lt;em&gt;Best long-term fit. Set it up once, use it everywhere.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ThePostBox Stack — Why These Tools</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</link>
+      <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</guid>
+      <description>&lt;p&gt;Building a privacy-first European digital address means every tool in the stack must earn its place. Here is why we chose what we chose — and what we rejected.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — not WordPress, not Ghost, not Webflow.&lt;br&gt;&#xA;Static. No database. No PHP. No attack surface. Version-controlled. Deployable anywhere. The site &lt;em&gt;is&lt;/em&gt; the repository.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Seafile&lt;/strong&gt; — not Nextcloud, not ownCloud, not Syncthing.&lt;br&gt;&#xA;Faster sync protocol. Lighter footprint. Purpose-built for files. Nextcloud tries to be everything — Seafile does one thing well. ownCloud is Nextcloud&amp;rsquo;s slower cousin.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Every Bug is a Lesson</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/bug-is-lesson/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/bug-is-lesson/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</guid>
       <description>&lt;p&gt;&amp;ldquo;Every bug is a lesson. Every crash, a teacher.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Debugging isn&amp;rsquo;t failure. It&amp;rsquo;s the process of learning what the machine is trying to tell you.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Embrace the bug. It&amp;rsquo;s the path to mastery.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Code is Poetry</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/code-is-poetry/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/code-is-poetry/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</guid>
       <description>&lt;p&gt;&amp;ldquo;Code is poetry written for machines. But even poetry needs a rough draft.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Every line is a verse. Every function, a stanza. The best code tells a story.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Write code that sings, even to the machine.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>To infinity... and beyond, CyberSpace</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
       <description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>License to Exploit v0.042</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/license-to-exploit-v0042/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/license-to-exploit-v0042/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</guid>
       <description>&lt;p&gt;The License to Exploit is not about taking - it is about exploring.&lt;/p&gt;&#xA;&lt;p&gt;In CyberSpace, every connection is an opportunity. Every open port is a door waiting to be understood. Every vulnerability is a lesson, not a weapon.&lt;/p&gt;&#xA;&lt;p&gt;Exploit the knowledge. Exploit the possibilities. Never exploit the people.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;License to Exploit - v0.042 - Frea-X Edition&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>

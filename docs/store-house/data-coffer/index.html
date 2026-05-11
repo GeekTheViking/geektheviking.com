@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1316&amp;path=livereload" data-no-instant defer></script>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data-Varder | Geek The Viking</title>
@@ -327,6 +327,65 @@
     <div class="dv-column-content">
       
       
+        
+        <article class="dv-item-full">
+          <h3 class="dv-item-title">ThePostBox — Portal Authentication Options</h3>
+          <div class="dv-item-body">
+            <p>The portal is live at thepostbox.eu. Now it needs a real front door — not a mock login that drops you straight into the dashboard. Here are the options.</p>
+<hr>
+<p><strong>Option 1 — Authentik</strong><br>
+Self-hosted identity provider. OIDC/OAuth2. SAML. Social login. MFA. Full user management UI. Integrates with Seafile, Mailcow, and any future service via standard protocols. Heavy (Docker stack), but this is the one that scales to the full PostBox vision — one login for everything.<br>
+→ <em>Best long-term fit. Set it up once, use it everywhere.</em></p>
+<p><strong>Option 2 — Authelia</strong><br>
+Lighter. Designed to sit in front of a reverse proxy (Traefik). 2FA support. Simpler than Authentik — fewer features, smaller footprint. Does not integrate as cleanly with Seafile/Mailcow via OIDC.<br>
+→ <em>Good if we only need to protect the portal. Not a full SSO solution.</em></p>
+<p><strong>Option 3 — Pangolin SSO</strong><br>
+Already in the stack. Protects resources at the tunnel level. Quick to enable — just toggle Access Controls per resource. Not standard OIDC, so Seafile/Mailcow cannot use it as identity provider.<br>
+→ <em>Fastest win right now. Too limited for the full vision.</em></p>
+<p><strong>Option 4 — Zitadel</strong><br>
+Modern OIDC platform. Self-hosted. Better UI than Keycloak. Actively developed. Similar weight to Authentik. Less community adoption in the self-hosted space.<br>
+→ <em>Worth watching. Not the obvious choice today.</em></p>
+<p><strong>Option 5 — Custom JWT / session auth</strong><br>
+Full control. Build it ourselves. Only justified if we need behavior that no existing solution provides.<br>
+→ <em>Not now. Possibly never.</em></p>
+<hr>
+<p><strong>Recommendation: Authentik</strong></p>
+<p>One identity layer for the entire PostBox ecosystem — portal, Seafile, Mailcow, PROSTEIN AI, future services. Users log in once. We manage one user database. Runs on our hardware, in our jurisdiction.</p>
+<p>The PostBox promise is that <em>you</em> own your digital address. That starts with owning the authentication.</p>
+<hr>
+<blockquote>
+<p>&ldquo;The front door is as important as the house behind it.&rdquo;</p>
+</blockquote>
+
+          </div>
+        </article>
+        
+        <article class="dv-item-full">
+          <h3 class="dv-item-title">ThePostBox Stack — Why These Tools</h3>
+          <div class="dv-item-body">
+            <p>Building a privacy-first European digital address means every tool in the stack must earn its place. Here is why we chose what we chose — and what we rejected.</p>
+<hr>
+<p><strong>Hugo</strong> — not WordPress, not Ghost, not Webflow.<br>
+Static. No database. No PHP. No attack surface. Version-controlled. Deployable anywhere. The site <em>is</em> the repository.</p>
+<p><strong>Seafile</strong> — not Nextcloud, not ownCloud, not Syncthing.<br>
+Faster sync protocol. Lighter footprint. Purpose-built for files. Nextcloud tries to be everything — Seafile does one thing well. ownCloud is Nextcloud&rsquo;s slower cousin.</p>
+<p><strong>Mailcow</strong> — not iRedMail, not Zimbra, not ProtonMail (hosted).<br>
+Dockerized. Active development. Complete stack: Postfix, Dovecot, Rspamd, SOGo. Admin UI that doesn&rsquo;t require a PhD. Self-hosted because we own the keys.</p>
+<p><strong>Hetzner</strong> — not AWS, not Azure, not DigitalOcean.<br>
+EU-based. GDPR jurisdiction. Affordable without being cheap. Not a surveillance economy company.</p>
+<p><strong>Headscale</strong> — not Tailscale SaaS.<br>
+Same WireGuard mesh, own control plane. Our Tailscale keys live on our server, not in Vermont.</p>
+<p><strong>Pangolin + Gerbil</strong> — not Cloudflare Tunnel, not frp.<br>
+Self-hosted reverse tunnel. EU open source. No vendor lock-in. Traffic stays on infrastructure we control.</p>
+<p><strong>Cloudflare DNS</strong> — pragmatic compromise.<br>
+Free, reliable, DDoS protection, excellent API. US company — eyes open. DNS data is already public. Tunnel traffic goes <em>around</em> Cloudflare where it matters.</p>
+<hr>
+<blockquote>
+<p>&ldquo;We didn&rsquo;t pick the popular choice. We picked the sovereign choice.&rdquo;</p>
+</blockquote>
+
+          </div>
+        </article>
         
         <article class="dv-item-full">
           <h3 class="dv-item-title">Nobody Knows You&#39;re a Dog</h3>

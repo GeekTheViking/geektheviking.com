@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Geek The Viking</title>
-    <link>http://localhost:1316/tags/technology/</link>
+    <link>https://geektheviking.com/tags/technology/</link>
     <description>Recent content in Technology on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1316/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geektheviking.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sufficiently Advanced Technology</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/sufficiently-advanced-technology/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/sufficiently-advanced-technology/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/sufficiently-advanced-technology/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/sufficiently-advanced-technology/</guid>
       <description>&lt;p&gt;&amp;ldquo;Any sufficiently advanced technology is indistinguishable from magic.&amp;rdquo; — Arthur C. Clarke&lt;/p&gt;&#xA;&lt;p&gt;Clarke&amp;rsquo;s Third Law. Written in 1973. More true today than ever.&lt;/p&gt;&#xA;&lt;p&gt;Show a smartphone to someone from 1900. A pocket-sized rectangle that holds all of human knowledge, speaks to satellites, and lets you see your family across the world in real time.&lt;/p&gt;&#xA;&lt;p&gt;Magic. Obviously magic.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The line between engineer and wizard has always been thinner than we admit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>We Shape Our Tools</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/tools-shape-us/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/tools-shape-us/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/tools-shape-us/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/tools-shape-us/</guid>
       <description>&lt;p&gt;&amp;ldquo;We shape our tools, and thereafter our tools shape us.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Marshall McLuhan (attributed), 1964&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The medium is the message.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;McLuhan saw it before anyone else: technology is not neutral. Every tool we build changes how we think, how we communicate, how we perceive the world.&lt;/p&gt;&#xA;&lt;p&gt;The smartphone changed attention spans. Social media changed political discourse. The algorithm changed what we believe.&lt;/p&gt;&#xA;&lt;p&gt;This is exactly why &lt;em&gt;AI &amp;amp; IT under human control&lt;/em&gt; matters. Once you let the tool shape you without awareness, you have lost something essential.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zimmermann on Geek The Viking</title>
-    <link>http://localhost:1316/tags/zimmermann/</link>
+    <link>https://geektheviking.com/tags/zimmermann/</link>
     <description>Recent content in Zimmermann on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1316/tags/zimmermann/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geektheviking.com/tags/zimmermann/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PGP — Pretty Good Privacy</title>
-      <link>http://localhost:1316/store-house/data-coffer/artifacts/pgp-pretty-good-privacy/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/pgp-pretty-good-privacy/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/artifacts/pgp-pretty-good-privacy/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/pgp-pretty-good-privacy/</guid>
       <description>&lt;p&gt;In 1991, Phil Zimmermann uploaded PGP to the internet. For free. For everyone.&lt;/p&gt;&#xA;&lt;p&gt;For the first time, any person on earth could encrypt their communications with military-grade cryptography. Governments noticed. The US government opened a criminal investigation — exporting strong encryption was illegal.&lt;/p&gt;&#xA;&lt;p&gt;The case dragged on for three years. Then it was dropped.&lt;/p&gt;&#xA;&lt;p&gt;PGP survived. It became the foundation of encrypted email, digital signatures, and modern privacy tools. GPG — the open-source successor — powers encrypted communication to this day.&lt;/p&gt;</description>
     </item>
   </channel>

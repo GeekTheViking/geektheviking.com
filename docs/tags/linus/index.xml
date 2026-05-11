@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linus on Geek The Viking</title>
-    <link>http://localhost:1316/tags/linus/</link>
+    <link>https://geektheviking.com/tags/linus/</link>
     <description>Recent content in Linus on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1316/tags/linus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geektheviking.com/tags/linus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Given Enough Eyeballs</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/enough-eyeballs/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/enough-eyeballs/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/enough-eyeballs/</guid>
       <description>&lt;p&gt;&amp;ldquo;Given enough eyeballs, all bugs are shallow.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Eric S. Raymond, naming the principle after Linus Torvalds, in &lt;em&gt;The Cathedral and the Bazaar&lt;/em&gt;, 1997&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Also known as Linus&amp;rsquo;s Law.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The idea: if enough people can see the source code, someone will spot the bug. Closed source hides problems. Open source exposes them — and fixes them faster.&lt;/p&gt;&#xA;&lt;p&gt;It is one of the foundational arguments for open-source software. Not just idealism. Engineering logic.&lt;/p&gt;</description>
     </item>
   </channel>

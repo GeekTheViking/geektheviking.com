@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manifesto on Geek The Viking</title>
-    <link>http://localhost:1316/tags/manifesto/</link>
+    <link>https://geektheviking.com/tags/manifesto/</link>
     <description>Recent content in Manifesto on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1316/tags/manifesto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geektheviking.com/tags/manifesto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The GNU Manifesto</title>
-      <link>http://localhost:1316/store-house/data-coffer/artifacts/gnu-manifesto/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/artifacts/gnu-manifesto/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/artifacts/gnu-manifesto/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/gnu-manifesto/</guid>
       <description>&lt;p&gt;In 1985, Richard Stallman published the GNU Manifesto. It was a call to arms.&lt;/p&gt;&#xA;&lt;p&gt;He had already started GNU — a free Unix-like operating system. The manifesto explained why: software should be free, as in freedom. Not a product. Not a cage.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I consider that the Golden Rule requires that if I like a program I must share it with other people who like it.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The manifesto gave birth to the free software movement. Without it, there would be no Linux, no Apache, no Firefox — no open internet as we know it.&lt;/p&gt;</description>
     </item>
   </channel>

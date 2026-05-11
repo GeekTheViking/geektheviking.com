@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Human-Centric on Geek The Viking</title>
-    <link>http://localhost:1316/tags/human-centric/</link>
+    <link>https://geektheviking.com/tags/human-centric/</link>
     <description>Recent content in Human-Centric on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1316/tags/human-centric/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geektheviking.com/tags/human-centric/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We Shape Our Tools</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/tools-shape-us/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/tools-shape-us/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/tools-shape-us/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/tools-shape-us/</guid>
       <description>&lt;p&gt;&amp;ldquo;We shape our tools, and thereafter our tools shape us.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Marshall McLuhan (attributed), 1964&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The medium is the message.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;McLuhan saw it before anyone else: technology is not neutral. Every tool we build changes how we think, how we communicate, how we perceive the world.&lt;/p&gt;&#xA;&lt;p&gt;The smartphone changed attention spans. Social media changed political discourse. The algorithm changed what we believe.&lt;/p&gt;&#xA;&lt;p&gt;This is exactly why &lt;em&gt;AI &amp;amp; IT under human control&lt;/em&gt; matters. Once you let the tool shape you without awareness, you have lost something essential.&lt;/p&gt;</description>
     </item>
   </channel>

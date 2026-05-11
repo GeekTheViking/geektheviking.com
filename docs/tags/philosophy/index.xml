@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on Geek The Viking</title>
-    <link>http://localhost:1316/tags/philosophy/</link>
+    <link>https://geektheviking.com/tags/philosophy/</link>
     <description>Recent content in Philosophy on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1316/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geektheviking.com/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We Shape Our Tools</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/tools-shape-us/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/tools-shape-us/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/tools-shape-us/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/tools-shape-us/</guid>
       <description>&lt;p&gt;&amp;ldquo;We shape our tools, and thereafter our tools shape us.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— Marshall McLuhan (attributed), 1964&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The medium is the message.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;McLuhan saw it before anyone else: technology is not neutral. Every tool we build changes how we think, how we communicate, how we perceive the world.&lt;/p&gt;&#xA;&lt;p&gt;The smartphone changed attention spans. Social media changed political discourse. The algorithm changed what we believe.&lt;/p&gt;&#xA;&lt;p&gt;This is exactly why &lt;em&gt;AI &amp;amp; IT under human control&lt;/em&gt; matters. Once you let the tool shape you without awareness, you have lost something essential.&lt;/p&gt;</description>
     </item>
     <item>
       <title>To infinity... and beyond, CyberSpace</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
       <description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Perfection is a Myth</title>
-      <link>http://localhost:1316/store-house/data-coffer/echoes/perfection-is-a-myth/</link>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/perfection-is-a-myth/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1316/store-house/data-coffer/echoes/perfection-is-a-myth/</guid>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/perfection-is-a-myth/</guid>
       <description>&lt;p&gt;&amp;ldquo;Code is poetry written for machines. But even poetry needs a rough draft.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;In a world where everything must be perfect from the start, this echo reminds us that errors are a natural part of the process. The best solutions often arise through iteration and debugging, not on the first attempt.&lt;/p&gt;&#xA;&lt;p&gt;Learn from your mistakes, and write your code as if it were a story you want to tell.&lt;/p&gt;</description>
     </item>
   </channel>
