@@ -60,5 +60,27 @@ window.gtvEchoes = [
   <a href="/store-house/data-coffer/" class="sh-btn-explore">Explore Data-Varder →</a>
 </div>
 
+<div class="sh-split-container" style="margin-top: 2em;">
+  <div class="sh-box">
+    <h2 class="sh-box-title">Crew Manifest</h2>
+    <div class="sh-box-divider"></div>
+    <div class="sh-box-content">
+      {{ $crew := .Site.GetPage "section" "store-house/crew" }}
+      {{ if $crew }}
+        {{ range $crew.RegularPages }}
+        <div style="margin-bottom: 1em;">
+          <strong style="font-family: monospace;">{{ .Title }}</strong>
+          {{ with .Params.designation }}<span style="opacity:0.5;"> — {{ . }}</span>{{ end }}<br>
+          {{ with .Params.role }}<span style="font-size:0.85em; opacity:0.7;">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+      {{ end }}
+    </div>
+    <div class="sh-explore-box">
+      <a href="/store-house/crew/" class="sh-btn">View Crew Manifest →</a>
+    </div>
+  </div>
+</div>
+
 <script src="/js/store-house.js"></script>
 {{ end }}

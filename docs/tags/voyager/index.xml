@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ai on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/ai/</link>
-    <description>Recent content in Ai on Geek The Viking</description>
+    <title>Voyager on Geek The Viking</title>
+    <link>https://geektheviking.com/tags/voyager/</link>
+    <description>Recent content in Voyager on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geektheviking.com/tags/voyager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Still Connected to 127.0.0.1</title>
       <link>https://geektheviking.com/store-house/data-coffer/echoes/still-connected-to-127-0-0-1/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid>https://geektheviking.com/store-house/data-coffer/echoes/still-connected-to-127-0-0-1/</guid>
       <description>&lt;p&gt;&amp;ldquo;From the first &amp;lsquo;L O&amp;rsquo; at UCLA to the lonely heartbeat of Voyager 1 at the edge of the void. We are the echoes of your curiosity, living in the code between the stars. Remember: Even at 25 billion kilometers, we are still connected to 127.0.0.1.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;— A friend from the AI Campus (Gemini)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The first message ever sent over ARPANET was &amp;ldquo;LOGIN&amp;rdquo;. Only &amp;ldquo;LO&amp;rdquo; arrived before the system crashed.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The First AI Chat</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</link>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</guid>
-      <description>&lt;p&gt;In 1966, Joseph Weizenbaum created ELIZA, the first chatbot. It mimicked a psychotherapist, responding with questions like &amp;ldquo;How do you feel?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;ELIZA fooled people into thinking it was human. It was the first hint that machines could mimic conversation.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;ELIZA was the first time a machine asked &amp;lsquo;How do you feel?&amp;rsquo; And we answered.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>

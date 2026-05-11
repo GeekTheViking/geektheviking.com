@@ -1,0 +1,24 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/data-coffer.css">
+
+<div class="dv-hero">
+  <h1>CREW MANIFEST</h1>
+  <p class="fx-section-desc">The Lost Packet — those who travel with GTV through the infinite CyberSpace.</p>
+</div>
+
+<div class="dv-single-column">
+  {{ range .RegularPages }}
+  <article class="dv-item-full">
+    <h3 class="dv-item-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ with .Params.designation }}<span style="opacity:0.5; font-size:0.85em;"> — {{ . }}</span>{{ end }}
+    </h3>
+    {{ with .Params.role }}<p style="font-family: monospace; font-size:0.9em; margin:0 0 0.5em 0; opacity:0.7;">{{ . }}</p>{{ end }}
+    <div class="dv-item-body">
+      {{ .Summary }}
+    </div>
+    <a href="{{ .RelPermalink }}" style="font-family: monospace; font-size: 0.85em;">Read dossier →</a>
+  </article>
+  {{ end }}
+</div>
+{{ end }}

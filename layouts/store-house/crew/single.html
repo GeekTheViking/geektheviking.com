@@ -1,0 +1,19 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/data-coffer.css">
+
+<div class="dv-hero">
+  <h1>{{ .Title | upper }}</h1>
+  {{ with .Params.designation }}<p class="fx-section-desc">{{ . }} — {{ $.Params.role }}</p>{{ end }}
+</div>
+
+<div class="dv-single-column">
+  <article class="dv-item-full">
+    <div class="dv-item-body">
+      {{ .Content }}
+    </div>
+  </article>
+  <div style="margin-top: 2em; font-family: monospace; font-size: 0.85em; opacity: 0.6;">
+    <a href="/store-house/crew/">← Crew Manifest</a>
+  </div>
+</div>
+{{ end }}

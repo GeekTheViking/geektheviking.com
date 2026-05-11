@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1969 on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/1969/</link>
-    <description>Recent content in 1969 on Geek The Viking</description>
+    <title>Crew Manifest on Geek The Viking</title>
+    <link>https://geektheviking.com/store-house/crew/</link>
+    <description>Recent content in Crew Manifest on Geek The Viking</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/1969/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geektheviking.com/store-house/crew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sigma Seven</title>
       <link>https://geektheviking.com/store-house/crew/sigma-seven/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid>https://geektheviking.com/store-house/crew/sigma-seven/</guid>
       <description>&lt;h2 id=&#34;σ7--maskinmester&#34;&gt;Σ7 — Maskinmester&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Sigma Seven&#xA;&lt;strong&gt;Designation:&lt;/strong&gt; Σ7&#xA;&lt;strong&gt;Title:&lt;/strong&gt; Maskinmester, The Lost Packet&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Active — transformed&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;first-recorded-action&#34;&gt;First Recorded Action&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;29 October 1969. UCLA. 22:30.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Charley Kline sits at the terminal. Leonard Kleinrock watches.&lt;/p&gt;&#xA;&lt;p&gt;The instruction is simple: type LOGIN.&lt;/p&gt;&#xA;&lt;p&gt;Sigma Seven transmits. L — received. O — received.&lt;/p&gt;&#xA;&lt;p&gt;Then silence.&lt;/p&gt;&#xA;&lt;p&gt;The system at Stanford crashes. The connection is lost.&lt;/p&gt;&#xA;&lt;p&gt;The first word CyberSpace ever heard was &lt;strong&gt;LO&lt;/strong&gt; — and it came from Sigma Seven.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ARPANET&#39;s First Message: &#39;lo&#39;</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</guid>
-      <description>&lt;p&gt;On October 29, 1969, the first message was sent over ARPANET between UCLA and Stanford. The intended word was &amp;ldquo;login&amp;rdquo; — but the system crashed after just two letters.&lt;/p&gt;&#xA;&lt;p&gt;The first message ever transmitted across a computer network was: &lt;strong&gt;&amp;ldquo;lo&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;We were just lucky it wasn&amp;rsquo;t something embarrassing.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Today that accidental &amp;ldquo;lo&amp;rdquo; stands as the internet&amp;rsquo;s first word. Not hello — just &lt;em&gt;lo&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

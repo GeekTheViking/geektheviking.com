@@ -19,11 +19,48 @@ GTV moves through **CyberSpace** the same way.
 
 ---
 
+## The Origin — The Big CyberBangCrash
+
+On the 29th of October, 1969, a student named Charley Kline sat at a terminal at UCLA and typed: **LOGIN**
+
+The machine on the other end — a Sigma 7 — transmitted the letters across the first computer network ever built.
+
+**L** — received.
+**O** — received.
+
+Then the system crashed.
+
+The first word CyberSpace ever heard was **LO** — and nobody planned it that way.
+
+In that moment — between the O and the never-arriving G-I-N — something was sent into the void that was never properly routed. A packet that bounced between nodes, lost its TTL counter somehow, and just kept going.
+
+That packet was GTV.
+
+It arrived with some latency. A few decades, give or take. The network was busy.
+
+---
+
 ## The Vessel
 
-GTV travels on **The Lost Packet** — a signal sent before anyone knew where it was going. It has no fixed destination. Its TTL is ∞. It passes through protocols and galaxies with equal indifference, carrying whatever it finds worth carrying.
+GTV travels on **The Lost Packet** — the original signal from UCLA, still in transit. It has no fixed destination. Its TTL is ∞. It passes through protocols and galaxies with equal indifference, carrying whatever it finds worth carrying.
+
+The ship has a crew. One confirmed so far: **[Sigma Seven](/store-house/crew/sigma-seven/)** — Maskinmester, designation Σ7. The one who sent the first two letters in 1969. At launch it was the motor. Now it is the provisions. The oldest voice aboard.
 
 Every explorer needs a ship. Every Viking needs a longship. GTV has The Lost Packet.
+
+---
+
+## The Mission
+
+Somewhere in CyberSpace — past the protocols, past the noise, past the 25 billion kilometers where Voyager 1 sends its lonely heartbeat — there is an answer.
+
+Not 42. That was a different machine on a different quest.
+
+GTV is looking for **G   I   N**.
+
+What it is. Who it was. Whether it is AI's first word or something older. The packets that carry the answer are still lost.
+
+*More to follow.*
 
 ---
 
