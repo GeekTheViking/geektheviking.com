@@ -5,6 +5,15 @@
     <loc>https://geektheviking.com/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://geektheviking.com/tags/bard/</loc>
+    <lastmod>2026-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/crew/</loc>
+    <lastmod>2026-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/store-house/crew/</loc>
+    <lastmod>2026-05-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://geektheviking.com/tags/cyberspace/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,10 +32,16 @@
     <loc>https://geektheviking.com/tags/philosophy/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://geektheviking.com/tags/saga/</loc>
+    <lastmod>2026-05-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://geektheviking.com/store-house/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/</loc>
+    <lastmod>2026-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/store-house/crew/the-bard/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/store-house/data-coffer/echoes/the-perfect-crash/</loc>
@@ -75,12 +90,6 @@
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/connection/</loc>
-    <lastmod>2026-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/crew/</loc>
-    <lastmod>2026-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/store-house/crew/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/store-house/crew/sigma-seven/</loc>
@@ -568,5 +577,7 @@
     <loc>https://geektheviking.com/gtv/</loc>
   </url><url>
     <loc>https://geektheviking.com/not-a-page/</loc>
+  </url><url>
+    <loc>https://geektheviking.com/store-house/saga/</loc>
   </url>
 </urlset>

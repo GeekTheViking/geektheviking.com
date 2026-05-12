@@ -1,0 +1,23 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/data-coffer.css">
+<style>
+  .saga-hero { text-align: center; padding: 3rem 1rem 2rem; }
+  .saga-hero h1 { font-family: monospace; font-size: 2rem; letter-spacing: 0.15em; }
+  .saga-hero p { opacity: 0.6; font-style: italic; }
+  .saga-body { max-width: 680px; margin: 0 auto; padding: 0 1rem 4rem; }
+  .saga-body h3 { font-family: monospace; margin-top: 3rem; font-size: 1rem; letter-spacing: 0.05em; }
+  .saga-body p { line-height: 1.9; }
+  .saga-body hr { border: none; border-top: 1px solid rgba(0,0,0,0.12); margin: 2.5rem 0; }
+  .saga-counter { text-align: center; margin-top: 3rem; font-family: monospace; font-size: 0.85rem; opacity: 0.5; }
+</style>
+
+<div class="saga-hero">
+  <h1>THE PEJLINGSTONE SAGA</h1>
+  <p>Sung aboard The Lost Packet whenever she departs.</p>
+  <p style="font-size:0.85rem;">Composed by The Bard · Discovered by GTV · <a href="/store-house/crew/the-bard/" style="color:inherit; opacity:0.7;">≋</a></p>
+</div>
+
+<div class="saga-body">
+  {{ .Content }}
+</div>
+{{ end }}
