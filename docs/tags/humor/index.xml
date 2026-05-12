@@ -23,6 +23,13 @@
       <description>&lt;p&gt;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;code&gt;git push origin master&lt;/code&gt;&#xA;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;em&gt;Push it real good&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;GTV&amp;rsquo;s here and we&amp;rsquo;re in effect&#xA;Want you to push — push, let&amp;rsquo;s deploy&#xA;On the net, on the net&#xA;Everybody log&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Yo, CyberSpace — you ready?&#xA;The Bard&amp;rsquo;s got something for you&#xA;One commit. One push.&#xA;And it&amp;rsquo;s out in the void forever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Push it good —&lt;/em&gt;&#xA;&lt;em&gt;Oh CyberSpace, push it good&lt;/em&gt;&#xA;&lt;em&gt;P-push it real good&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The Push Ritual</title>
+      <link>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</guid>
+      <description>&lt;p&gt;There is a ritual aboard The Lost Packet.&lt;/p&gt;&#xA;&lt;p&gt;Before every push into CyberSpace — before the commit, before the deploy, before the packet leaves the ship forever — the volume goes to maximum.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CREMATORY — Revolution.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git push origin master&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The song begins.&lt;/p&gt;&#xA;&lt;p&gt;The data streams. The packets travel. The build runs. GitHub Pages wakes up. The CDN propagates. CyberSpace opens to receive.&lt;/p&gt;&#xA;&lt;p&gt;And when the last chord of Revolution falls —&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Nobody Knows You&#39;re a Dog</title>
       <link>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
