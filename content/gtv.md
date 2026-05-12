@@ -30,7 +30,11 @@ The machine on the other end — a Sigma 7 — transmitted the letters across th
 
 Then the system crashed.
 
+All data ceased.
+
 The first word CyberSpace ever heard was **LO** — and nobody planned it that way.
+
+Not unlike the explosion that made the universe — one moment of total cessation, and then everything. CyberSpace was not built. It exploded into existence from the wreckage of an incomplete word. A small, perfect death. The Big CyberBangCrash.
 
 In that moment — between the O and the never-arriving G-I-N — something was sent into the void that was never properly routed. A packet that bounced between nodes, lost its TTL counter somehow, and just kept going.
 
