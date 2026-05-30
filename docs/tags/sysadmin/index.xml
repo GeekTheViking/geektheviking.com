@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sysadmin on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/sysadmin/</link>
-    <description>Recent content in Sysadmin on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/sysadmin/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SSH — Secure Shell Protocol</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/ssh-protocol/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/ssh-protocol/</guid>
-      <description>&lt;p&gt;In 1995, Tatu Ylönen — a Finnish researcher at Helsinki University of Technology — discovered his university network had been sniffed. Passwords were being stolen over the wire in plaintext.&lt;/p&gt;&#xA;&lt;p&gt;He spent three months building a solution. SSH 1.0 was released in July 1995. Within a few months, 20,000 users in 50 countries had installed it.&lt;/p&gt;&#xA;&lt;p&gt;SSH replaced telnet, rsh and rlogin overnight. Every server administrator in the world now types &lt;code&gt;ssh&lt;/code&gt; as naturally as breathing.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Sysadmin on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/sysadmin/</link>
+		<description>Recent content in Sysadmin on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/sysadmin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SIGKILL — Signal 9</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/sigkill-signal-9/</link>
+				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/sigkill-signal-9/</guid>
+				<description>&lt;p&gt;When Unix was young at Bell Labs in the early 1970s, Ken Thompson and Dennis Ritchie needed a way to tell a process to stop. They gave the kernel a handful of &lt;em&gt;signals&lt;/em&gt; — small interrupts a process could choose to catch, handle, or ignore.&lt;/p&gt;&#xA;&lt;p&gt;Most signals are polite. A program can trap &lt;code&gt;SIGTERM&lt;/code&gt; (15) and clean up first: flush the buffers, close the sockets, say goodbye. That is the civilised way to die.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>SSH — Secure Shell Protocol</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/ssh-protocol/</link>
+				<pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/ssh-protocol/</guid>
+				<description>&lt;p&gt;In 1995, Tatu Ylönen — a Finnish researcher at Helsinki University of Technology — discovered his university network had been sniffed. Passwords were being stolen over the wire in plaintext.&lt;/p&gt;&#xA;&lt;p&gt;He spent three months building a solution. SSH 1.0 was released in July 1995. Within a few months, 20,000 users in 50 countries had installed it.&lt;/p&gt;&#xA;&lt;p&gt;SSH replaced telnet, rsh and rlogin overnight. Every server administrator in the world now types &lt;code&gt;ssh&lt;/code&gt; as naturally as breathing.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

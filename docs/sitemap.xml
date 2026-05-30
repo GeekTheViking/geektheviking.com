@@ -1,14 +1,57 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://geektheviking.com/</loc>
-    <lastmod>2026-05-18T09:00:00+00:00</lastmod>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/data-coffer/echoes/en-god-konkurs-er-aldrig-spildt/</loc>
-    <lastmod>2026-05-18T09:00:00+00:00</lastmod>
+    <loc>https://geektheviking.com/tags/cyberspace/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/store-house/data-coffer/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/fuse/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/gtv/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/homelab/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/kernel/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/process/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/store-house/data-coffer/artifacts/sigkill-signal-9/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/signals/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/store-house/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/sysadmin/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/store-house/data-coffer/echoes/the-process-that-would-not-die/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/the-bard/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/unix/</loc>
+    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/store-house/data-coffer/echoes/en-god-konkurs-er-aldrig-spildt/</loc>
     <lastmod>2026-05-18T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/frankenstein/</loc>
@@ -32,12 +75,6 @@
     <loc>https://geektheviking.com/tags/recycling/</loc>
     <lastmod>2026-05-18T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/</loc>
-    <lastmod>2026-05-18T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/</loc>
-    <lastmod>2026-05-18T09:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://geektheviking.com/tags/anthem/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,9 +90,6 @@
     <loc>https://geektheviking.com/store-house/crew/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/cyberspace/</loc>
-    <lastmod>2026-05-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://geektheviking.com/tags/death/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -63,9 +97,6 @@
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/git/</loc>
-    <lastmod>2026-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/gtv/</loc>
     <lastmod>2026-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/humor/</loc>
@@ -335,9 +366,6 @@
     <loc>https://geektheviking.com/tags/gnu/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/homelab/</loc>
-    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://geektheviking.com/tags/human-centric/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -387,9 +415,6 @@
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/stallman/</loc>
-    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/sysadmin/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/store-house/data-coffer/echoes/future-already-here/</loc>
@@ -463,9 +488,6 @@
   </url><url>
     <loc>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/kernel/</loc>
-    <lastmod>2024-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>

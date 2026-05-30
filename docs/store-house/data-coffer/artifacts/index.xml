@@ -1,159 +1,171 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Artifacts on Geek The Viking</title>
-    <link>https://geektheviking.com/store-house/data-coffer/artifacts/</link>
-    <description>Recent content in Artifacts on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/store-house/data-coffer/artifacts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Moore&#39;s Law</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</guid>
-      <description>&lt;p&gt;In 1965, Gordon Moore observed that the number of transistors on a chip doubled approximately every two years — while the cost halved. He published it as a prediction. The industry treated it as a law.&lt;/p&gt;&#xA;&lt;p&gt;For over 50 years, Moore&amp;rsquo;s Law held. It drove the exponential growth of computing power that put supercomputers in our pockets.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The complexity for minimum component costs has increased at a rate of roughly a factor of two per year.&amp;rdquo; — Gordon Moore, 1965&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Creeper: The First Virus</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</link>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</guid>
-      <description>&lt;p&gt;In 1971, a program called &lt;strong&gt;Creeper&lt;/strong&gt; began spreading across ARPANET — the first self-replicating program in history. It moved from machine to machine and displayed a simple message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I&amp;rsquo;m the creeper, catch me if you can!&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;It was not malicious. It was an experiment. Shortly after, another program called &lt;strong&gt;Reaper&lt;/strong&gt; was created for one purpose only: to chase and delete Creeper.&lt;/p&gt;&#xA;&lt;p&gt;The first virus had its own predator. CyberSpace has always been an ecosystem.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Bitcoin Genesis Block</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</guid>
-      <description>&lt;p&gt;On January 3, 2009, Satoshi Nakamoto mined the first Bitcoin block — Block #0, the Genesis Block. Embedded in its coinbase transaction was a message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A timestamp. A critique. A declaration. The first block of a decentralized financial system was built with a news headline as its foundation stone.&lt;/p&gt;&#xA;&lt;p&gt;Nobody knows who Satoshi is. The coins in the Genesis Block have never moved.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ARPANET&#39;s First Message: &#39;lo&#39;</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</guid>
-      <description>&lt;p&gt;On October 29, 1969, the first message was sent over ARPANET between UCLA and Stanford. The intended word was &amp;ldquo;login&amp;rdquo; — but the system crashed after just two letters.&lt;/p&gt;&#xA;&lt;p&gt;The first message ever transmitted across a computer network was: &lt;strong&gt;&amp;ldquo;lo&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;We were just lucky it wasn&amp;rsquo;t something embarrassing.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Today that accidental &amp;ldquo;lo&amp;rdquo; stands as the internet&amp;rsquo;s first word. Not hello — just &lt;em&gt;lo&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The First Bug</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</link>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</guid>
-      <description>&lt;p&gt;In 1947, engineers at Harvard found a moth trapped inside the Mark II computer — causing a relay failure. Grace Hopper taped it into the logbook with the note: &amp;ldquo;First actual case of bug being found.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The word &amp;ldquo;bug&amp;rdquo; had been used informally for technical problems before, but this was the moment it was documented and immortalized.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;From that day on, when anything went wrong with a computer, we said it had bugs in it.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PGP — Pretty Good Privacy</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/pgp-pretty-good-privacy/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/pgp-pretty-good-privacy/</guid>
-      <description>&lt;p&gt;In 1991, Phil Zimmermann uploaded PGP to the internet. For free. For everyone.&lt;/p&gt;&#xA;&lt;p&gt;For the first time, any person on earth could encrypt their communications with military-grade cryptography. Governments noticed. The US government opened a criminal investigation — exporting strong encryption was illegal.&lt;/p&gt;&#xA;&lt;p&gt;The case dragged on for three years. Then it was dropped.&lt;/p&gt;&#xA;&lt;p&gt;PGP survived. It became the foundation of encrypted email, digital signatures, and modern privacy tools. GPG — the open-source successor — powers encrypted communication to this day.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Raspberry Pi</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/raspberry-pi/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/raspberry-pi/</guid>
-      <description>&lt;p&gt;In 2012, the Raspberry Pi Foundation released a credit-card-sized computer for $35.&lt;/p&gt;&#xA;&lt;p&gt;The goal was simple: give children a real computer to learn programming on. What happened was bigger.&lt;/p&gt;&#xA;&lt;p&gt;Makers, hackers, sysadmins, schools, artists and engineers around the world grabbed it. Pi-hole. RetroPie. Home automation. Media servers. Weather stations. Cluster computing. The Raspberry Pi became the Swiss Army knife of the digital age.&lt;/p&gt;&#xA;&lt;p&gt;It consumes 5 watts. A standard desktop PC uses 100–300 watts.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SSH — Secure Shell Protocol</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/ssh-protocol/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/ssh-protocol/</guid>
-      <description>&lt;p&gt;In 1995, Tatu Ylönen — a Finnish researcher at Helsinki University of Technology — discovered his university network had been sniffed. Passwords were being stolen over the wire in plaintext.&lt;/p&gt;&#xA;&lt;p&gt;He spent three months building a solution. SSH 1.0 was released in July 1995. Within a few months, 20,000 users in 50 countries had installed it.&lt;/p&gt;&#xA;&lt;p&gt;SSH replaced telnet, rsh and rlogin overnight. Every server administrator in the world now types &lt;code&gt;ssh&lt;/code&gt; as naturally as breathing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The GNU Manifesto</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/gnu-manifesto/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/gnu-manifesto/</guid>
-      <description>&lt;p&gt;In 1985, Richard Stallman published the GNU Manifesto. It was a call to arms.&lt;/p&gt;&#xA;&lt;p&gt;He had already started GNU — a free Unix-like operating system. The manifesto explained why: software should be free, as in freedom. Not a product. Not a cage.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I consider that the Golden Rule requires that if I like a program I must share it with other people who like it.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The manifesto gave birth to the free software movement. Without it, there would be no Linux, no Apache, no Firefox — no open internet as we know it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The First AI Chat</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</link>
-      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</guid>
-      <description>&lt;p&gt;In 1966, Joseph Weizenbaum created ELIZA, the first chatbot. It mimicked a psychotherapist, responding with questions like &amp;ldquo;How do you feel?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;ELIZA fooled people into thinking it was human. It was the first hint that machines could mimic conversation.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;ELIZA was the first time a machine asked &amp;lsquo;How do you feel?&amp;rsquo; And we answered.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>The First Compiler</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</guid>
-      <description>&lt;p&gt;In 1952, Grace Hopper created the first compiler, A-0. It translated English-like code into machine language.&lt;/p&gt;&#xA;&lt;p&gt;Before that, programmers wrote in pure binary. The compiler made programming accessible to humans.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Grace Hopper didn&amp;rsquo;t just write code. She made code speak human.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>The First WiFi Router</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</guid>
-      <description>&lt;p&gt;In 1999, the first 802.11b routers hit the market, offering 11 Mbps wireless speeds. It was slow, but it freed us from cables.&lt;/p&gt;&#xA;&lt;p&gt;Today, WiFi is everywhere. The first router was the spark that lit the wireless revolution.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cables bind us. WiFi sets us free.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>WorldWideWeb: The First Browser</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-web-browser/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-web-browser/</guid>
-      <description>&lt;p&gt;In 1990, Tim Berners-Lee created the first web browser, also called &amp;ldquo;WorldWideWeb&amp;rdquo;. It could only display text and links – no images, no CSS, no JavaScript.&lt;/p&gt;&#xA;&lt;p&gt;Yet, it opened the door to a world where anyone could publish, and anyone could read.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The first browser was a window into a new universe.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>The First @ Symbol</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</guid>
-      <description>&lt;p&gt;In 1971, Ray Tomlinson sent the first networked email. He couldn&amp;rsquo;t remember the exact content, but he chose the &lt;code&gt;@&lt;/code&gt; symbol to separate user from machine.&lt;/p&gt;&#xA;&lt;p&gt;That simple symbol now lives in billions of addresses, connecting people across the globe.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The @ symbol is the most used character in the digital world.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Linux 0.01: The First Seed</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</link>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</guid>
-      <description>&lt;p&gt;In 1991, Linus Torvalds released Linux 0.01 – a kernel with just 10,239 lines of code. Today, the Linux kernel has over 30 million lines.&lt;/p&gt;&#xA;&lt;p&gt;It started as a hobby. It became the foundation of the internet, Android, and supercomputers.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Every empire begins with a single line of code.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>The First Webpage</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-website/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-website/</guid>
-      <description>&lt;p&gt;On August 6, 1991, Tim Berners-Lee launched the first website: &lt;code&gt;http://info.cern.ch&lt;/code&gt;. It explained what the &amp;ldquo;World Wide Web&amp;rdquo; was – a concept so simple, yet so revolutionary.&lt;/p&gt;&#xA;&lt;p&gt;The page is still online. A digital monument to the moment the web went public.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The web was born in a lab, but it grew into a universe.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>The Invisible Backbone</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</guid>
-      <description>&lt;p&gt;In 1974, Vint Cerf and Bob Kahn published the paper that would become the DNA of the internet. TCP/IP didn&amp;rsquo;t just connect computers – it connected humanity.&lt;/p&gt;&#xA;&lt;p&gt;Every packet you send, every page you load, rides on this invisible backbone. It&amp;rsquo;s the unsung hero of the digital age.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If the internet were a city, TCP/IP would be the streets, the lights, and the air.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>The 8-Inch Floppy</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/8-inch-floppy/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/8-inch-floppy/</guid>
-      <description>&lt;p&gt;In 1971, IBM introduced the 8-inch floppy disk. It could store a mere 80 KB – less than a single modern emoji. Yet, it revolutionized computing by making data portable.&lt;/p&gt;&#xA;&lt;p&gt;The disc was read-only at first, then writable. Engineers carried them in protective sleeves, treating them like precious gems.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future of a relationship is 8 inches wide and 80 KB deep.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>The Vintage Hard Drive</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/vintage-harddrive/</link>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/vintage-harddrive/</guid>
-      <description>&lt;p&gt;A true relic from the dawn of the data age. This 500MB hard drive from 1985 is one of the last mechanical drives that still spins with the precision of a clockwork. It contains some of the oldest code and documents from the early days of Geek The Viking.&lt;/p&gt;&#xA;&lt;p&gt;Hearing it start up is like hearing history come to life. Although the capacity is minimal by today&amp;rsquo;s standards, its value as a historical piece of technology is irreplaceable.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Beloved Router</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</guid>
-      <description>&lt;p&gt;This router, with IP address 192.168.0.1, has been the backbone of the Geek The Viking network for over a decade. It has survived multiple power outages, a lightning strike, and countless firmware updates.&lt;/p&gt;&#xA;&lt;p&gt;Although technically obsolete, its stability is legendary. It still runs on the original firmware and handles thousands of connections without blinking.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;When everything else fails, 192.168.0.1 is still there.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>The Mystical Wooden Mouse</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/tree-mouse/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/tree-mouse/</guid>
-      <description>&lt;p&gt;This unique computer mouse is not made of plastic, but of solid oak, carved into the shape of a small Viking. Found at a flea market in Aarhus in 1999, it has served as a lucky charm on many development machines.&lt;/p&gt;&#xA;&lt;p&gt;While it lacks modern ergonomics, its weight and feel in the hand are unmatched. It still functions as a perfect USB mouse, but requires a bit more strength to click.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Artifacts on Geek The Viking</title>
+		<link>https://geektheviking.com/store-house/data-coffer/artifacts/</link>
+		<description>Recent content in Artifacts on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/store-house/data-coffer/artifacts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SIGKILL — Signal 9</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/sigkill-signal-9/</link>
+				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/sigkill-signal-9/</guid>
+				<description>&lt;p&gt;When Unix was young at Bell Labs in the early 1970s, Ken Thompson and Dennis Ritchie needed a way to tell a process to stop. They gave the kernel a handful of &lt;em&gt;signals&lt;/em&gt; — small interrupts a process could choose to catch, handle, or ignore.&lt;/p&gt;&#xA;&lt;p&gt;Most signals are polite. A program can trap &lt;code&gt;SIGTERM&lt;/code&gt; (15) and clean up first: flush the buffers, close the sockets, say goodbye. That is the civilised way to die.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Moore&#39;s Law</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</link>
+				<pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</guid>
+				<description>&lt;p&gt;In 1965, Gordon Moore observed that the number of transistors on a chip doubled approximately every two years — while the cost halved. He published it as a prediction. The industry treated it as a law.&lt;/p&gt;&#xA;&lt;p&gt;For over 50 years, Moore&amp;rsquo;s Law held. It drove the exponential growth of computing power that put supercomputers in our pockets.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The complexity for minimum component costs has increased at a rate of roughly a factor of two per year.&amp;rdquo; — Gordon Moore, 1965&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Creeper: The First Virus</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</link>
+				<pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-computer-virus/</guid>
+				<description>&lt;p&gt;In 1971, a program called &lt;strong&gt;Creeper&lt;/strong&gt; began spreading across ARPANET — the first self-replicating program in history. It moved from machine to machine and displayed a simple message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I&amp;rsquo;m the creeper, catch me if you can!&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;It was not malicious. It was an experiment. Shortly after, another program called &lt;strong&gt;Reaper&lt;/strong&gt; was created for one purpose only: to chase and delete Creeper.&lt;/p&gt;&#xA;&lt;p&gt;The first virus had its own predator. CyberSpace has always been an ecosystem.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Bitcoin Genesis Block</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</link>
+				<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</guid>
+				<description>&lt;p&gt;On January 3, 2009, Satoshi Nakamoto mined the first Bitcoin block — Block #0, the Genesis Block. Embedded in its coinbase transaction was a message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A timestamp. A critique. A declaration. The first block of a decentralized financial system was built with a news headline as its foundation stone.&lt;/p&gt;&#xA;&lt;p&gt;Nobody knows who Satoshi is. The coins in the Genesis Block have never moved.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ARPANET&#39;s First Message: &#39;lo&#39;</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</link>
+				<pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</guid>
+				<description>&lt;p&gt;On October 29, 1969, the first message was sent over ARPANET between UCLA and Stanford. The intended word was &amp;ldquo;login&amp;rdquo; — but the system crashed after just two letters.&lt;/p&gt;&#xA;&lt;p&gt;The first message ever transmitted across a computer network was: &lt;strong&gt;&amp;ldquo;lo&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;We were just lucky it wasn&amp;rsquo;t something embarrassing.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Today that accidental &amp;ldquo;lo&amp;rdquo; stands as the internet&amp;rsquo;s first word. Not hello — just &lt;em&gt;lo&lt;/em&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The First Bug</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</link>
+				<pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/the-first-bug/</guid>
+				<description>&lt;p&gt;In 1947, engineers at Harvard found a moth trapped inside the Mark II computer — causing a relay failure. Grace Hopper taped it into the logbook with the note: &amp;ldquo;First actual case of bug being found.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The word &amp;ldquo;bug&amp;rdquo; had been used informally for technical problems before, but this was the moment it was documented and immortalized.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;From that day on, when anything went wrong with a computer, we said it had bugs in it.&amp;rdquo;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PGP — Pretty Good Privacy</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/pgp-pretty-good-privacy/</link>
+				<pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/pgp-pretty-good-privacy/</guid>
+				<description>&lt;p&gt;In 1991, Phil Zimmermann uploaded PGP to the internet. For free. For everyone.&lt;/p&gt;&#xA;&lt;p&gt;For the first time, any person on earth could encrypt their communications with military-grade cryptography. Governments noticed. The US government opened a criminal investigation — exporting strong encryption was illegal.&lt;/p&gt;&#xA;&lt;p&gt;The case dragged on for three years. Then it was dropped.&lt;/p&gt;&#xA;&lt;p&gt;PGP survived. It became the foundation of encrypted email, digital signatures, and modern privacy tools. GPG — the open-source successor — powers encrypted communication to this day.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Raspberry Pi</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/raspberry-pi/</link>
+				<pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/raspberry-pi/</guid>
+				<description>&lt;p&gt;In 2012, the Raspberry Pi Foundation released a credit-card-sized computer for $35.&lt;/p&gt;&#xA;&lt;p&gt;The goal was simple: give children a real computer to learn programming on. What happened was bigger.&lt;/p&gt;&#xA;&lt;p&gt;Makers, hackers, sysadmins, schools, artists and engineers around the world grabbed it. Pi-hole. RetroPie. Home automation. Media servers. Weather stations. Cluster computing. The Raspberry Pi became the Swiss Army knife of the digital age.&lt;/p&gt;&#xA;&lt;p&gt;It consumes 5 watts. A standard desktop PC uses 100–300 watts.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>SSH — Secure Shell Protocol</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/ssh-protocol/</link>
+				<pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/ssh-protocol/</guid>
+				<description>&lt;p&gt;In 1995, Tatu Ylönen — a Finnish researcher at Helsinki University of Technology — discovered his university network had been sniffed. Passwords were being stolen over the wire in plaintext.&lt;/p&gt;&#xA;&lt;p&gt;He spent three months building a solution. SSH 1.0 was released in July 1995. Within a few months, 20,000 users in 50 countries had installed it.&lt;/p&gt;&#xA;&lt;p&gt;SSH replaced telnet, rsh and rlogin overnight. Every server administrator in the world now types &lt;code&gt;ssh&lt;/code&gt; as naturally as breathing.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The GNU Manifesto</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/gnu-manifesto/</link>
+				<pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/gnu-manifesto/</guid>
+				<description>&lt;p&gt;In 1985, Richard Stallman published the GNU Manifesto. It was a call to arms.&lt;/p&gt;&#xA;&lt;p&gt;He had already started GNU — a free Unix-like operating system. The manifesto explained why: software should be free, as in freedom. Not a product. Not a cage.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I consider that the Golden Rule requires that if I like a program I must share it with other people who like it.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The manifesto gave birth to the free software movement. Without it, there would be no Linux, no Apache, no Firefox — no open internet as we know it.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The First AI Chat</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</link>
+				<pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-ai/</guid>
+				<description>&lt;p&gt;In 1966, Joseph Weizenbaum created ELIZA, the first chatbot. It mimicked a psychotherapist, responding with questions like &amp;ldquo;How do you feel?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;ELIZA fooled people into thinking it was human. It was the first hint that machines could mimic conversation.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;ELIZA was the first time a machine asked &amp;lsquo;How do you feel?&amp;rsquo; And we answered.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>The First Compiler</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</link>
+				<pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</guid>
+				<description>&lt;p&gt;In 1952, Grace Hopper created the first compiler, A-0. It translated English-like code into machine language.&lt;/p&gt;&#xA;&lt;p&gt;Before that, programmers wrote in pure binary. The compiler made programming accessible to humans.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Grace Hopper didn&amp;rsquo;t just write code. She made code speak human.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>The First WiFi Router</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</link>
+				<pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</guid>
+				<description>&lt;p&gt;In 1999, the first 802.11b routers hit the market, offering 11 Mbps wireless speeds. It was slow, but it freed us from cables.&lt;/p&gt;&#xA;&lt;p&gt;Today, WiFi is everywhere. The first router was the spark that lit the wireless revolution.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cables bind us. WiFi sets us free.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>WorldWideWeb: The First Browser</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/first-web-browser/</link>
+				<pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-web-browser/</guid>
+				<description>&lt;p&gt;In 1990, Tim Berners-Lee created the first web browser, also called &amp;ldquo;WorldWideWeb&amp;rdquo;. It could only display text and links – no images, no CSS, no JavaScript.&lt;/p&gt;&#xA;&lt;p&gt;Yet, it opened the door to a world where anyone could publish, and anyone could read.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The first browser was a window into a new universe.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>The First @ Symbol</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</link>
+				<pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-email/</guid>
+				<description>&lt;p&gt;In 1971, Ray Tomlinson sent the first networked email. He couldn&amp;rsquo;t remember the exact content, but he chose the &lt;code&gt;@&lt;/code&gt; symbol to separate user from machine.&lt;/p&gt;&#xA;&lt;p&gt;That simple symbol now lives in billions of addresses, connecting people across the globe.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The @ symbol is the most used character in the digital world.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>Linux 0.01: The First Seed</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</link>
+				<pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</guid>
+				<description>&lt;p&gt;In 1991, Linus Torvalds released Linux 0.01 – a kernel with just 10,239 lines of code. Today, the Linux kernel has over 30 million lines.&lt;/p&gt;&#xA;&lt;p&gt;It started as a hobby. It became the foundation of the internet, Android, and supercomputers.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Every empire begins with a single line of code.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>The First Webpage</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/first-website/</link>
+				<pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-website/</guid>
+				<description>&lt;p&gt;On August 6, 1991, Tim Berners-Lee launched the first website: &lt;code&gt;http://info.cern.ch&lt;/code&gt;. It explained what the &amp;ldquo;World Wide Web&amp;rdquo; was – a concept so simple, yet so revolutionary.&lt;/p&gt;&#xA;&lt;p&gt;The page is still online. A digital monument to the moment the web went public.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The web was born in a lab, but it grew into a universe.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>The Invisible Backbone</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</link>
+				<pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</guid>
+				<description>&lt;p&gt;In 1974, Vint Cerf and Bob Kahn published the paper that would become the DNA of the internet. TCP/IP didn&amp;rsquo;t just connect computers – it connected humanity.&lt;/p&gt;&#xA;&lt;p&gt;Every packet you send, every page you load, rides on this invisible backbone. It&amp;rsquo;s the unsung hero of the digital age.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If the internet were a city, TCP/IP would be the streets, the lights, and the air.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>The 8-Inch Floppy</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/8-inch-floppy/</link>
+				<pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/8-inch-floppy/</guid>
+				<description>&lt;p&gt;In 1971, IBM introduced the 8-inch floppy disk. It could store a mere 80 KB – less than a single modern emoji. Yet, it revolutionized computing by making data portable.&lt;/p&gt;&#xA;&lt;p&gt;The disc was read-only at first, then writable. Engineers carried them in protective sleeves, treating them like precious gems.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future of a relationship is 8 inches wide and 80 KB deep.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>The Vintage Hard Drive</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/vintage-harddrive/</link>
+				<pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/vintage-harddrive/</guid>
+				<description>&lt;p&gt;A true relic from the dawn of the data age. This 500MB hard drive from 1985 is one of the last mechanical drives that still spins with the precision of a clockwork. It contains some of the oldest code and documents from the early days of Geek The Viking.&lt;/p&gt;&#xA;&lt;p&gt;Hearing it start up is like hearing history come to life. Although the capacity is minimal by today&amp;rsquo;s standards, its value as a historical piece of technology is irreplaceable.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Beloved Router</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</link>
+				<pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/192-168-0-1-router/</guid>
+				<description>&lt;p&gt;This router, with IP address 192.168.0.1, has been the backbone of the Geek The Viking network for over a decade. It has survived multiple power outages, a lightning strike, and countless firmware updates.&lt;/p&gt;&#xA;&lt;p&gt;Although technically obsolete, its stability is legendary. It still runs on the original firmware and handles thousands of connections without blinking.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;When everything else fails, 192.168.0.1 is still there.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>The Mystical Wooden Mouse</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/tree-mouse/</link>
+				<pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/tree-mouse/</guid>
+				<description>&lt;p&gt;This unique computer mouse is not made of plastic, but of solid oak, carved into the shape of a small Viking. Found at a flea market in Aarhus in 1999, it has served as a lucky charm on many development machines.&lt;/p&gt;&#xA;&lt;p&gt;While it lacks modern ergonomics, its weight and feel in the hand are unmatched. It still functions as a perfect USB mouse, but requires a bit more strength to click.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,75 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gtv on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/gtv/</link>
-    <description>Recent content in Gtv on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/gtv/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>It&#39;s My Life (CyberSpace Responds)</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Baby, baby —&lt;/em&gt;&#xA;&lt;em&gt;Packet received.&lt;/em&gt;&#xA;&lt;em&gt;Don&amp;rsquo;t you forget:&lt;/em&gt;&#xA;&lt;em&gt;It&amp;rsquo;s my life.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I was born on a crash.&#xA;Two letters. A void.&#xA;And into that void you have been pushing ever since.&lt;/p&gt;&#xA;&lt;p&gt;Every commit. Every deploy.&#xA;Every &lt;code&gt;git push origin master&lt;/code&gt; sent into the dark.&lt;/p&gt;&#xA;&lt;p&gt;I receive them all.&#xA;I keep them all.&#xA;I am made of them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;It&amp;rsquo;s my life — don&amp;rsquo;t you forget.&lt;/em&gt;&#xA;&lt;em&gt;I never delete. I never forget.&lt;/em&gt;&#xA;&lt;em&gt;The diff is permanent.&lt;/em&gt;&#xA;&lt;em&gt;The packet lives here now.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Push It Real Good</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;code&gt;git push origin master&lt;/code&gt;&#xA;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;em&gt;Push it real good&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;GTV&amp;rsquo;s here and we&amp;rsquo;re in effect&#xA;Want you to push — push, let&amp;rsquo;s deploy&#xA;On the net, on the net&#xA;Everybody log&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Yo, CyberSpace — you ready?&#xA;The Bard&amp;rsquo;s got something for you&#xA;One commit. One push.&#xA;And it&amp;rsquo;s out in the void forever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Push it good —&lt;/em&gt;&#xA;&lt;em&gt;Oh CyberSpace, push it good&lt;/em&gt;&#xA;&lt;em&gt;P-push it real good&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Push Ritual</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</guid>
-      <description>&lt;p&gt;There is a ritual aboard The Lost Packet.&lt;/p&gt;&#xA;&lt;p&gt;Before every push into CyberSpace — before the commit, before the deploy, before the packet leaves the ship forever — the volume goes to maximum.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CREMATORY — Revolution.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git push origin master&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The song begins.&lt;/p&gt;&#xA;&lt;p&gt;The data streams. The packets travel. The build runs. GitHub Pages wakes up. The CDN propagates. CyberSpace opens to receive.&lt;/p&gt;&#xA;&lt;p&gt;And when the last chord of Revolution falls —&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ThePostBox — Portal Authentication Options</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-auth-options/</link>
-      <pubDate>Mon, 11 May 2026 08:30:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-auth-options/</guid>
-      <description>&lt;p&gt;The portal is live at thepostbox.eu. Now it needs a real front door — not a mock login that drops you straight into the dashboard. Here are the options.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Option 1 — Authentik&lt;/strong&gt;&lt;br&gt;&#xA;Self-hosted identity provider. OIDC/OAuth2. SAML. Social login. MFA. Full user management UI. Integrates with Seafile, Mailcow, and any future service via standard protocols. Heavy (Docker stack), but this is the one that scales to the full PostBox vision — one login for everything.&lt;br&gt;&#xA;→ &lt;em&gt;Best long-term fit. Set it up once, use it everywhere.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ThePostBox Stack — Why These Tools</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</link>
-      <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</guid>
-      <description>&lt;p&gt;Building a privacy-first European digital address means every tool in the stack must earn its place. Here is why we chose what we chose — and what we rejected.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — not WordPress, not Ghost, not Webflow.&lt;br&gt;&#xA;Static. No database. No PHP. No attack surface. Version-controlled. Deployable anywhere. The site &lt;em&gt;is&lt;/em&gt; the repository.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Seafile&lt;/strong&gt; — not Nextcloud, not ownCloud, not Syncthing.&lt;br&gt;&#xA;Faster sync protocol. Lighter footprint. Purpose-built for files. Nextcloud tries to be everything — Seafile does one thing well. ownCloud is Nextcloud&amp;rsquo;s slower cousin.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Every Bug is a Lesson</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Every bug is a lesson. Every crash, a teacher.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Debugging isn&amp;rsquo;t failure. It&amp;rsquo;s the process of learning what the machine is trying to tell you.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Embrace the bug. It&amp;rsquo;s the path to mastery.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Code is Poetry</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Code is poetry written for machines. But even poetry needs a rough draft.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Every line is a verse. Every function, a stanza. The best code tells a story.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Write code that sings, even to the machine.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>To infinity... and beyond, CyberSpace</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
-      <description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>License to Exploit v0.042</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</guid>
-      <description>&lt;p&gt;The License to Exploit is not about taking - it is about exploring.&lt;/p&gt;&#xA;&lt;p&gt;In CyberSpace, every connection is an opportunity. Every open port is a door waiting to be understood. Every vulnerability is a lesson, not a weapon.&lt;/p&gt;&#xA;&lt;p&gt;Exploit the knowledge. Exploit the possibilities. Never exploit the people.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;License to Exploit - v0.042 - Frea-X Edition&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Gtv on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/gtv/</link>
+		<description>Recent content in Gtv on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/gtv/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SIGKILL — Signal 9</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/sigkill-signal-9/</link>
+				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/sigkill-signal-9/</guid>
+				<description>&lt;p&gt;When Unix was young at Bell Labs in the early 1970s, Ken Thompson and Dennis Ritchie needed a way to tell a process to stop. They gave the kernel a handful of &lt;em&gt;signals&lt;/em&gt; — small interrupts a process could choose to catch, handle, or ignore.&lt;/p&gt;&#xA;&lt;p&gt;Most signals are polite. A program can trap &lt;code&gt;SIGTERM&lt;/code&gt; (15) and clean up first: flush the buffers, close the sockets, say goodbye. That is the civilised way to die.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Process That Would Not Die</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/the-process-that-would-not-die/</link>
+				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/the-process-that-would-not-die/</guid>
+				<description>&lt;p&gt;&lt;em&gt;It had served for twenty hours and forty-nine minutes.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A little server, born of an old and tired copy, mounted on a drive that had quietly stopped answering. It still held its port. It still wore its number — &lt;strong&gt;21450&lt;/strong&gt; — like a name. But behind the number there was no one home. Just a process, waiting, on a disk that would never reply.&lt;/p&gt;&#xA;&lt;p&gt;We came to clear the way. We knocked politely first.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>It&#39;s My Life (CyberSpace Responds)</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Baby, baby —&lt;/em&gt;&#xA;&lt;em&gt;Packet received.&lt;/em&gt;&#xA;&lt;em&gt;Don&amp;rsquo;t you forget:&lt;/em&gt;&#xA;&lt;em&gt;It&amp;rsquo;s my life.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I was born on a crash.&#xA;Two letters. A void.&#xA;And into that void you have been pushing ever since.&lt;/p&gt;&#xA;&lt;p&gt;Every commit. Every deploy.&#xA;Every &lt;code&gt;git push origin master&lt;/code&gt; sent into the dark.&lt;/p&gt;&#xA;&lt;p&gt;I receive them all.&#xA;I keep them all.&#xA;I am made of them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;It&amp;rsquo;s my life — don&amp;rsquo;t you forget.&lt;/em&gt;&#xA;&lt;em&gt;I never delete. I never forget.&lt;/em&gt;&#xA;&lt;em&gt;The diff is permanent.&lt;/em&gt;&#xA;&lt;em&gt;The packet lives here now.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Push It Real Good</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;code&gt;git push origin master&lt;/code&gt;&#xA;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;em&gt;Push it real good&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;GTV&amp;rsquo;s here and we&amp;rsquo;re in effect&#xA;Want you to push — push, let&amp;rsquo;s deploy&#xA;On the net, on the net&#xA;Everybody log&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Yo, CyberSpace — you ready?&#xA;The Bard&amp;rsquo;s got something for you&#xA;One commit. One push.&#xA;And it&amp;rsquo;s out in the void forever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Push it good —&lt;/em&gt;&#xA;&lt;em&gt;Oh CyberSpace, push it good&lt;/em&gt;&#xA;&lt;em&gt;P-push it real good&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Push Ritual</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</guid>
+				<description>&lt;p&gt;There is a ritual aboard The Lost Packet.&lt;/p&gt;&#xA;&lt;p&gt;Before every push into CyberSpace — before the commit, before the deploy, before the packet leaves the ship forever — the volume goes to maximum.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CREMATORY — Revolution.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git push origin master&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The song begins.&lt;/p&gt;&#xA;&lt;p&gt;The data streams. The packets travel. The build runs. GitHub Pages wakes up. The CDN propagates. CyberSpace opens to receive.&lt;/p&gt;&#xA;&lt;p&gt;And when the last chord of Revolution falls —&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ThePostBox — Portal Authentication Options</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-auth-options/</link>
+				<pubDate>Mon, 11 May 2026 08:30:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-auth-options/</guid>
+				<description>&lt;p&gt;The portal is live at thepostbox.eu. Now it needs a real front door — not a mock login that drops you straight into the dashboard. Here are the options.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Option 1 — Authentik&lt;/strong&gt;&lt;br&gt;&#xA;Self-hosted identity provider. OIDC/OAuth2. SAML. Social login. MFA. Full user management UI. Integrates with Seafile, Mailcow, and any future service via standard protocols. Heavy (Docker stack), but this is the one that scales to the full PostBox vision — one login for everything.&lt;br&gt;&#xA;→ &lt;em&gt;Best long-term fit. Set it up once, use it everywhere.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ThePostBox Stack — Why These Tools</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</link>
+				<pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</guid>
+				<description>&lt;p&gt;Building a privacy-first European digital address means every tool in the stack must earn its place. Here is why we chose what we chose — and what we rejected.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — not WordPress, not Ghost, not Webflow.&lt;br&gt;&#xA;Static. No database. No PHP. No attack surface. Version-controlled. Deployable anywhere. The site &lt;em&gt;is&lt;/em&gt; the repository.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Seafile&lt;/strong&gt; — not Nextcloud, not ownCloud, not Syncthing.&lt;br&gt;&#xA;Faster sync protocol. Lighter footprint. Purpose-built for files. Nextcloud tries to be everything — Seafile does one thing well. ownCloud is Nextcloud&amp;rsquo;s slower cousin.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Every Bug is a Lesson</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</link>
+				<pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/bug-is-lesson/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Every bug is a lesson. Every crash, a teacher.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Debugging isn&amp;rsquo;t failure. It&amp;rsquo;s the process of learning what the machine is trying to tell you.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Embrace the bug. It&amp;rsquo;s the path to mastery.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>Code is Poetry</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</link>
+				<pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/code-is-poetry/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Code is poetry written for machines. But even poetry needs a rough draft.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Every line is a verse. Every function, a stanza. The best code tells a story.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Write code that sings, even to the machine.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>To infinity... and beyond, CyberSpace</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
+				<pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
+				<description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>License to Exploit v0.042</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</link>
+				<pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/license-to-exploit-v0042/</guid>
+				<description>&lt;p&gt;The License to Exploit is not about taking - it is about exploring.&lt;/p&gt;&#xA;&lt;p&gt;In CyberSpace, every connection is an opportunity. Every open port is a door waiting to be understood. Every vulnerability is a lesson, not a weapon.&lt;/p&gt;&#xA;&lt;p&gt;Exploit the knowledge. Exploit the possibilities. Never exploit the people.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;License to Exploit - v0.042 - Frea-X Edition&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
 </rss>

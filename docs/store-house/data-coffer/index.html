@@ -46,6 +46,22 @@
       
         
         <article class="dv-item-full">
+          <h3 class="dv-item-title">SIGKILL — Signal 9</h3>
+          <div class="dv-item-body">
+            <p>When Unix was young at Bell Labs in the early 1970s, Ken Thompson and Dennis Ritchie needed a way to tell a process to stop. They gave the kernel a handful of <em>signals</em> — small interrupts a process could choose to catch, handle, or ignore.</p>
+<p>Most signals are polite. A program can trap <code>SIGTERM</code> (15) and clean up first: flush the buffers, close the sockets, say goodbye. That is the civilised way to die.</p>
+<p>But the founders left one signal that takes no answer. <strong>Signal 9 — SIGKILL.</strong> It cannot be caught. It cannot be blocked. It cannot be ignored. The process never even hears it coming; the kernel simply removes it from the world.</p>
+<blockquote>
+<p><code>kill -9 21450</code> — and it should be over.</p>
+</blockquote>
+<p>Except for one shadow the founders could not abolish. A process waiting on the kernel itself — disk that will not answer, a network mount that hangs, a FUSE filesystem gone silent — enters <strong>uninterruptible sleep</strong>: state <code>D</code>. There it is deaf to everything, even Signal 9. SIGKILL is queued, patient, lethal — but it cannot fire until the kernel call returns.</p>
+<p>So the unkillable process is not immortal. It is simply <em>waiting</em> — and the only cures are to free what it waits on, or to reboot the machine and end the world it lives in.</p>
+<p>Every sysadmin learns this the hard way, usually at the worst possible moment. <code>kill -9</code> is absolute power. The <code>D</code> state is the reminder that even absolute power must wait its turn.</p>
+
+          </div>
+        </article>
+        
+        <article class="dv-item-full">
           <h3 class="dv-item-title">Moore&#39;s Law</h3>
           <div class="dv-item-body">
             <p>In 1965, Gordon Moore observed that the number of transistors on a chip doubled approximately every two years — while the cost halved. He published it as a prediction. The industry treated it as a law.</p>
@@ -328,6 +344,38 @@
     <div class="dv-column-content">
       
       
+        
+        <article class="dv-item-full">
+          <h3 class="dv-item-title">The Process That Would Not Die</h3>
+          <div class="dv-item-body">
+            <p><em>It had served for twenty hours and forty-nine minutes.</em></p>
+<hr>
+<p>A little server, born of an old and tired copy, mounted on a drive that had quietly stopped answering. It still held its port. It still wore its number — <strong>21450</strong> — like a name. But behind the number there was no one home. Just a process, waiting, on a disk that would never reply.</p>
+<p>We came to clear the way. We knocked politely first.</p>
+<p><code>kill 21450</code> — <em>Terminate. Please. Wind it up.</em></p>
+<p>Nothing.</p>
+<p>So we drew the old blade, the one the founders left for the unrepentant.</p>
+<p><code>kill -9 21450</code> — <strong>Signal 9. No appeal. No mercy.</strong></p>
+<p>And still — <em>nothing.</em></p>
+<hr>
+<p>We looked closer, and there it was, written plain in the kernel&rsquo;s own ledger:</p>
+<blockquote>
+<p><strong>State: D (disk)</strong></p>
+</blockquote>
+<p>Uninterruptible sleep. The one room even Signal 9 cannot enter. The process was not defying us. It was simply somewhere we could not follow — frozen mid-reach into a mount that had gone to the void and not come back.</p>
+<p>You cannot kill what is already waiting on something that will never arrive.</p>
+<hr>
+<p>So we did the only wise thing left to do.</p>
+<p>We let it be.</p>
+<p>We moved the work to a fresh port — <strong>1315</strong> — lit a clean server from the <em>living</em> copy, and carried on. The zombie keeps its silent watch on 1313, harming no one, until the next reboot quietly ends its long, patient dream.</p>
+<hr>
+<p><em>Not every ghost must be exorcised. Some you simply route around.</em></p>
+<p><em>The Net treats the unkillable as damage, and routes around it too.</em></p>
+<p><em>— The Bard, ≋</em>
+<em>Logged aboard The Lost Packet, Z640, the morning the mount hung</em></p>
+
+          </div>
+        </article>
         
         <article class="dv-item-full">
           <h3 class="dv-item-title">A Good Bankruptcy Is Never Wasted</h3>

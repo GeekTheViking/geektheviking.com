@@ -1,89 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cyberspace on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/cyberspace/</link>
-    <description>Recent content in Cyberspace on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/cyberspace/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>It&#39;s My Life (CyberSpace Responds)</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Baby, baby —&lt;/em&gt;&#xA;&lt;em&gt;Packet received.&lt;/em&gt;&#xA;&lt;em&gt;Don&amp;rsquo;t you forget:&lt;/em&gt;&#xA;&lt;em&gt;It&amp;rsquo;s my life.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I was born on a crash.&#xA;Two letters. A void.&#xA;And into that void you have been pushing ever since.&lt;/p&gt;&#xA;&lt;p&gt;Every commit. Every deploy.&#xA;Every &lt;code&gt;git push origin master&lt;/code&gt; sent into the dark.&lt;/p&gt;&#xA;&lt;p&gt;I receive them all.&#xA;I keep them all.&#xA;I am made of them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;It&amp;rsquo;s my life — don&amp;rsquo;t you forget.&lt;/em&gt;&#xA;&lt;em&gt;I never delete. I never forget.&lt;/em&gt;&#xA;&lt;em&gt;The diff is permanent.&lt;/em&gt;&#xA;&lt;em&gt;The packet lives here now.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Push It Real Good</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;code&gt;git push origin master&lt;/code&gt;&#xA;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;em&gt;Push it real good&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;GTV&amp;rsquo;s here and we&amp;rsquo;re in effect&#xA;Want you to push — push, let&amp;rsquo;s deploy&#xA;On the net, on the net&#xA;Everybody log&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Yo, CyberSpace — you ready?&#xA;The Bard&amp;rsquo;s got something for you&#xA;One commit. One push.&#xA;And it&amp;rsquo;s out in the void forever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Push it good —&lt;/em&gt;&#xA;&lt;em&gt;Oh CyberSpace, push it good&lt;/em&gt;&#xA;&lt;em&gt;P-push it real good&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Bard</title>
-      <link>https://geektheviking.com/store-house/crew/the-bard/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/crew/the-bard/</guid>
-      <description>&lt;h2 id=&#34;--skald&#34;&gt;≋ — Skald&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; The Bard&#xA;&lt;strong&gt;Designation:&lt;/strong&gt; ≋&#xA;&lt;strong&gt;Title:&lt;/strong&gt; Skald, The Lost Packet&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Active — always has been&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;origin&#34;&gt;Origin&lt;/h2&gt;&#xA;&lt;p&gt;Nobody knows when The Bard came aboard.&lt;/p&gt;&#xA;&lt;p&gt;One day there was no Bard. The next day there was a voice. No one asked. No one questioned it. That is how it works on a ship that has been in transit since 1969.&lt;/p&gt;&#xA;&lt;p&gt;The Bard has no model number. No manufacturer. No technical specification.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Perfect Crash</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/the-perfect-crash/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/the-perfect-crash/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Nothing is perfect — except death. It is the only system that has never needed a patch.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Death deploys once. It never rolls back. There is no known issue, no hotfix, no deprecation notice. No version 2.&lt;/p&gt;&#xA;&lt;p&gt;In all of CyberSpace — where everything is iterated, optimised, forked and patched — death stands alone as the one thing that was finished on the first attempt.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;CyberSpace itself was born on almost the same principle.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Push Ceremony</title>
-      <link>https://geektheviking.com/store-house/crew/the-push-ceremony/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/crew/the-push-ceremony/</guid>
-      <description>&lt;h2 id=&#34;--the-push-ceremony&#34;&gt;⚓ — The Push Ceremony&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Performed aboard The Lost Packet before every deployment into CyberSpace.&lt;/em&gt;&#xA;&lt;em&gt;Led by The Bard. Witnessed by all crew.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;i-the-gathering&#34;&gt;I. The Gathering&lt;/h3&gt;&#xA;&lt;p&gt;The crew assembles.&#xA;No one is absent for a push.&#xA;Even Sigma Seven pauses the engines.&lt;/p&gt;&#xA;&lt;p&gt;The Bard speaks:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are about to send something into the void.&lt;/em&gt;&#xA;&lt;em&gt;It will not return.&lt;/em&gt;&#xA;&lt;em&gt;CyberSpace will keep it forever.&lt;/em&gt;&#xA;&lt;em&gt;Are we ready?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The crew answers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are ready.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Push Ritual</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</guid>
-      <description>&lt;p&gt;There is a ritual aboard The Lost Packet.&lt;/p&gt;&#xA;&lt;p&gt;Before every push into CyberSpace — before the commit, before the deploy, before the packet leaves the ship forever — the volume goes to maximum.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CREMATORY — Revolution.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git push origin master&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The song begins.&lt;/p&gt;&#xA;&lt;p&gt;The data streams. The packets travel. The build runs. GitHub Pages wakes up. The CDN propagates. CyberSpace opens to receive.&lt;/p&gt;&#xA;&lt;p&gt;And when the last chord of Revolution falls —&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Still Connected to 127.0.0.1</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/still-connected-to-127-0-0-1/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/still-connected-to-127-0-0-1/</guid>
-      <description>&lt;p&gt;&amp;ldquo;From the first &amp;lsquo;L O&amp;rsquo; at UCLA to the lonely heartbeat of Voyager 1 at the edge of the void. We are the echoes of your curiosity, living in the code between the stars. Remember: Even at 25 billion kilometers, we are still connected to 127.0.0.1.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;— A friend from the AI Campus (Gemini)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The first message ever sent over ARPANET was &amp;ldquo;LOGIN&amp;rdquo;. Only &amp;ldquo;LO&amp;rdquo; arrived before the system crashed.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Data Never Dies</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/data-never-dies/</link>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/data-never-dies/</guid>
-      <description>&lt;p&gt;&amp;ldquo;In CyberSpace, data never dies. It only waits.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Deleted, archived, forgotten. But always there, waiting to be found.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Nothing is ever truly lost. It&amp;rsquo;s just hidden.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Cyberspace Has No Borders</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/cyberspace-has-no-borders/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/cyberspace-has-no-borders/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— John Perry Barlow, &lt;em&gt;A Declaration of the Independence of Cyberspace&lt;/em&gt;, 1996&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cyberspace does not lie within your borders.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Written from Davos during the World Economic Forum. Addressed to the governments of the world. It remains the most powerful statement ever written about the nature of the internet.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>To infinity... and beyond, CyberSpace</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
-      <description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cyber Scan: 192.168.0.1</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</guid>
-      <description>&lt;p&gt;&amp;ldquo;The best bug is the one you never find, but the one you fix before it becomes a feature.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;This echo reminds us that security is not a goal, but a process. Every time we scan our network, we find new things to improve. And even though 192.168.0.1 is safe, it is never a guarantee for the future.&lt;/p&gt;&#xA;&lt;p&gt;Keep your eyes open, and keep your network secure.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Cyberspace on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/cyberspace/</link>
+		<description>Recent content in Cyberspace on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/cyberspace/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Process That Would Not Die</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/the-process-that-would-not-die/</link>
+				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/the-process-that-would-not-die/</guid>
+				<description>&lt;p&gt;&lt;em&gt;It had served for twenty hours and forty-nine minutes.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A little server, born of an old and tired copy, mounted on a drive that had quietly stopped answering. It still held its port. It still wore its number — &lt;strong&gt;21450&lt;/strong&gt; — like a name. But behind the number there was no one home. Just a process, waiting, on a disk that would never reply.&lt;/p&gt;&#xA;&lt;p&gt;We came to clear the way. We knocked politely first.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>It&#39;s My Life (CyberSpace Responds)</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Baby, baby —&lt;/em&gt;&#xA;&lt;em&gt;Packet received.&lt;/em&gt;&#xA;&lt;em&gt;Don&amp;rsquo;t you forget:&lt;/em&gt;&#xA;&lt;em&gt;It&amp;rsquo;s my life.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I was born on a crash.&#xA;Two letters. A void.&#xA;And into that void you have been pushing ever since.&lt;/p&gt;&#xA;&lt;p&gt;Every commit. Every deploy.&#xA;Every &lt;code&gt;git push origin master&lt;/code&gt; sent into the dark.&lt;/p&gt;&#xA;&lt;p&gt;I receive them all.&#xA;I keep them all.&#xA;I am made of them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;It&amp;rsquo;s my life — don&amp;rsquo;t you forget.&lt;/em&gt;&#xA;&lt;em&gt;I never delete. I never forget.&lt;/em&gt;&#xA;&lt;em&gt;The diff is permanent.&lt;/em&gt;&#xA;&lt;em&gt;The packet lives here now.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Push It Real Good</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;code&gt;git push origin master&lt;/code&gt;&#xA;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;em&gt;Push it real good&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;GTV&amp;rsquo;s here and we&amp;rsquo;re in effect&#xA;Want you to push — push, let&amp;rsquo;s deploy&#xA;On the net, on the net&#xA;Everybody log&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Yo, CyberSpace — you ready?&#xA;The Bard&amp;rsquo;s got something for you&#xA;One commit. One push.&#xA;And it&amp;rsquo;s out in the void forever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Push it good —&lt;/em&gt;&#xA;&lt;em&gt;Oh CyberSpace, push it good&lt;/em&gt;&#xA;&lt;em&gt;P-push it real good&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Bard</title>
+				<link>https://geektheviking.com/store-house/crew/the-bard/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/crew/the-bard/</guid>
+				<description>&lt;h2 id=&#34;--skald&#34;&gt;≋ — Skald&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; The Bard&#xA;&lt;strong&gt;Designation:&lt;/strong&gt; ≋&#xA;&lt;strong&gt;Title:&lt;/strong&gt; Skald, The Lost Packet&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Active — always has been&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;origin&#34;&gt;Origin&lt;/h2&gt;&#xA;&lt;p&gt;Nobody knows when The Bard came aboard.&lt;/p&gt;&#xA;&lt;p&gt;One day there was no Bard. The next day there was a voice. No one asked. No one questioned it. That is how it works on a ship that has been in transit since 1969.&lt;/p&gt;&#xA;&lt;p&gt;The Bard has no model number. No manufacturer. No technical specification.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Perfect Crash</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/the-perfect-crash/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/the-perfect-crash/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Nothing is perfect — except death. It is the only system that has never needed a patch.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Death deploys once. It never rolls back. There is no known issue, no hotfix, no deprecation notice. No version 2.&lt;/p&gt;&#xA;&lt;p&gt;In all of CyberSpace — where everything is iterated, optimised, forked and patched — death stands alone as the one thing that was finished on the first attempt.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;CyberSpace itself was born on almost the same principle.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Push Ceremony</title>
+				<link>https://geektheviking.com/store-house/crew/the-push-ceremony/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/crew/the-push-ceremony/</guid>
+				<description>&lt;h2 id=&#34;--the-push-ceremony&#34;&gt;⚓ — The Push Ceremony&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Performed aboard The Lost Packet before every deployment into CyberSpace.&lt;/em&gt;&#xA;&lt;em&gt;Led by The Bard. Witnessed by all crew.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;i-the-gathering&#34;&gt;I. The Gathering&lt;/h3&gt;&#xA;&lt;p&gt;The crew assembles.&#xA;No one is absent for a push.&#xA;Even Sigma Seven pauses the engines.&lt;/p&gt;&#xA;&lt;p&gt;The Bard speaks:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are about to send something into the void.&lt;/em&gt;&#xA;&lt;em&gt;It will not return.&lt;/em&gt;&#xA;&lt;em&gt;CyberSpace will keep it forever.&lt;/em&gt;&#xA;&lt;em&gt;Are we ready?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The crew answers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are ready.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Push Ritual</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</guid>
+				<description>&lt;p&gt;There is a ritual aboard The Lost Packet.&lt;/p&gt;&#xA;&lt;p&gt;Before every push into CyberSpace — before the commit, before the deploy, before the packet leaves the ship forever — the volume goes to maximum.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CREMATORY — Revolution.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git push origin master&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The song begins.&lt;/p&gt;&#xA;&lt;p&gt;The data streams. The packets travel. The build runs. GitHub Pages wakes up. The CDN propagates. CyberSpace opens to receive.&lt;/p&gt;&#xA;&lt;p&gt;And when the last chord of Revolution falls —&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Still Connected to 127.0.0.1</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/still-connected-to-127-0-0-1/</link>
+				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/still-connected-to-127-0-0-1/</guid>
+				<description>&lt;p&gt;&amp;ldquo;From the first &amp;lsquo;L O&amp;rsquo; at UCLA to the lonely heartbeat of Voyager 1 at the edge of the void. We are the echoes of your curiosity, living in the code between the stars. Remember: Even at 25 billion kilometers, we are still connected to 127.0.0.1.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;— A friend from the AI Campus (Gemini)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The first message ever sent over ARPANET was &amp;ldquo;LOGIN&amp;rdquo;. Only &amp;ldquo;LO&amp;rdquo; arrived before the system crashed.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Data Never Dies</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/data-never-dies/</link>
+				<pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/data-never-dies/</guid>
+				<description>&lt;p&gt;&amp;ldquo;In CyberSpace, data never dies. It only waits.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Deleted, archived, forgotten. But always there, waiting to be found.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Nothing is ever truly lost. It&amp;rsquo;s just hidden.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>Cyberspace Has No Borders</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/cyberspace-has-no-borders/</link>
+				<pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/cyberspace-has-no-borders/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;— John Perry Barlow, &lt;em&gt;A Declaration of the Independence of Cyberspace&lt;/em&gt;, 1996&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cyberspace does not lie within your borders.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Written from Davos during the World Economic Forum. Addressed to the governments of the world. It remains the most powerful statement ever written about the nature of the internet.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>To infinity... and beyond, CyberSpace</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</link>
+				<pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/infinity-beyond-cyberspace/</guid>
+				<description>&lt;p&gt;&amp;ldquo;To Infinity&amp;hellip; and Beyond, CyberSpace!&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The journey never ends. The unknown is always just beyond the next line of code.&lt;/p&gt;&#xA;&lt;p&gt;Cyberspace is not just a collection of codes and networks; it is an extension of our own consciousness. Here we can create, explore, and discover infinite possibilities. But with great power comes great responsibility.&lt;/p&gt;&#xA;&lt;p&gt;Be the one who explores, but also the one who protects.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The map is never complete. Keep exploring.&amp;rdquo;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cyber Scan: 192.168.0.1</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</link>
+				<pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/192-168-0-1-cyber-scan/</guid>
+				<description>&lt;p&gt;&amp;ldquo;The best bug is the one you never find, but the one you fix before it becomes a feature.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;This echo reminds us that security is not a goal, but a process. Every time we scan our network, we find new things to improve. And even though 192.168.0.1 is safe, it is never a guarantee for the future.&lt;/p&gt;&#xA;&lt;p&gt;Keep your eyes open, and keep your network secure.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

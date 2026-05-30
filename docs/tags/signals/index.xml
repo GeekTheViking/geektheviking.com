@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Kernel on Geek The Viking</title>
-		<link>https://geektheviking.com/tags/kernel/</link>
-		<description>Recent content in Kernel on Geek The Viking</description>
+		<title>Signals on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/signals/</link>
+		<description>Recent content in Signals on Geek The Viking</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
@@ -12,20 +12,13 @@
 		
 			<lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://geektheviking.com/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://geektheviking.com/tags/signals/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>SIGKILL — Signal 9</title>
 				<link>https://geektheviking.com/store-house/data-coffer/artifacts/sigkill-signal-9/</link>
 				<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
 				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/sigkill-signal-9/</guid>
 				<description>&lt;p&gt;When Unix was young at Bell Labs in the early 1970s, Ken Thompson and Dennis Ritchie needed a way to tell a process to stop. They gave the kernel a handful of &lt;em&gt;signals&lt;/em&gt; — small interrupts a process could choose to catch, handle, or ignore.&lt;/p&gt;&#xA;&lt;p&gt;Most signals are polite. A program can trap &lt;code&gt;SIGTERM&lt;/code&gt; (15) and clean up first: flush the buffers, close the sockets, say goodbye. That is the civilised way to die.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Linux 0.01: The First Seed</title>
-				<link>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</link>
-				<pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/linux-0-01/</guid>
-				<description>&lt;p&gt;In 1991, Linus Torvalds released Linux 0.01 – a kernel with just 10,239 lines of code. Today, the Linux kernel has over 30 million lines.&lt;/p&gt;&#xA;&lt;p&gt;It started as a hobby. It became the foundation of the internet, Android, and supercomputers.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Every empire begins with a single line of code.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
 			</item>
 	</channel>
 </rss>

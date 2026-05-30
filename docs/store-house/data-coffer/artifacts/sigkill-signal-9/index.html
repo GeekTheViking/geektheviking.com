@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIGKILL — Signal 9 | Geek The Viking</title>
+    <link rel="stylesheet" href="/css/gtv.css">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+
+  
+<nav class="fx-nav">
+  <div class="fx-nav-logo">
+    <a href="/">
+      <img src="/images/geektheviking-32px.png" alt="GTV Mascot" class="fx-nav-mascot">
+    </a>
+    <span class="fx-nav-logo-text">GEEK THE VIKING</span>
+  </div>
+  <ul class="fx-nav-links">      
+    <li><a href="/long-hall/">[Long Hall]</a></li>
+    <li><a href="/cyberspace/">[Cyberspace]</a></li>
+    <li><a href="/longship/">[Longship]</a></li>
+    <li><a href="/store-house/">[Store House]</a></li>
+    <li><a href="/gtv/">[GTV]</a></li>
+  </ul>
+</nav>
+
+
+  <main class="fx-main">
+<article class="artefact-content">
+    <h1>SIGKILL — Signal 9</h1>
+    
+    <p class="subtitle">The signal that cannot be caught, blocked, or ignored — and the one place even it cannot reach.</p>
+    
+    
+    <div class="content">
+        <p>When Unix was young at Bell Labs in the early 1970s, Ken Thompson and Dennis Ritchie needed a way to tell a process to stop. They gave the kernel a handful of <em>signals</em> — small interrupts a process could choose to catch, handle, or ignore.</p>
+<p>Most signals are polite. A program can trap <code>SIGTERM</code> (15) and clean up first: flush the buffers, close the sockets, say goodbye. That is the civilised way to die.</p>
+<p>But the founders left one signal that takes no answer. <strong>Signal 9 — SIGKILL.</strong> It cannot be caught. It cannot be blocked. It cannot be ignored. The process never even hears it coming; the kernel simply removes it from the world.</p>
+<blockquote>
+<p><code>kill -9 21450</code> — and it should be over.</p>
+</blockquote>
+<p>Except for one shadow the founders could not abolish. A process waiting on the kernel itself — disk that will not answer, a network mount that hangs, a FUSE filesystem gone silent — enters <strong>uninterruptible sleep</strong>: state <code>D</code>. There it is deaf to everything, even Signal 9. SIGKILL is queued, patient, lethal — but it cannot fire until the kernel call returns.</p>
+<p>So the unkillable process is not immortal. It is simply <em>waiting</em> — and the only cures are to free what it waits on, or to reboot the machine and end the world it lives in.</p>
+<p>Every sysadmin learns this the hard way, usually at the worst possible moment. <code>kill -9</code> is absolute power. The <code>D</code> state is the reminder that even absolute power must wait its turn.</p>
+
+    </div>
+    
+    <footer>
+        
+        <span class="tag">#unix</span>
+        
+        <span class="tag">#signals</span>
+        
+        <span class="tag">#kernel</span>
+        
+        <span class="tag">#process</span>
+        
+        <span class="tag">#sysadmin</span>
+        
+        <span class="tag">#gtv</span>
+        
+    </footer>
+</article>
+
+  </main>
+
+  <footer class="fx-footer">
+    <p class="fx-footer-text">The R&D Lab · Exploited by Geek The Viking</p>
+    <p class="fx-footer-text">Frea-X Explore · License to Exploit</p>
+    <p class="fx-footer-text">To infinity... and beyond, CyberSpace!</p>
+    <p class="fx-footer-text"><a href="https://github.com/GeekTheViking/frea-x.com" target="_blank">Live Documentation via GitHub</a></p>
+    <p class="fx-footer-easter">
+        <a href="/not-a-page/">The truk — Don't push this button</a>
+    </p>
+</footer>
+
+
+</body>
+</html>
+
