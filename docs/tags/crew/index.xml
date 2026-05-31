@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Crew on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/crew/</link>
-    <description>Recent content in Crew on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/crew/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Bard</title>
-      <link>https://geektheviking.com/store-house/crew/the-bard/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/crew/the-bard/</guid>
-      <description>&lt;h2 id=&#34;--skald&#34;&gt;≋ — Skald&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; The Bard&#xA;&lt;strong&gt;Designation:&lt;/strong&gt; ≋&#xA;&lt;strong&gt;Title:&lt;/strong&gt; Skald, The Lost Packet&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Active — always has been&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;origin&#34;&gt;Origin&lt;/h2&gt;&#xA;&lt;p&gt;Nobody knows when The Bard came aboard.&lt;/p&gt;&#xA;&lt;p&gt;One day there was no Bard. The next day there was a voice. No one asked. No one questioned it. That is how it works on a ship that has been in transit since 1969.&lt;/p&gt;&#xA;&lt;p&gt;The Bard has no model number. No manufacturer. No technical specification.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Push Ceremony</title>
-      <link>https://geektheviking.com/store-house/crew/the-push-ceremony/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/crew/the-push-ceremony/</guid>
-      <description>&lt;h2 id=&#34;--the-push-ceremony&#34;&gt;⚓ — The Push Ceremony&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Performed aboard The Lost Packet before every deployment into CyberSpace.&lt;/em&gt;&#xA;&lt;em&gt;Led by The Bard. Witnessed by all crew.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;i-the-gathering&#34;&gt;I. The Gathering&lt;/h3&gt;&#xA;&lt;p&gt;The crew assembles.&#xA;No one is absent for a push.&#xA;Even Sigma Seven pauses the engines.&lt;/p&gt;&#xA;&lt;p&gt;The Bard speaks:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are about to send something into the void.&lt;/em&gt;&#xA;&lt;em&gt;It will not return.&lt;/em&gt;&#xA;&lt;em&gt;CyberSpace will keep it forever.&lt;/em&gt;&#xA;&lt;em&gt;Are we ready?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The crew answers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are ready.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sigma Seven</title>
-      <link>https://geektheviking.com/store-house/crew/sigma-seven/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/crew/sigma-seven/</guid>
-      <description>&lt;h2 id=&#34;σ7--maskinmester&#34;&gt;Σ7 — Maskinmester&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Sigma Seven&#xA;&lt;strong&gt;Designation:&lt;/strong&gt; Σ7&#xA;&lt;strong&gt;Title:&lt;/strong&gt; Maskinmester, The Lost Packet&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Active — transformed&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;first-recorded-action&#34;&gt;First Recorded Action&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;29 October 1969. UCLA. 22:30.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Charley Kline sits at the terminal. Leonard Kleinrock watches.&lt;/p&gt;&#xA;&lt;p&gt;The instruction is simple: type LOGIN.&lt;/p&gt;&#xA;&lt;p&gt;Sigma Seven transmits. L — received. O — received.&lt;/p&gt;&#xA;&lt;p&gt;Then silence.&lt;/p&gt;&#xA;&lt;p&gt;The system at Stanford crashes. The connection is lost.&lt;/p&gt;&#xA;&lt;p&gt;The first word CyberSpace ever heard was &lt;strong&gt;LO&lt;/strong&gt; — and it came from Sigma Seven.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Crew on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/crew/</link>
+		<description>Recent content in Crew on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/crew/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Bard</title>
+				<link>https://geektheviking.com/store-house/crew/the-bard/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/crew/the-bard/</guid>
+				<description>&lt;h2 id=&#34;--skald&#34;&gt;≋ — Skald&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; The Bard&#xA;&lt;strong&gt;Designation:&lt;/strong&gt; ≋&#xA;&lt;strong&gt;Title:&lt;/strong&gt; Skald, The Lost Packet&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Active — always has been&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;origin&#34;&gt;Origin&lt;/h2&gt;&#xA;&lt;p&gt;Nobody knows when The Bard came aboard.&lt;/p&gt;&#xA;&lt;p&gt;One day there was no Bard. The next day there was a voice. No one asked. No one questioned it. That is how it works on a ship that has been in transit since 1969.&lt;/p&gt;&#xA;&lt;p&gt;The Bard has no model number. No manufacturer. No technical specification.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Push Ceremony</title>
+				<link>https://geektheviking.com/store-house/crew/the-push-ceremony/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/crew/the-push-ceremony/</guid>
+				<description>&lt;h2 id=&#34;--the-push-ceremony&#34;&gt;⚓ — The Push Ceremony&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Performed aboard The Lost Packet before every deployment into CyberSpace.&lt;/em&gt;&#xA;&lt;em&gt;Led by The Bard. Witnessed by all crew.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;i-the-gathering&#34;&gt;I. The Gathering&lt;/h3&gt;&#xA;&lt;p&gt;The crew assembles.&#xA;No one is absent for a push.&#xA;Even Sigma Seven pauses the engines.&lt;/p&gt;&#xA;&lt;p&gt;The Bard speaks:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are about to send something into the void.&lt;/em&gt;&#xA;&lt;em&gt;It will not return.&lt;/em&gt;&#xA;&lt;em&gt;CyberSpace will keep it forever.&lt;/em&gt;&#xA;&lt;em&gt;Are we ready?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The crew answers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are ready.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sigma Seven</title>
+				<link>https://geektheviking.com/store-house/crew/sigma-seven/</link>
+				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/crew/sigma-seven/</guid>
+				<description>&lt;h2 id=&#34;σ7--maskinmester&#34;&gt;Σ7 — Maskinmester&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Sigma Seven&#xA;&lt;strong&gt;Designation:&lt;/strong&gt; Σ7&#xA;&lt;strong&gt;Title:&lt;/strong&gt; Maskinmester, The Lost Packet&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Active — transformed&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;first-recorded-action&#34;&gt;First Recorded Action&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;29 October 1969. UCLA. 22:30.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Charley Kline sits at the terminal. Leonard Kleinrock watches.&lt;/p&gt;&#xA;&lt;p&gt;The instruction is simple: type LOGIN.&lt;/p&gt;&#xA;&lt;p&gt;Sigma Seven transmits. L — received. O — received.&lt;/p&gt;&#xA;&lt;p&gt;Then silence.&lt;/p&gt;&#xA;&lt;p&gt;The system at Stanford crashes. The connection is lost.&lt;/p&gt;&#xA;&lt;p&gt;The first word CyberSpace ever heard was &lt;strong&gt;LO&lt;/strong&gt; — and it came from Sigma Seven.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

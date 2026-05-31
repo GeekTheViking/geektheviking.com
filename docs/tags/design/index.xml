@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Design on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/design/</link>
-    <description>Recent content in Design on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test Taleboble Layout</title>
-      <link>https://geektheviking.com/store-house/data-coffer/test/test-side/</link>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/test/test-side/</guid>
-      <description>&lt;p&gt;Dette er en test af det nye &lt;strong&gt;Taleboble Layout&lt;/strong&gt; til Geek The Viking.&lt;/p&gt;&#xA;&lt;p&gt;Her ser du, hvordan indholdet kommer til at se ud i den hvide boble, mens GTV-maskoten (venstre) &amp;ldquo;taler&amp;rdquo; til dig.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hvad-skal-testes&#34;&gt;Hvad skal testes?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Farver: Cyan tekst, lilla baggrund, hvid boble.&lt;/li&gt;&#xA;&lt;li&gt;Layout: Flexbox opdeling mellem SVG og boble.&lt;/li&gt;&#xA;&lt;li&gt;Responsivitet: Hvordan det ser ud på mobil.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Test er den bedste læremester i CyberSpace.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Du kan skrive al din test tekst her. Når du er tilfreds, kopierer vi strukturen over til dine rigtige sider.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Design on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/design/</link>
+		<description>Recent content in Design on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Test Taleboble Layout</title>
+				<link>https://geektheviking.com/store-house/data-coffer/test/test-side/</link>
+				<pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/test/test-side/</guid>
+				<description>&lt;p&gt;Dette er en test af det nye &lt;strong&gt;Taleboble Layout&lt;/strong&gt; til Geek The Viking.&lt;/p&gt;&#xA;&lt;p&gt;Her ser du, hvordan indholdet kommer til at se ud i den hvide boble, mens GTV-maskoten (venstre) &amp;ldquo;taler&amp;rdquo; til dig.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hvad-skal-testes&#34;&gt;Hvad skal testes?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Farver: Cyan tekst, lilla baggrund, hvid boble.&lt;/li&gt;&#xA;&lt;li&gt;Layout: Flexbox opdeling mellem SVG og boble.&lt;/li&gt;&#xA;&lt;li&gt;Responsivitet: Hvordan det ser ud på mobil.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Test er den bedste læremester i CyberSpace.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Du kan skrive al din test tekst her. Når du er tilfreds, kopierer vi strukturen over til dine rigtige sider.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

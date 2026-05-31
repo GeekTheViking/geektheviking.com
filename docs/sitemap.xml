@@ -4,18 +4,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://geektheviking.com/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/ai/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/cyberspace/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/data-age/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/store-house/data-coffer/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/fuse/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+    <loc>https://geektheviking.com/tags/dates/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/gtv/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/human-centric/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/intelligence-age/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/iso8601/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/store-house/data-coffer/echoes/paper-poured-into-a-computer/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/store-house/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/the-bard/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/the-now/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/time/</loc>
+    <lastmod>2026-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://geektheviking.com/tags/fuse/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/homelab/</loc>
@@ -33,19 +69,10 @@
     <loc>https://geektheviking.com/tags/signals/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/store-house/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://geektheviking.com/tags/sysadmin/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://geektheviking.com/tags/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://geektheviking.com/store-house/data-coffer/echoes/the-process-that-would-not-die/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/the-bard/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/unix/</loc>
@@ -160,9 +187,6 @@
     <lastmod>2026-05-11T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/1969/</loc>
-    <lastmod>2026-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/ai/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/ai-campus/</loc>
@@ -364,9 +388,6 @@
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/gnu/</loc>
-    <lastmod>2024-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://geektheviking.com/tags/human-centric/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://geektheviking.com/tags/law/</loc>

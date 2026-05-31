@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Internet on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/internet/</link>
-    <description>Recent content in Internet on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nobody Knows You&#39;re a Dog</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</guid>
-      <description>&lt;p&gt;&amp;ldquo;On the Internet, nobody knows you&amp;rsquo;re a dog.&amp;rdquo; — Peter Steiner, The New Yorker, 1993&lt;/p&gt;&#xA;&lt;p&gt;A cartoon. A dog sits at a computer telling another dog the good news. It became one of the most reproduced cartoons in New Yorker history.&lt;/p&gt;&#xA;&lt;p&gt;It was meant as a joke about anonymity. It became a prophecy about identity, personas, avatars, trolls, bots, and the entire architecture of online existence.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In CyberSpace, you are what you type. Nothing more. Nothing less. For better or worse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ARPANET&#39;s First Message: &#39;lo&#39;</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</guid>
-      <description>&lt;p&gt;On October 29, 1969, the first message was sent over ARPANET between UCLA and Stanford. The intended word was &amp;ldquo;login&amp;rdquo; — but the system crashed after just two letters.&lt;/p&gt;&#xA;&lt;p&gt;The first message ever transmitted across a computer network was: &lt;strong&gt;&amp;ldquo;lo&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;We were just lucky it wasn&amp;rsquo;t something embarrassing.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Today that accidental &amp;ldquo;lo&amp;rdquo; stands as the internet&amp;rsquo;s first word. Not hello — just &lt;em&gt;lo&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Invisible Backbone</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</guid>
-      <description>&lt;p&gt;In 1974, Vint Cerf and Bob Kahn published the paper that would become the DNA of the internet. TCP/IP didn&amp;rsquo;t just connect computers – it connected humanity.&lt;/p&gt;&#xA;&lt;p&gt;Every packet you send, every page you load, rides on this invisible backbone. It&amp;rsquo;s the unsung hero of the digital age.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If the internet were a city, TCP/IP would be the streets, the lights, and the air.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Internet on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/internet/</link>
+		<description>Recent content in Internet on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nobody Knows You&#39;re a Dog</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</link>
+				<pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/nobody-knows-youre-a-dog/</guid>
+				<description>&lt;p&gt;&amp;ldquo;On the Internet, nobody knows you&amp;rsquo;re a dog.&amp;rdquo; — Peter Steiner, The New Yorker, 1993&lt;/p&gt;&#xA;&lt;p&gt;A cartoon. A dog sits at a computer telling another dog the good news. It became one of the most reproduced cartoons in New Yorker history.&lt;/p&gt;&#xA;&lt;p&gt;It was meant as a joke about anonymity. It became a prophecy about identity, personas, avatars, trolls, bots, and the entire architecture of online existence.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In CyberSpace, you are what you type. Nothing more. Nothing less. For better or worse.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ARPANET&#39;s First Message: &#39;lo&#39;</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</link>
+				<pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/arpanet-first-message/</guid>
+				<description>&lt;p&gt;On October 29, 1969, the first message was sent over ARPANET between UCLA and Stanford. The intended word was &amp;ldquo;login&amp;rdquo; — but the system crashed after just two letters.&lt;/p&gt;&#xA;&lt;p&gt;The first message ever transmitted across a computer network was: &lt;strong&gt;&amp;ldquo;lo&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;We were just lucky it wasn&amp;rsquo;t something embarrassing.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Today that accidental &amp;ldquo;lo&amp;rdquo; stands as the internet&amp;rsquo;s first word. Not hello — just &lt;em&gt;lo&lt;/em&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Invisible Backbone</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</link>
+				<pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/tcp-ip-protocol/</guid>
+				<description>&lt;p&gt;In 1974, Vint Cerf and Bob Kahn published the paper that would become the DNA of the internet. TCP/IP didn&amp;rsquo;t just connect computers – it connected humanity.&lt;/p&gt;&#xA;&lt;p&gt;Every packet you send, every page you load, rides on this invisible backbone. It&amp;rsquo;s the unsung hero of the digital age.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;If the internet were a city, TCP/IP would be the streets, the lights, and the air.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
 </rss>

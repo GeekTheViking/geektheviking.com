@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Wifi on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/wifi/</link>
-    <description>Recent content in Wifi on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The First WiFi Router</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</guid>
-      <description>&lt;p&gt;In 1999, the first 802.11b routers hit the market, offering 11 Mbps wireless speeds. It was slow, but it freed us from cables.&lt;/p&gt;&#xA;&lt;p&gt;Today, WiFi is everywhere. The first router was the spark that lit the wireless revolution.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cables bind us. WiFi sets us free.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Wifi on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/wifi/</link>
+		<description>Recent content in Wifi on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The First WiFi Router</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</link>
+				<pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-wifi-router/</guid>
+				<description>&lt;p&gt;In 1999, the first 802.11b routers hit the market, offering 11 Mbps wireless speeds. It was slow, but it freed us from cables.&lt;/p&gt;&#xA;&lt;p&gt;Today, WiFi is everywhere. The first router was the spark that lit the wireless revolution.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Cables bind us. WiFi sets us free.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Crypto on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/crypto/</link>
-    <description>Recent content in Crypto on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Bitcoin Genesis Block</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</guid>
-      <description>&lt;p&gt;On January 3, 2009, Satoshi Nakamoto mined the first Bitcoin block — Block #0, the Genesis Block. Embedded in its coinbase transaction was a message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A timestamp. A critique. A declaration. The first block of a decentralized financial system was built with a news headline as its foundation stone.&lt;/p&gt;&#xA;&lt;p&gt;Nobody knows who Satoshi is. The coins in the Genesis Block have never moved.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Crypto on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/crypto/</link>
+		<description>Recent content in Crypto on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Bitcoin Genesis Block</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</link>
+				<pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/bitcoin-genesis-block/</guid>
+				<description>&lt;p&gt;On January 3, 2009, Satoshi Nakamoto mined the first Bitcoin block — Block #0, the Genesis Block. Embedded in its coinbase transaction was a message:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The Times 03/Jan/2009 Chancellor on brink of second bailout for banks.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A timestamp. A critique. A declaration. The first block of a decentralized financial system was built with a news headline as its foundation stone.&lt;/p&gt;&#xA;&lt;p&gt;Nobody knows who Satoshi is. The coins in the Genesis Block have never moved.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jobs on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/jobs/</link>
-    <description>Recent content in Jobs on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stay Hungry, Stay Foolish</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/stay-hungry-foolish/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/stay-hungry-foolish/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Stay hungry, stay foolish.&amp;rdquo; – Steve Jobs, 2005.&lt;/p&gt;&#xA;&lt;p&gt;A reminder that comfort is the enemy of growth. The best discoveries happen when you&amp;rsquo;re willing to look foolish.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future belongs to the curious, not the comfortable.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Jobs on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/jobs/</link>
+		<description>Recent content in Jobs on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Stay Hungry, Stay Foolish</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/stay-hungry-foolish/</link>
+				<pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/stay-hungry-foolish/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Stay hungry, stay foolish.&amp;rdquo; – Steve Jobs, 2005.&lt;/p&gt;&#xA;&lt;p&gt;A reminder that comfort is the enemy of growth. The best discoveries happen when you&amp;rsquo;re willing to look foolish.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The future belongs to the curious, not the comfortable.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
 </rss>

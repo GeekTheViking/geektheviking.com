@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Programming on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/programming/</link>
-    <description>Recent content in Programming on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The First Compiler</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</guid>
-      <description>&lt;p&gt;In 1952, Grace Hopper created the first compiler, A-0. It translated English-like code into machine language.&lt;/p&gt;&#xA;&lt;p&gt;Before that, programmers wrote in pure binary. The compiler made programming accessible to humans.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Grace Hopper didn&amp;rsquo;t just write code. She made code speak human.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Programming on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/programming/</link>
+		<description>Recent content in Programming on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The First Compiler</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</link>
+				<pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/first-compiler/</guid>
+				<description>&lt;p&gt;In 1952, Grace Hopper created the first compiler, A-0. It translated English-like code into machine language.&lt;/p&gt;&#xA;&lt;p&gt;Before that, programmers wrote in pure binary. The compiler made programming accessible to humans.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Grace Hopper didn&amp;rsquo;t just write code. She made code speak human.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
 </rss>

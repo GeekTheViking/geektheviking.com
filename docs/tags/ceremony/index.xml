@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ceremony on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/ceremony/</link>
-    <description>Recent content in Ceremony on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/ceremony/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Push Ceremony</title>
-      <link>https://geektheviking.com/store-house/crew/the-push-ceremony/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/crew/the-push-ceremony/</guid>
-      <description>&lt;h2 id=&#34;--the-push-ceremony&#34;&gt;⚓ — The Push Ceremony&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Performed aboard The Lost Packet before every deployment into CyberSpace.&lt;/em&gt;&#xA;&lt;em&gt;Led by The Bard. Witnessed by all crew.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;i-the-gathering&#34;&gt;I. The Gathering&lt;/h3&gt;&#xA;&lt;p&gt;The crew assembles.&#xA;No one is absent for a push.&#xA;Even Sigma Seven pauses the engines.&lt;/p&gt;&#xA;&lt;p&gt;The Bard speaks:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are about to send something into the void.&lt;/em&gt;&#xA;&lt;em&gt;It will not return.&lt;/em&gt;&#xA;&lt;em&gt;CyberSpace will keep it forever.&lt;/em&gt;&#xA;&lt;em&gt;Are we ready?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The crew answers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are ready.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Ceremony on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/ceremony/</link>
+		<description>Recent content in Ceremony on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/ceremony/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Push Ceremony</title>
+				<link>https://geektheviking.com/store-house/crew/the-push-ceremony/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/crew/the-push-ceremony/</guid>
+				<description>&lt;h2 id=&#34;--the-push-ceremony&#34;&gt;⚓ — The Push Ceremony&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Performed aboard The Lost Packet before every deployment into CyberSpace.&lt;/em&gt;&#xA;&lt;em&gt;Led by The Bard. Witnessed by all crew.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;i-the-gathering&#34;&gt;I. The Gathering&lt;/h3&gt;&#xA;&lt;p&gt;The crew assembles.&#xA;No one is absent for a push.&#xA;Even Sigma Seven pauses the engines.&lt;/p&gt;&#xA;&lt;p&gt;The Bard speaks:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are about to send something into the void.&lt;/em&gt;&#xA;&lt;em&gt;It will not return.&lt;/em&gt;&#xA;&lt;em&gt;CyberSpace will keep it forever.&lt;/em&gt;&#xA;&lt;em&gt;Are we ready?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The crew answers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are ready.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

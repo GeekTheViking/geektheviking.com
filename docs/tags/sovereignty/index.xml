@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sovereignty on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/sovereignty/</link>
-    <description>Recent content in Sovereignty on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 08:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/sovereignty/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ThePostBox Stack — Why These Tools</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</link>
-      <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</guid>
-      <description>&lt;p&gt;Building a privacy-first European digital address means every tool in the stack must earn its place. Here is why we chose what we chose — and what we rejected.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — not WordPress, not Ghost, not Webflow.&lt;br&gt;&#xA;Static. No database. No PHP. No attack surface. Version-controlled. Deployable anywhere. The site &lt;em&gt;is&lt;/em&gt; the repository.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Seafile&lt;/strong&gt; — not Nextcloud, not ownCloud, not Syncthing.&lt;br&gt;&#xA;Faster sync protocol. Lighter footprint. Purpose-built for files. Nextcloud tries to be everything — Seafile does one thing well. ownCloud is Nextcloud&amp;rsquo;s slower cousin.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Sovereignty on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/sovereignty/</link>
+		<description>Recent content in Sovereignty on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 11 May 2026 08:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/sovereignty/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ThePostBox Stack — Why These Tools</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</link>
+				<pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/thepostbox-stack-why/</guid>
+				<description>&lt;p&gt;Building a privacy-first European digital address means every tool in the stack must earn its place. Here is why we chose what we chose — and what we rejected.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — not WordPress, not Ghost, not Webflow.&lt;br&gt;&#xA;Static. No database. No PHP. No attack surface. Version-controlled. Deployable anywhere. The site &lt;em&gt;is&lt;/em&gt; the repository.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Seafile&lt;/strong&gt; — not Nextcloud, not ownCloud, not Syncthing.&lt;br&gt;&#xA;Faster sync protocol. Lighter footprint. Purpose-built for files. Nextcloud tries to be everything — Seafile does one thing well. ownCloud is Nextcloud&amp;rsquo;s slower cousin.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

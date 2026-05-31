@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Raspberry-Pi on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/raspberry-pi/</link>
-    <description>Recent content in Raspberry-Pi on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Raspberry Pi</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/raspberry-pi/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/raspberry-pi/</guid>
-      <description>&lt;p&gt;In 2012, the Raspberry Pi Foundation released a credit-card-sized computer for $35.&lt;/p&gt;&#xA;&lt;p&gt;The goal was simple: give children a real computer to learn programming on. What happened was bigger.&lt;/p&gt;&#xA;&lt;p&gt;Makers, hackers, sysadmins, schools, artists and engineers around the world grabbed it. Pi-hole. RetroPie. Home automation. Media servers. Weather stations. Cluster computing. The Raspberry Pi became the Swiss Army knife of the digital age.&lt;/p&gt;&#xA;&lt;p&gt;It consumes 5 watts. A standard desktop PC uses 100–300 watts.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Raspberry-Pi on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/raspberry-pi/</link>
+		<description>Recent content in Raspberry-Pi on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Raspberry Pi</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/raspberry-pi/</link>
+				<pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/raspberry-pi/</guid>
+				<description>&lt;p&gt;In 2012, the Raspberry Pi Foundation released a credit-card-sized computer for $35.&lt;/p&gt;&#xA;&lt;p&gt;The goal was simple: give children a real computer to learn programming on. What happened was bigger.&lt;/p&gt;&#xA;&lt;p&gt;Makers, hackers, sysadmins, schools, artists and engineers around the world grabbed it. Pi-hole. RetroPie. Home automation. Media servers. Weather stations. Cluster computing. The Raspberry Pi became the Swiss Army knife of the digital age.&lt;/p&gt;&#xA;&lt;p&gt;It consumes 5 watts. A standard desktop PC uses 100–300 watts.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

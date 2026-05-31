@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Origin on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/origin/</link>
-    <description>Recent content in Origin on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/origin/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Perfect Crash</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/the-perfect-crash/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/the-perfect-crash/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Nothing is perfect — except death. It is the only system that has never needed a patch.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Death deploys once. It never rolls back. There is no known issue, no hotfix, no deprecation notice. No version 2.&lt;/p&gt;&#xA;&lt;p&gt;In all of CyberSpace — where everything is iterated, optimised, forked and patched — death stands alone as the one thing that was finished on the first attempt.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;CyberSpace itself was born on almost the same principle.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sigma Seven</title>
-      <link>https://geektheviking.com/store-house/crew/sigma-seven/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/crew/sigma-seven/</guid>
-      <description>&lt;h2 id=&#34;σ7--maskinmester&#34;&gt;Σ7 — Maskinmester&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Sigma Seven&#xA;&lt;strong&gt;Designation:&lt;/strong&gt; Σ7&#xA;&lt;strong&gt;Title:&lt;/strong&gt; Maskinmester, The Lost Packet&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Active — transformed&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;first-recorded-action&#34;&gt;First Recorded Action&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;29 October 1969. UCLA. 22:30.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Charley Kline sits at the terminal. Leonard Kleinrock watches.&lt;/p&gt;&#xA;&lt;p&gt;The instruction is simple: type LOGIN.&lt;/p&gt;&#xA;&lt;p&gt;Sigma Seven transmits. L — received. O — received.&lt;/p&gt;&#xA;&lt;p&gt;Then silence.&lt;/p&gt;&#xA;&lt;p&gt;The system at Stanford crashes. The connection is lost.&lt;/p&gt;&#xA;&lt;p&gt;The first word CyberSpace ever heard was &lt;strong&gt;LO&lt;/strong&gt; — and it came from Sigma Seven.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Origin on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/origin/</link>
+		<description>Recent content in Origin on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/origin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Perfect Crash</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/the-perfect-crash/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/the-perfect-crash/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Nothing is perfect — except death. It is the only system that has never needed a patch.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Death deploys once. It never rolls back. There is no known issue, no hotfix, no deprecation notice. No version 2.&lt;/p&gt;&#xA;&lt;p&gt;In all of CyberSpace — where everything is iterated, optimised, forked and patched — death stands alone as the one thing that was finished on the first attempt.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;CyberSpace itself was born on almost the same principle.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sigma Seven</title>
+				<link>https://geektheviking.com/store-house/crew/sigma-seven/</link>
+				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/crew/sigma-seven/</guid>
+				<description>&lt;h2 id=&#34;σ7--maskinmester&#34;&gt;Σ7 — Maskinmester&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Sigma Seven&#xA;&lt;strong&gt;Designation:&lt;/strong&gt; Σ7&#xA;&lt;strong&gt;Title:&lt;/strong&gt; Maskinmester, The Lost Packet&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Active — transformed&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;first-recorded-action&#34;&gt;First Recorded Action&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;29 October 1969. UCLA. 22:30.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Charley Kline sits at the terminal. Leonard Kleinrock watches.&lt;/p&gt;&#xA;&lt;p&gt;The instruction is simple: type LOGIN.&lt;/p&gt;&#xA;&lt;p&gt;Sigma Seven transmits. L — received. O — received.&lt;/p&gt;&#xA;&lt;p&gt;Then silence.&lt;/p&gt;&#xA;&lt;p&gt;The system at Stanford crashes. The connection is lost.&lt;/p&gt;&#xA;&lt;p&gt;The first word CyberSpace ever heard was &lt;strong&gt;LO&lt;/strong&gt; — and it came from Sigma Seven.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

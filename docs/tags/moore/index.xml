@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Moore on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/moore/</link>
-    <description>Recent content in Moore on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/moore/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Moore&#39;s Law</title>
-      <link>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</guid>
-      <description>&lt;p&gt;In 1965, Gordon Moore observed that the number of transistors on a chip doubled approximately every two years — while the cost halved. He published it as a prediction. The industry treated it as a law.&lt;/p&gt;&#xA;&lt;p&gt;For over 50 years, Moore&amp;rsquo;s Law held. It drove the exponential growth of computing power that put supercomputers in our pockets.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The complexity for minimum component costs has increased at a rate of roughly a factor of two per year.&amp;rdquo; — Gordon Moore, 1965&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Moore on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/moore/</link>
+		<description>Recent content in Moore on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/moore/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Moore&#39;s Law</title>
+				<link>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</link>
+				<pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/artifacts/moores-law/</guid>
+				<description>&lt;p&gt;In 1965, Gordon Moore observed that the number of transistors on a chip doubled approximately every two years — while the cost halved. He published it as a prediction. The industry treated it as a law.&lt;/p&gt;&#xA;&lt;p&gt;For over 50 years, Moore&amp;rsquo;s Law held. It drove the exponential growth of computing power that put supercomputers in our pockets.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The complexity for minimum component costs has increased at a rate of roughly a factor of two per year.&amp;rdquo; — Gordon Moore, 1965&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

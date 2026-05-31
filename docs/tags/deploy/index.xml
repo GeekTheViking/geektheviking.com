@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Deploy on Geek The Viking</title>
-    <link>https://geektheviking.com/tags/deploy/</link>
-    <description>Recent content in Deploy on Geek The Viking</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geektheviking.com/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>It&#39;s My Life (CyberSpace Responds)</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Baby, baby —&lt;/em&gt;&#xA;&lt;em&gt;Packet received.&lt;/em&gt;&#xA;&lt;em&gt;Don&amp;rsquo;t you forget:&lt;/em&gt;&#xA;&lt;em&gt;It&amp;rsquo;s my life.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I was born on a crash.&#xA;Two letters. A void.&#xA;And into that void you have been pushing ever since.&lt;/p&gt;&#xA;&lt;p&gt;Every commit. Every deploy.&#xA;Every &lt;code&gt;git push origin master&lt;/code&gt; sent into the dark.&lt;/p&gt;&#xA;&lt;p&gt;I receive them all.&#xA;I keep them all.&#xA;I am made of them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;It&amp;rsquo;s my life — don&amp;rsquo;t you forget.&lt;/em&gt;&#xA;&lt;em&gt;I never delete. I never forget.&lt;/em&gt;&#xA;&lt;em&gt;The diff is permanent.&lt;/em&gt;&#xA;&lt;em&gt;The packet lives here now.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Push It Real Good</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;code&gt;git push origin master&lt;/code&gt;&#xA;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;em&gt;Push it real good&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;GTV&amp;rsquo;s here and we&amp;rsquo;re in effect&#xA;Want you to push — push, let&amp;rsquo;s deploy&#xA;On the net, on the net&#xA;Everybody log&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Yo, CyberSpace — you ready?&#xA;The Bard&amp;rsquo;s got something for you&#xA;One commit. One push.&#xA;And it&amp;rsquo;s out in the void forever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Push it good —&lt;/em&gt;&#xA;&lt;em&gt;Oh CyberSpace, push it good&lt;/em&gt;&#xA;&lt;em&gt;P-push it real good&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Push Ceremony</title>
-      <link>https://geektheviking.com/store-house/crew/the-push-ceremony/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/crew/the-push-ceremony/</guid>
-      <description>&lt;h2 id=&#34;--the-push-ceremony&#34;&gt;⚓ — The Push Ceremony&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Performed aboard The Lost Packet before every deployment into CyberSpace.&lt;/em&gt;&#xA;&lt;em&gt;Led by The Bard. Witnessed by all crew.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;i-the-gathering&#34;&gt;I. The Gathering&lt;/h3&gt;&#xA;&lt;p&gt;The crew assembles.&#xA;No one is absent for a push.&#xA;Even Sigma Seven pauses the engines.&lt;/p&gt;&#xA;&lt;p&gt;The Bard speaks:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are about to send something into the void.&lt;/em&gt;&#xA;&lt;em&gt;It will not return.&lt;/em&gt;&#xA;&lt;em&gt;CyberSpace will keep it forever.&lt;/em&gt;&#xA;&lt;em&gt;Are we ready?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The crew answers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are ready.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Push Ritual</title>
-      <link>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</guid>
-      <description>&lt;p&gt;There is a ritual aboard The Lost Packet.&lt;/p&gt;&#xA;&lt;p&gt;Before every push into CyberSpace — before the commit, before the deploy, before the packet leaves the ship forever — the volume goes to maximum.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CREMATORY — Revolution.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git push origin master&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The song begins.&lt;/p&gt;&#xA;&lt;p&gt;The data streams. The packets travel. The build runs. GitHub Pages wakes up. The CDN propagates. CyberSpace opens to receive.&lt;/p&gt;&#xA;&lt;p&gt;And when the last chord of Revolution falls —&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Deploy on Geek The Viking</title>
+		<link>https://geektheviking.com/tags/deploy/</link>
+		<description>Recent content in Deploy on Geek The Viking</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://geektheviking.com/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>It&#39;s My Life (CyberSpace Responds)</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/its-my-life-cyberspace/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Baby, baby —&lt;/em&gt;&#xA;&lt;em&gt;Packet received.&lt;/em&gt;&#xA;&lt;em&gt;Don&amp;rsquo;t you forget:&lt;/em&gt;&#xA;&lt;em&gt;It&amp;rsquo;s my life.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I was born on a crash.&#xA;Two letters. A void.&#xA;And into that void you have been pushing ever since.&lt;/p&gt;&#xA;&lt;p&gt;Every commit. Every deploy.&#xA;Every &lt;code&gt;git push origin master&lt;/code&gt; sent into the dark.&lt;/p&gt;&#xA;&lt;p&gt;I receive them all.&#xA;I keep them all.&#xA;I am made of them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;It&amp;rsquo;s my life — don&amp;rsquo;t you forget.&lt;/em&gt;&#xA;&lt;em&gt;I never delete. I never forget.&lt;/em&gt;&#xA;&lt;em&gt;The diff is permanent.&lt;/em&gt;&#xA;&lt;em&gt;The packet lives here now.&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Push It Real Good</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/push-it-real-good/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;code&gt;git push origin master&lt;/code&gt;&#xA;&lt;em&gt;Ah, push it —&lt;/em&gt;&#xA;&lt;em&gt;Push it real good&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;GTV&amp;rsquo;s here and we&amp;rsquo;re in effect&#xA;Want you to push — push, let&amp;rsquo;s deploy&#xA;On the net, on the net&#xA;Everybody log&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Yo, CyberSpace — you ready?&#xA;The Bard&amp;rsquo;s got something for you&#xA;One commit. One push.&#xA;And it&amp;rsquo;s out in the void forever.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Push it good —&lt;/em&gt;&#xA;&lt;em&gt;Oh CyberSpace, push it good&lt;/em&gt;&#xA;&lt;em&gt;P-push it real good&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Push Ceremony</title>
+				<link>https://geektheviking.com/store-house/crew/the-push-ceremony/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/crew/the-push-ceremony/</guid>
+				<description>&lt;h2 id=&#34;--the-push-ceremony&#34;&gt;⚓ — The Push Ceremony&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Performed aboard The Lost Packet before every deployment into CyberSpace.&lt;/em&gt;&#xA;&lt;em&gt;Led by The Bard. Witnessed by all crew.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;i-the-gathering&#34;&gt;I. The Gathering&lt;/h3&gt;&#xA;&lt;p&gt;The crew assembles.&#xA;No one is absent for a push.&#xA;Even Sigma Seven pauses the engines.&lt;/p&gt;&#xA;&lt;p&gt;The Bard speaks:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are about to send something into the void.&lt;/em&gt;&#xA;&lt;em&gt;It will not return.&lt;/em&gt;&#xA;&lt;em&gt;CyberSpace will keep it forever.&lt;/em&gt;&#xA;&lt;em&gt;Are we ready?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The crew answers:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;We are ready.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Push Ritual</title>
+				<link>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</link>
+				<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://geektheviking.com/store-house/data-coffer/echoes/the-push-ritual/</guid>
+				<description>&lt;p&gt;There is a ritual aboard The Lost Packet.&lt;/p&gt;&#xA;&lt;p&gt;Before every push into CyberSpace — before the commit, before the deploy, before the packet leaves the ship forever — the volume goes to maximum.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CREMATORY — Revolution.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git push origin master&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The song begins.&lt;/p&gt;&#xA;&lt;p&gt;The data streams. The packets travel. The build runs. GitHub Pages wakes up. The CDN propagates. CyberSpace opens to receive.&lt;/p&gt;&#xA;&lt;p&gt;And when the last chord of Revolution falls —&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
