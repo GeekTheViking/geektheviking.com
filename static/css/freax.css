@@ -1,0 +1,412 @@
+/* 
+  ===================================================================
+  geektheviking.com | GEEK THE VIKING - CORE STYLES
+  ===================================================================
+  Version: vCoffe Cup No 1
+  Theme: "License to Exploit"
+  
+  COLOR PALETTE:
+  - Primary Background: #4a1862 (Lilla)
+  - Primary Accent: #00ffcc (Cyan) - Used for main identity, links, glows
+  - Secondary Accent: #ffffff (Hvid) - Used for body text, high contrast
+  - Text Secondary: #4a1862 (Lilla) - Used for sub-headers, tags (on light bg)
+  - Text Warning: #ff0055 (Rød) - For errors or "Do Not Touch"
+  
+  DESIGN PHILOSOPHY:
+  - Clean hierarchy: Brand > Subtitle > Content
+  - No "Brand OpenSov": Every class has a specific semantic purpose.
+  - Accessibility: High contrast between text and background.
+  ===================================================================
+*/
+
+:root {
+  /* Color Constants for easy maintenance */
+  --bg-primary: #4a1862;
+  --accent-cyan: #00ffcc;
+  --text-white: #ffffff;
+  --text-lilla: #4a1862; /* Only for specific text on light bg */
+  --text-glow: rgba(0, 255, 204, 0.6);
+  --text-shadow-strong: 0 0 10px rgba(0, 255, 204, 0.8);
+  --font-main: 'Courier New', Courier, monospace; /* Tech/Hacker vibe */
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-white);
+  font-family: var(--font-main);
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* 
+  NAVIGATION
+  Clear separation from main content.
+*/
+.fx-nav {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid var(--accent-cyan);
+}
+
+.fx-nav-logo {
+  font-weight: bold;
+  color: var(--accent-cyan);
+  text-shadow: 0 0 5px var(--text-glow);
+}
+
+.fx-nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+.fx-nav-links a {
+  color: var(--text-white);
+  text-decoration: none;
+  transition: color 0.3s, text-shadow 0.3s;
+}
+
+.fx-nav-links a:hover {
+  color: var(--accent-cyan);
+  text-shadow: 0 0 8px var(--text-glow);
+}
+
+/* 
+  HERO SECTION: The "GEEK THE VIKING" Brand
+  Hierarchy: 
+  1. fx-brand (H1) -> Cypher Cyan (Main Identity)
+  2. fx-subtitle (P) -> Lilla (Tagline, lower hierarchy)
+  3. fx-quote (P) -> Cyan (Philosophy)
+*/
+.fx-hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.fx-mascot {
+  margin-bottom: 1.5rem;
+}
+
+.fx-logo {
+  width: 120px;
+  height: auto;
+  filter: drop-shadow(0 0 15px var(--accent-cyan));
+  transition: transform 0.3s ease;
+}
+
+.fx-logo:hover {
+  transform: scale(1.05);
+}
+
+/* 
+  FX-BRAND: "GEEK THE VIKING"
+  The most important text on the page.
+  Color: Cyan (#00ffcc)
+  Effect: Strong Glow
+*/
+.fx-brand {
+  margin: 0;
+  line-height: 1.2;
+}
+
+.fx-brand-text {
+  display: block;
+  font-size: 3rem;
+  font-weight: 900;
+  color: var(--accent-cyan);
+  text-shadow: var(--text-shadow-strong);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/* 
+  FX-SUBTITLE: "LICENSE TO EXPLOIT" & Quotes
+  Secondary text.
+  Color: Lilla (#4a1862) - but wait! On Lilla bg, we need contrast.
+  SOLUTION: Use Cyan or White for readability, or a lighter Lilla.
+  DECISION: Using Cyan for consistency with "GEEK THE VIKING" but slightly smaller.
+  IF you want Lilla text, it MUST be on a WHITE/LIGHT background.
+  HERE: We use Cyan to match the brand identity.
+*/
+.fx-subtitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent-cyan); /* Ensuring readability */
+  text-shadow: 0 0 5px var(--text-glow);
+  letter-spacing: 3px;
+  margin: 0.5rem 0;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+/* 
+  FX-QUOTE: Philosophical quotes
+  Style: Italic, Cyan, Glowing
+*/
+.fx-quote {
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--accent-cyan);
+  text-shadow: 0 0 6px var(--text-glow);
+  margin: 1.5rem 0;
+  border-left: 3px solid var(--accent-cyan);
+  padding-left: 1rem;
+}
+
+/* 
+  SECTION HEADERS
+  Clear separation with horizontal rules.
+*/
+.fx-hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--accent-cyan), transparent);
+  margin: 2rem 0;
+}
+
+.fx-section-title {
+  color: var(--text-white);
+  font-size: 1.8rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* 
+  PROJECT CARDS
+  Clean cards for projects (Postbox, Frankenstein)
+*/
+.fx-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+/* ... (Fortsat fra forrige del) */
+
+/* 
+  PROJECT CARDS (Fortsat)
+  Hover effekt: Card løfter sig, og rammen lyser op.
+*/
+.fx-card {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--accent-cyan);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.fx-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 255, 204, 0.15);
+  border-color: var(--accent-cyan);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.fx-card-title {
+  color: var(--accent-cyan);
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-shadow: 0 0 5px rgba(0, 255, 204, 0.5);
+}
+
+.fx-card-desc {
+  color: var(--text-white);
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  opacity: 0.9;
+}
+
+.fx-btn {
+  display: inline-block;
+  color: var(--accent-cyan);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.9rem;
+  border: 1px solid var(--accent-cyan);
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.fx-btn:hover {
+  background: var(--accent-cyan);
+  color: var(--bg-primary);
+  box-shadow: 0 0 10px var(--text-glow);
+}
+
+/* 
+  PRINCIPLES / TAGS SECTION
+  "GTV Cloud Hacker Protocol"
+  Tags skal have en anden stil end almindelig tekst.
+*/
+.fx-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.fx-tag {
+  background: rgba(0, 255, 204, 0.1);
+  color: var(--accent-cyan);
+  border: 1px solid var(--accent-cyan);
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+  cursor: default;
+}
+
+.fx-tag:hover {
+  background: var(--accent-cyan);
+  color: var(--bg-primary);
+  box-shadow: 0 0 8px var(--text-glow);
+  transform: scale(1.05);
+}
+
+/* 
+  THE GAP SECTION
+  Tekstforklaring med fokus på læsbarhed.
+*/
+.fx-gap {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.fx-gap p {
+  font-size: 1.1rem;
+  color: var(--text-white);
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+.fx-gap strong {
+  color: var(--accent-cyan);
+  text-shadow: 0 0 5px var(--text-glow);
+  font-weight: 800;
+}
+
+.fx-gap em {
+  color: var(--accent-cyan);
+  font-style: italic;
+}
+
+/* 
+  CONTROL TAG
+  "Geek The Viking" i bunden som en "system status"
+*/
+.fx-control-tag {
+  text-align: center;
+  color: var(--accent-cyan);
+  font-family: 'Courier New', monospace;
+  font-size: 0.8rem;
+  letter-spacing: 2px;
+  margin-top: 2rem;
+  opacity: 0.7;
+  border-top: 1px dashed var(--accent-cyan);
+  padding-top: 1rem;
+}
+
+/* 
+  FOOTER
+  Standard info + Easter Egg link
+*/
+.fx-footer {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 2rem 1rem;
+  text-align: center;
+  border-top: 2px solid var(--accent-cyan);
+  margin-top: 3rem;
+}
+
+.fx-footer-text {
+  color: var(--text-white);
+  font-size: 0.9rem;
+  margin: 0.3rem 0;
+  opacity: 0.8;
+}
+
+.fx-footer a {
+  color: var(--accent-cyan);
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.fx-footer a:hover {
+  color: #fff;
+  text-shadow: 0 0 5px var(--text-glow);
+}
+
+.fx-easter {
+  margin-top: 1.5rem;
+  font-size: 0.8rem;
+  color: var(--accent-cyan);
+  opacity: 0.6;
+}
+
+/* 
+  RESPONSIVE DESIGN
+  Sikrer at alt fungerer på mobil og tablet
+*/
+@media (max-width: 768px) {
+  .fx-nav {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .fx-nav-links {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.5rem;
+  }
+  
+  .fx-brand-text {
+    font-size: 2rem;
+  }
+  
+  .fx-card {
+    margin: 0 1rem;
+  }
+  
+  .fx-tags {
+    justify-content: flex-start;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 0.5rem;
+  }
+}
+
+/* 
+  UTILITIES
+  Helper klasser hvis nødvendigt
+*/
+.text-cyan { color: var(--accent-cyan); }
+.text-white { color: var(--text-white); }
+.text-lilla { color: var(--text-lilla); }
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
